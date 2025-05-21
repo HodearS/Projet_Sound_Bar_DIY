@@ -1,0 +1,440 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "bf9cc67f-178f-4c8c-b6a6-249a1896d599")
+	(paper "A3")
+	(title_block
+		(title "Amplificateur Audio (Base Saine)")
+		(date "2025-05-19")
+		(rev "1.0")
+		(company "NDG")
+	)
+	(lib_symbols)
+	(sheet
+		(at 40.64 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "217a2d94-4661-419a-8848-f82c573ccf51")
+		(property "Sheetname" "Clock_Drivers"
+			(at 40.64 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Clock_Drivers.kicad_sch"
+			(at 40.64 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 70.485 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2266f535-6438-4aa9-912a-4ebf19d1b357")
+		(property "Sheetname" "Surrond_Channel"
+			(at 70.485 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Surrond_Channel.kicad_sch"
+			(at 70.485 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.815 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7a445999-a030-4ec8-8810-54be223b32bd")
+		(property "Sheetname" "Front_Left_Channel"
+			(at 170.815 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Front_Left_Channel.kicad_sch"
+			(at 170.815 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 276.225 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9144ad36-2254-45c5-9c7e-6359ef38a028")
+		(property "Sheetname" "Power_Supplies"
+			(at 276.225 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Supplies.kicad_sch"
+			(at 276.225 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 309.245 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a1c822be-ef8e-4633-a487-fe5099c066f7")
+		(property "Sheetname" "Analog_Io_Board"
+			(at 309.245 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Analog_Io_Board.kicad_sch"
+			(at 309.245 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c036bfb0-bbd6-4b06-9ac2-4fee91403ada")
+		(property "Sheetname" "Center_Channel"
+			(at 207.01 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Center_Channel.kicad_sch"
+			(at 207.01 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 240.03 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c3eeb04c-3089-42ef-a9c1-68f6f54d6f1b")
+		(property "Sheetname" "Subwoofer_Channel"
+			(at 240.03 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Subwoofer_Channel.kicad_sch"
+			(at 240.03 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 103.505 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c4f15db9-a029-4371-8acc-cdaa6fd1dc1d")
+		(property "Sheetname" "Up_Channel"
+			(at 103.505 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Up_Channel.kicad_sch"
+			(at 103.505 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.715 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cf8131f5-674c-4a4a-95bd-85b86419f228")
+		(property "Sheetname" "Front_Right_Channel"
+			(at 132.715 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Front_Right_Channel.kicad_sch"
+			(at 132.715 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 27.305)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4")
+		(property "Sheetname" "MSP43_IO"
+			(at 13.97 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MSP54_IO.kicad_sch"
+			(at 13.97 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,10 @@
+# Fichiers temporaires KiCad
+*.bak
+*.tmp
+*.log
+*.net
+*.dcm
+*.cache
+*.pro
+*.bck
+*.kicad_pcb-bak

@@ -1,0 +1,2114 @@
+{
+  "board": {
+    "3dviewports": [],
+    "design_settings": {
+      "defaults": {},
+      "diff_pair_dimensions": [],
+      "drc_exclusions": [],
+      "rules": {},
+      "track_widths": [],
+      "via_dimensions": []
+    },
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
+    },
+    "layer_pairs": [],
+    "layer_presets": [],
+    "viewports": []
+  },
+  "boards": [],
+  "cvpcb": {
+    "equivalence_files": []
+  },
+  "erc": {
+    "erc_exclusions": [],
+    "meta": {
+      "version": 0
+    },
+    "pin_map": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        2,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    "rule_severities": {
+      "bus_definition_conflict": "error",
+      "bus_entry_needed": "error",
+      "bus_to_bus_conflict": "error",
+      "bus_to_net_conflict": "error",
+      "different_unit_footprint": "error",
+      "different_unit_net": "error",
+      "duplicate_reference": "error",
+      "duplicate_sheet_names": "error",
+      "endpoint_off_grid": "warning",
+      "extra_units": "error",
+      "footprint_filter": "ignore",
+      "footprint_link_issues": "warning",
+      "four_way_junction": "ignore",
+      "global_label_dangling": "warning",
+      "hier_label_mismatch": "error",
+      "label_dangling": "error",
+      "label_multiple_wires": "warning",
+      "lib_symbol_issues": "warning",
+      "lib_symbol_mismatch": "warning",
+      "missing_bidi_pin": "warning",
+      "missing_input_pin": "warning",
+      "missing_power_pin": "error",
+      "missing_unit": "warning",
+      "multiple_net_names": "warning",
+      "net_not_bus_member": "warning",
+      "no_connect_connected": "warning",
+      "no_connect_dangling": "warning",
+      "pin_not_connected": "error",
+      "pin_not_driven": "error",
+      "pin_to_pin": "error",
+      "power_pin_not_driven": "error",
+      "same_local_global_label": "warning",
+      "similar_label_and_power": "warning",
+      "similar_labels": "warning",
+      "similar_power": "warning",
+      "simulation_model_issue": "ignore",
+      "single_global_label": "ignore",
+      "unannotated": "error",
+      "unconnected_wire_endpoint": "warning",
+      "unit_value_mismatch": "error",
+      "unresolved_variable": "error",
+      "wire_dangling": "error"
+    }
+  },
+  "libraries": {
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": [
+      "Libglobal"
+    ]
+  },
+  "meta": {
+    "filename": "Processeur_Barre_Son.kicad_pro",
+    "version": 3
+  },
+  "net_settings": {
+    "classes": [
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Default",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      }
+    ],
+    "meta": {
+      "version": 4
+    },
+    "net_colors": null,
+    "netclass_assignments": {
+      "/LCD & TOUCH SCREEN/BKLT_L": [
+        "VCC5V0_LCD"
+      ],
+      "/SOC DDR MODULE, ECC & TERMINATION/DDR_CE1Z": [
+        "TP703"
+      ],
+      "/SOC DDR MODULE, ECC & TERMINATION/DDR_CKE1": [
+        "TP702"
+      ],
+      "/SOC DDR MODULE, ECC & TERMINATION/DDR_ODT1": [
+        "TP701"
+      ],
+      "Net-(C1001-Pad1)": [
+        "VCC3V3_NAND"
+      ],
+      "Net-(C1101-Pad1)": [
+        "DSS_3V3"
+      ],
+      "Net-(C1105-Pad1)": [
+        "DSS_3V3"
+      ],
+      "Net-(C1203-Pad1)": [
+        "VCC3V3_LCD"
+      ],
+      "Net-(C1204-Pad1)": [
+        "VCC3V3_LCD"
+      ],
+      "Net-(C1205-Pad1)": [
+        "VLED+"
+      ],
+      "Net-(C1206-Pad1)": [
+        "VCC3V3_LCD"
+      ],
+      "Net-(C1302-Pad1)": [
+        "VCC3V3_HDMI"
+      ],
+      "Net-(C1305-Pad2)": [
+        "VCC3V3_HDMI"
+      ],
+      "Net-(C1306-Pad2)": [
+        "VHDMI_CVCC12"
+      ],
+      "Net-(C1310-Pad2)": [
+        "VCC1V2"
+      ],
+      "Net-(C1311-Pad2)": [
+        "VHDMI_AVCC12"
+      ],
+      "Net-(C1314-Pad2)": [
+        "VHDMI_IOVCC"
+      ],
+      "Net-(C1315-Pad2)": [
+        "VCC1V2"
+      ],
+      "Net-(C1317-Pad2)": [
+        "VCC3V3_HDMI"
+      ],
+      "Net-(C1401-Pad2)": [
+        "VCC3V3_AUD"
+      ],
+      "Net-(C1610-Pad1)": [
+        "VETH1_AVDDL_PMOS"
+      ],
+      "Net-(C1611-Pad1)": [
+        "VETH1_DVDDL"
+      ],
+      "Net-(C1613-Pad1)": [
+        "VETH1_AVDDL"
+      ],
+      "Net-(C1615-Pad1)": [
+        "VETH1_DVDDH"
+      ],
+      "Net-(C1617-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(C1618-Pad2)": [
+        "VETH1_DVDDH"
+      ],
+      "Net-(C1703-Pad2)": [
+        "VCC3V3_PCIE_AUX"
+      ],
+      "Net-(C1704-Pad2)": [
+        "VCC3V3_PCIE"
+      ],
+      "Net-(C1708-Pad2)": [
+        "VCC12V0_PCIE"
+      ],
+      "Net-(C1711-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(C1903-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(C1909-Pad2)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(C2101-Pad1)": [
+        "VCC1V8_WLAN"
+      ],
+      "Net-(C2103-Pad1)": [
+        "VCOM_BAT_FB"
+      ],
+      "Net-(C2202-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(C2203-Pad2)": [
+        "VCC3V3_MLB"
+      ],
+      "Net-(C2205-Pad2)": [
+        "VCC12V0_MLB"
+      ],
+      "Net-(C2401-Pad1)": [
+        "VCC3V3_AUD_EXP"
+      ],
+      "Net-(C2501-Pad1)": [
+        "VCC3V3_SER_EXP"
+      ],
+      "Net-(C2503-Pad1)": [
+        "VCC12V0_SER_EXP"
+      ],
+      "Net-(C2707-Pad1)": [
+        "CDCM_1V8"
+      ],
+      "Net-(C2709-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(C2712-Pad1)": [
+        "VDD2_PLL2"
+      ],
+      "Net-(C2714-Pad1)": [
+        "VDD2_PLL1"
+      ],
+      "Net-(C2716-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(C2719-Pad1)": [
+        "VCC3V3_CDCM"
+      ],
+      "Net-(C2905-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(C2908-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(C3013-Pad2)": [
+        "VCC_VBUS_XDS"
+      ],
+      "Net-(C3101-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(C3305-Pad1)": [
+        "VCC1V2_XDS_CVDD"
+      ],
+      "Net-(C3310-Pad1)": [
+        "VCC1V2_XDS_CVDD"
+      ],
+      "Net-(C3315-Pad1)": [
+        "VCC3V3_XDS_DVDD33"
+      ],
+      "Net-(C3322-Pad1)": [
+        "VCC1V8_XDS_DVDD18"
+      ],
+      "Net-(C3328-Pad1)": [
+        "VCC3V3_XDS_DVDD33"
+      ],
+      "Net-(C3334-Pad1)": [
+        "VCC1V2_XDS_PLL"
+      ],
+      "Net-(C3402-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(C3506-Pad1)": [
+        "VCC1V2_XDS"
+      ],
+      "Net-(C3604-Pad1)": [
+        "VCC_BMC_LCD"
+      ],
+      "Net-(C3805-Pad2)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(C3811-Pad2)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(C601-Pad1)": [
+        "VCC_DDR_VREF"
+      ],
+      "Net-(C603-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C608-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C617-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C618-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C619-Pad1)": [
+        "VCC_DDR_VREF"
+      ],
+      "Net-(C622-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C627-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C633-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C634-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C635-Pad1)": [
+        "VCC_DDR_VREF"
+      ],
+      "Net-(C649-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C650-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C651-Pad1)": [
+        "VCC_DDR_VREF"
+      ],
+      "Net-(C656-Pad1)": [
+        "VCC_DDR_VREF"
+      ],
+      "Net-(C665-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C666-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C667-Pad1)": [
+        "VCC_DDR_VREF"
+      ],
+      "Net-(C681-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C683-Pad1)": [
+        "VCC_DDR_VREF"
+      ],
+      "Net-(C702-Pad1)": [
+        "VDDR_VTT"
+      ],
+      "Net-(C732-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C733-Pad1)": [
+        "VDD_DDR"
+      ],
+      "Net-(C734-Pad1)": [
+        "VCC_DDR_VREF"
+      ],
+      "Net-(C802-Pad1)": [
+        "VCC3V3_QSPI"
+      ],
+      "Net-(C804-Pad2)": [
+        "VCC3V3_QSPI"
+      ],
+      "Net-(C807-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(C903-Pad1)": [
+        "VCC1V8_EMMC"
+      ],
+      "Net-(C905-Pad1)": [
+        "VCC3V3_EMMC"
+      ],
+      "Net-(C907-Pad2)": [
+        "VCC3V3_EMMC"
+      ],
+      "Net-(D1201-K)": [
+        "VLED+"
+      ],
+      "Net-(D1601-K)": [
+        "VETH1_DVDDH"
+      ],
+      "Net-(FB2103-Pad2)": [
+        "VCC1V8_WLAN"
+      ],
+      "Net-(J1701-PadA10)": [
+        "VCC3V3_PCIE"
+      ],
+      "Net-(J1701-PadA2)": [
+        "VCC12V0_PCIE"
+      ],
+      "Net-(J1701-PadB1)": [
+        "VCC12V0_PCIE"
+      ],
+      "Net-(J1801-VCC)": [
+        "VUSB_VBUS1"
+      ],
+      "Net-(J1804-Pin_1)": [
+        "VUSB_VBUS0"
+      ],
+      "Net-(J1901-VCC)": [
+        "VCC5V_VUSB_CP2105"
+      ],
+      "Net-(J2001-Pin_3)": [
+        "VCC5V_UART2"
+      ],
+      "Net-(J2201-Pad37)": [
+        "VCC3V3_MLB"
+      ],
+      "Net-(J2401-Pad10)": [
+        "VCC3V3_AUD_EXP"
+      ],
+      "Net-(J2501-Pad02)": [
+        "VCC3V3_SER_EXP"
+      ],
+      "Net-(LED2601-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(Q1601-D-Pad2)": [
+        "VETH1_AVDDL_PMOS"
+      ],
+      "Net-(Q1601-G)": [
+        "VETH1_AVDDL_PLL"
+      ],
+      "Net-(Q1601-S)": [
+        "VETH1_AVDDH"
+      ],
+      "Net-(R1001-Pad1)": [
+        "VCC3V3_NAND"
+      ],
+      "Net-(R1010-Pad1)": [
+        "VCC3V3_SD"
+      ],
+      "Net-(R1313-Pad1)": [
+        "VHDMI_IOVCC"
+      ],
+      "Net-(R1401-Pad1)": [
+        "VCC3V3_AUD"
+      ],
+      "Net-(R1406-Pad2)": [
+        "VCC1V8_AUD"
+      ],
+      "Net-(R1503-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R1512-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R1616-Pad2)": [
+        "VETH1_DVDDH"
+      ],
+      "Net-(R1620-Pad1)": [
+        "VETH1_DVDDH"
+      ],
+      "Net-(R1637-Pad2)": [
+        "VETH1_DVDDH"
+      ],
+      "Net-(R1712-Pad1)": [
+        "VCC3V3_PCIE"
+      ],
+      "Net-(R201-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R206-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R210-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R2114-Pad2)": [
+        "VCC1V8_WLAN"
+      ],
+      "Net-(R2124-Pad2)": [
+        "VCC3V3_WLAN"
+      ],
+      "Net-(R213-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R2461-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R2603-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R2607-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R2611-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R2617-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R2716-Pad2)": [
+        "VCC3V3_CDCM"
+      ],
+      "Net-(R2806-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(R2916-Pad2)": [
+        "VCC3V3_MIPI"
+      ],
+      "Net-(R3009-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3018-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3021-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3027-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3101-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3111-Pad2)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3118-Pad2)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3210-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3221-Pad2)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3225-Pad2)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(R3503-Pad1)": [
+        "VCC_VBUS_XDS"
+      ],
+      "Net-(R3604-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(R3609-Pad2)": [
+        "VCC_BMC_LCD"
+      ],
+      "Net-(R3614-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(R3618-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(R3620-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R3624-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(R3627-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(R3710-Pad2)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(R3828-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(R3836-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R805-Pad2)": [
+        "VCC3V3_QSPI"
+      ],
+      "Net-(R817-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(R912-Pad2)": [
+        "VCC1V8_EMMC"
+      ],
+      "Net-(R930-Pad2)": [
+        "VCC1V8_EMMC"
+      ],
+      "Net-(U1001-VCC1)": [
+        "VCC3V3_NAND"
+      ],
+      "Net-(U1004-VDD)": [
+        "VCC3V3_SD"
+      ],
+      "Net-(U1101-VCC-PadC3)": [
+        "DSS_3V3"
+      ],
+      "Net-(U1102-VCC-PadC3)": [
+        "DSS_3V3"
+      ],
+      "Net-(U1103-VCC)": [
+        "DSS_3V3"
+      ],
+      "Net-(U1201-VIN)": [
+        "VCC5V0_LCD"
+      ],
+      "Net-(U1301-VCC)": [
+        "VCC3V3_HDMI"
+      ],
+      "Net-(U1302-VCCA)": [
+        "VCC3V3_HDMI"
+      ],
+      "Net-(U1303-VCCA)": [
+        "VCC3V3_HDMI"
+      ],
+      "Net-(U1304-AVCC12_1)": [
+        "VHDMI_AVCC12"
+      ],
+      "Net-(U1304-CVCC12_1)": [
+        "VHDMI_CVCC12"
+      ],
+      "Net-(U1304-IOVCC1)": [
+        "VHDMI_IOVCC"
+      ],
+      "Net-(U1306-IN)": [
+        "VCC5V0_HDMI"
+      ],
+      "Net-(U1306-OUT)": [
+        "VCC1V2"
+      ],
+      "Net-(U1307-VCC5V)": [
+        "VCC5V0_HDMI"
+      ],
+      "Net-(U1307-VCCA)": [
+        "VCC3V3_HDMI"
+      ],
+      "Net-(U1402-AVDD_DAC)": [
+        "VCC3V3_AUD"
+      ],
+      "Net-(U1402-DRVDD.1)": [
+        "VCC3V3_AUD"
+      ],
+      "Net-(U1402-DVDD.1)": [
+        "VCC1V8_AUD"
+      ],
+      "Net-(U1402-IOVDD)": [
+        "VCC3V3_AUD"
+      ],
+      "Net-(U1403-VCC)": [
+        "VCC3V3_AUD"
+      ],
+      "Net-(U1501-VCC)": [
+        "VCC3V3_WLAN"
+      ],
+      "Net-(U1502-VCCA)": [
+        "LDO2_1V8"
+      ],
+      "Net-(U1502-VCCB)": [
+        "LDO1_1V8"
+      ],
+      "Net-(U1504-VCCA)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1505-VCCA)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1505-VCCB)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1506-VCCA)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1506-VCCB)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1507-VCCA)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1601-AVDDH-Pad1)": [
+        "VETH1_AVDDH"
+      ],
+      "Net-(U1601-AVDDL-Pad4)": [
+        "VETH1_AVDDL"
+      ],
+      "Net-(U1601-DVDDH-Pad16)": [
+        "VETH1_DVDDH"
+      ],
+      "Net-(U1601-DVDDL-Pad14)": [
+        "VETH1_DVDDL"
+      ],
+      "Net-(U1604-VCC)": [
+        "VETH1_DVDDH"
+      ],
+      "Net-(U1703-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1802-2)": [
+        "VCC5V0_DCDC"
+      ],
+      "Net-(U1803-VBUS)": [
+        "VUSB_VBUS1"
+      ],
+      "Net-(U1902-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1903-VCCA)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1904-VCCA)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U1905-VCC)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U1906-VCCA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U1907-VCCA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U1908-VBUS)": [
+        "VCC5V_VUSB_CP2105"
+      ],
+      "Net-(U1909-REGIN)": [
+        "VCC5V_VUSB_CP2105"
+      ],
+      "Net-(U1909-VDD)": [
+        "VCC3V3_CP2105"
+      ],
+      "Net-(U1910-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2004-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U201-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U202-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U203-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2101-VCCA)": [
+        "VCC3V3_WLAN"
+      ],
+      "Net-(U2101-VCCB)": [
+        "VCC1V8_WLAN"
+      ],
+      "Net-(U2102-VCCA)": [
+        "VCC3V3_WLAN"
+      ],
+      "Net-(U2102-VCCB)": [
+        "VCC1V8_WLAN"
+      ],
+      "Net-(U2103-VCCA)": [
+        "VCC3V3_WLAN"
+      ],
+      "Net-(U2103-VCCB)": [
+        "VCC1V8_WLAN"
+      ],
+      "Net-(U2104-IN1)": [
+        "VCC5V0_DCDC"
+      ],
+      "Net-(U2104-OUT1)": [
+        "VCOM_BAT"
+      ],
+      "Net-(U2203-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2402-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2403-VCCA)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2403-VCCB)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2602-V+)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2603-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2701-VDD_PLL2)": [
+        "VDD2_PLL2"
+      ],
+      "Net-(U2701-VDD_PRI_REF)": [
+        "VCC3V3_CDCM"
+      ],
+      "Net-(U2701-VDD_Y2_Y3_1)": [
+        "CDCM_1V8"
+      ],
+      "Net-(U2802-VCCA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U2802-VCCB)": [
+        "VCC3V3_CDCM"
+      ],
+      "Net-(U2803-VD)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2902-VCCA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U2902-VCCB)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2903-VCCA-Pad31)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U2903-VCCB-Pad18)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U2904-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U3001I-USB_CVDD)": [
+        "VCC1V2_XDS_CVDD"
+      ],
+      "Net-(U3002-VCC)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(U3102-VDD-PadA9)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(U3301G-DVDD3318_A-PadF15)": [
+        "VCC3V3_XDS_DVDD33"
+      ],
+      "Net-(U3301G-DVDD3318_B-PadE14)": [
+        "VCC3V3_XDS_DVDD33"
+      ],
+      "Net-(U3301K-CVDD-PadE15)": [
+        "VCC1V2_XDS_CVDD"
+      ],
+      "Net-(U3301K-CVDD-PadJ12)": [
+        "VCC1V2_XDS_CVDD"
+      ],
+      "Net-(U3301L-DVDD18-PadF14)": [
+        "VCC1V8_XDS_DVDD18"
+      ],
+      "Net-(U3401-VAUX)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(U3401-VCC)": [
+        "VCC1V8_XDS"
+      ],
+      "Net-(U3502-VCC)": [
+        "VCC_VBUS_XDS"
+      ],
+      "Net-(U3503-VDD)": [
+        "VCC_VBUS_XDS"
+      ],
+      "Net-(U3504-VLDO1)": [
+        "VCC1V8_XDS"
+      ],
+      "Net-(U3504-VLDO2)": [
+        "VCC3V3_XDS"
+      ],
+      "Net-(U3506-K)": [
+        "VCC1V8_XDS"
+      ],
+      "Net-(U3602-VCC)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3603-VCCA)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U3603-VCCB)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3604-VCCA)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U3604-VCCB)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3702-VDD)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3802-VIN)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3802-VOUT)": [
+        "VCC3V0_BMC_LCD"
+      ],
+      "Net-(U3803O-VDD-PadG10)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3803O-VDDA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3804-VCCA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3804-VCCB1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U3805-VCCA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3805-VCCB1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U3806-VCCA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3806-VCCB)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U3807-VCCA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U3807-VCCB1)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U402-VCCA)": [
+        "VCC3V3_BMC"
+      ],
+      "Net-(U402-VCCB)": [
+        "LDO1_1V8"
+      ],
+      "Net-(U4104-IN)": [
+        "VCC5V0_DCDC"
+      ],
+      "Net-(U601-VDD-PadA2)": [
+        "VDD_DDR"
+      ],
+      "Net-(U602-VDD-PadA2)": [
+        "VDD_DDR"
+      ],
+      "Net-(U603-VDD-PadA2)": [
+        "VDD_DDR"
+      ],
+      "Net-(U604-VDD-PadA2)": [
+        "VDD_DDR"
+      ],
+      "Net-(U702-VDD-PadA2)": [
+        "VDD_DDR"
+      ],
+      "Net-(U802-VIO{slash}RFU)": [
+        "VCC3V3_QSPI"
+      ],
+      "Net-(U804-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U805-VCC)": [
+        "VCC3V3_DCIN"
+      ],
+      "Net-(U901-VCC1)": [
+        "VCC3V3_EMMC"
+      ],
+      "Net-(U901-VCCQ1)": [
+        "VCC1V8_EMMC"
+      ],
+      "Net-(U902F-MMC1_SDCD)": [
+        "TP902"
+      ],
+      "Net-(U904-VCCA)": [
+        "VCC3V3_EMMC"
+      ],
+      "Net-(U904-VCCB)": [
+        "VCC1V8_EMMC"
+      ],
+      "unconnected-(C1301-Pad1)": [
+        "VCC3V3_HDMI"
+      ],
+      "unconnected-(C1501-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(C1506-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(C1902-Pad2)": [
+        "VCC3V3_CP2105"
+      ],
+      "unconnected-(C1906-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(C1907-Pad2)": [
+        "VCC3V3_CP2105"
+      ],
+      "unconnected-(C1908-Pad2)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(C3826-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(C3827-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(C701-Pad2)": [
+        "VDD_DDR"
+      ],
+      "unconnected-(FB1001-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(FB1001-Pad2)": [
+        "VCC3V3_SD"
+      ],
+      "unconnected-(FB1201-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(FB1201-Pad2)": [
+        "VCC3V3_LCD"
+      ],
+      "unconnected-(FB1601-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(FB1602-Pad2)": [
+        "VETH1_AVDDL_PLL"
+      ],
+      "unconnected-(FB1701-Pad2)": [
+        "VCC3V3_PCIE_AUX"
+      ],
+      "unconnected-(FB1801-Pad2)": [
+        "VUSB_VBUS1"
+      ],
+      "unconnected-(FB1804-Pad2)": [
+        "VUSB_VBUS0"
+      ],
+      "unconnected-(FB2101-Pad1)": [
+        "VCOM_BAT"
+      ],
+      "unconnected-(FB2101-Pad2)": [
+        "VCOM_BAT_FB"
+      ],
+      "unconnected-(FB2102-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(FB2102-Pad2)": [
+        "VCC3V3_WLAN"
+      ],
+      "unconnected-(FB2103-Pad1)": [
+        "LDO1_1V8"
+      ],
+      "unconnected-(FB2104-Pad1)": [
+        "LDO2_1V8"
+      ],
+      "unconnected-(FB2201-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(FB2201-Pad2)": [
+        "VCC3V3_MLB"
+      ],
+      "unconnected-(FB2401-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(FB2501-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(FB2502-Pad1)": [
+        "VCC12V0_DC_IN"
+      ],
+      "unconnected-(FB2901-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(FB2901-Pad2)": [
+        "VCC3V3_MIPI"
+      ],
+      "unconnected-(FB3301-Pad2)": [
+        "VCC1V8_XDS_DVDD18"
+      ],
+      "unconnected-(FL1701-Pad2)": [
+        "VCC3V3_PCIE"
+      ],
+      "unconnected-(FL1702-Pad2)": [
+        "VCC12V0_PCIE"
+      ],
+      "unconnected-(FL2201-Pad1)": [
+        "VCC12V0_DC_IN"
+      ],
+      "unconnected-(FL2201-Pad2)": [
+        "VCC12V0_MLB"
+      ],
+      "unconnected-(FL2801-Pad3)": [
+        "VCC3V3_CDCM"
+      ],
+      "unconnected-(FL2802-Pad1)": [
+        "VCC3V3_CDCM"
+      ],
+      "unconnected-(FL2803-Pad1)": [
+        "VCC3V3_CDCM"
+      ],
+      "unconnected-(FL3001-Pad1)": [
+        "VCC1V8_XDS_DVDD18"
+      ],
+      "unconnected-(FL3002-Pad1)": [
+        "VCC3V3_XDS_DVDD33"
+      ],
+      "unconnected-(FL3303-Pad1)": [
+        "VCC1V2_XDS_PLL"
+      ],
+      "unconnected-(FL3304-Pad1)": [
+        "VCC1V2_XDS_PLL"
+      ],
+      "unconnected-(J1202-Pad1)": [
+        "VLED-"
+      ],
+      "unconnected-(J1701-PadB8)": [
+        "VCC3V3_PCIE"
+      ],
+      "unconnected-(J2101-Pad08)": [
+        "VCC1V8_WLAN"
+      ],
+      "unconnected-(J2201-Pad38)": [
+        "VCC3V3_MLB"
+      ],
+      "unconnected-(J2201-Pad40)": [
+        "VCC12V0_MLB"
+      ],
+      "unconnected-(J3401-Pin_1-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(J3801-Pin_1-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(MOD3601-PadA)": [
+        "VCC3V0_BMC_BKL"
+      ],
+      "unconnected-(MOD3601-VDD-Pad12)": [
+        "VCC_BMC_LCD"
+      ],
+      "unconnected-(Q1201-D-Pad3)": [
+        "VCC3V3_LCD"
+      ],
+      "unconnected-(R1003-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R1003-Pad2)": [
+        "VCC3V3_NAND"
+      ],
+      "unconnected-(R1101-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R1101-Pad2)": [
+        "DSS_3V3"
+      ],
+      "unconnected-(R1110-Pad2)": [
+        "DSS_3V3"
+      ],
+      "unconnected-(R1113-Pad2)": [
+        "DSS_3V3"
+      ],
+      "unconnected-(R1204-Pad1)": [
+        "VCC3V3_LCD"
+      ],
+      "unconnected-(R1205-Pad1)": [
+        "VCC3V3_LCD"
+      ],
+      "unconnected-(R1208-Pad1)": [
+        "VCC5V0_DCDC"
+      ],
+      "unconnected-(R1208-Pad2)": [
+        "VCC5V0_LCD"
+      ],
+      "unconnected-(R1305-Pad2)": [
+        "VCC3V3_HDMI"
+      ],
+      "unconnected-(R1307-Pad1)": [
+        "VHDMI_IOVCC"
+      ],
+      "unconnected-(R1312-Pad1)": [
+        "VHDMI_IOVCC"
+      ],
+      "unconnected-(R1315-Pad1)": [
+        "VCC5V0_HDMI"
+      ],
+      "unconnected-(R1315-Pad2)": [
+        "VCC5V0_DCDC"
+      ],
+      "unconnected-(R1316-Pad1)": [
+        "VCC3V3_HDMI"
+      ],
+      "unconnected-(R1316-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R1317-Pad2)": [
+        "VCC3V3_HDMI"
+      ],
+      "unconnected-(R1318-Pad2)": [
+        "VCC3V3_HDMI"
+      ],
+      "unconnected-(R1408-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R1408-Pad2)": [
+        "VCC3V3_AUD"
+      ],
+      "unconnected-(R1502-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R1511-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R1615-Pad2)": [
+        "VETH1_DVDDH"
+      ],
+      "unconnected-(R1618-Pad2)": [
+        "VETH1_DVDDH"
+      ],
+      "unconnected-(R1709-Pad2)": [
+        "VCC3V3_PCIE"
+      ],
+      "unconnected-(R1714-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R1716-Pad1)": [
+        "VCC3V3_PCIE"
+      ],
+      "unconnected-(R1803-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R1807-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R1903-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R205-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R209-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2123-Pad2)": [
+        "VCC3V3_WLAN"
+      ],
+      "unconnected-(R2127-Pad2)": [
+        "VCC1V8_WLAN"
+      ],
+      "unconnected-(R2128-Pad2)": [
+        "VCC3V3_WLAN"
+      ],
+      "unconnected-(R2130-Pad2)": [
+        "VCC1V8_WLAN"
+      ],
+      "unconnected-(R2134-Pad2)": [
+        "VCC3V3_WLAN"
+      ],
+      "unconnected-(R2135-Pad2)": [
+        "VCC1V8_WLAN"
+      ],
+      "unconnected-(R2204-Pad1)": [
+        "VCC3V3_MLB"
+      ],
+      "unconnected-(R2457-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2463-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2616-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2623-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2624-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2625-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2626-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2629-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2630-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2712-Pad2)": [
+        "VCC3V3_CDCM"
+      ],
+      "unconnected-(R2721-Pad2)": [
+        "VCC3V3_CDCM"
+      ],
+      "unconnected-(R2727-Pad1)": [
+        "LDO1_1V8"
+      ],
+      "unconnected-(R2728-Pad1)": [
+        "LDO3_1V8"
+      ],
+      "unconnected-(R2729-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2805-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R2810-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R2812-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R2908-Pad1)": [
+        "VCC3V3_MIPI"
+      ],
+      "unconnected-(R2909-Pad1)": [
+        "VCC3V3_MIPI"
+      ],
+      "unconnected-(R2911-Pad2)": [
+        "VCC3V3_MIPI"
+      ],
+      "unconnected-(R2924-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R2926-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R2931-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3024-Pad2)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3202-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3203-Pad2)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3206-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3215-Pad2)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3301-Pad1)": [
+        "VCC1V2_XDS"
+      ],
+      "unconnected-(R3302-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3303-Pad1)": [
+        "VCC1V8_XDS"
+      ],
+      "unconnected-(R3304-Pad1)": [
+        "VCC1V2_XDS_CVDD"
+      ],
+      "unconnected-(R3402-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3403-Pad2)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3406-Pad2)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3425-Pad1)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(R3502-Pad1)": [
+        "VCC5V0_DCDC"
+      ],
+      "unconnected-(R3603-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3609-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3610-Pad1)": [
+        "VCC3V0_BMC_LCD"
+      ],
+      "unconnected-(R3611-Pad1)": [
+        "VCC_BMC_LCD"
+      ],
+      "unconnected-(R3611-Pad2)": [
+        "VCC3V0_BMC_BKL"
+      ],
+      "unconnected-(R3622-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3626-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3642-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R3643-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3706-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3708-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3718-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3719-Pad1)": [
+        "VCC5V0_DCDC"
+      ],
+      "unconnected-(R3722-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R3723-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R3726-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3727-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3729-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3730-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3731-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3733-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3734-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3735-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3814-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3815-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3818-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R3819-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3821-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3824-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R3825-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R3826-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3828-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3832-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R3834-Pad1)": [
+        "VCC3V3_BMC"
+      ],
+      "unconnected-(R4120-Pad2)": [
+        "VCC12V0_DC_IN"
+      ],
+      "unconnected-(R703-Pad2)": [
+        "VDD_DDR"
+      ],
+      "unconnected-(R804-Pad2)": [
+        "VCC3V3_QSPI"
+      ],
+      "unconnected-(R808-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R808-Pad2)": [
+        "VCC3V3_QSPI"
+      ],
+      "unconnected-(R814-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R815-Pad2)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R929-Pad1)": [
+        "VCC3V3_DCIN"
+      ],
+      "unconnected-(R929-Pad2)": [
+        "VCC3V3_EMMC"
+      ],
+      "unconnected-(R930-Pad1)": [
+        "LDO1_1V8"
+      ],
+      "unconnected-(R931-Pad1)": [
+        "LDO3_1V8"
+      ],
+      "unconnected-(U1002-VCC-Pad10)": [
+        "VCC3V3_SD"
+      ],
+      "unconnected-(U1003-VCC-Pad1)": [
+        "VCC3V3_SD"
+      ],
+      "unconnected-(U1601-NC2-Pad47)": [
+        "VETH1_AVDDH"
+      ],
+      "unconnected-(U1801AB-USB0_VBUS-PadB19)": [
+        "VCC5V0_USB0_PM"
+      ],
+      "unconnected-(U1801L-USB1_VBUS-PadA21)": [
+        "VCC5V0_USB1_PM"
+      ],
+      "unconnected-(U1903-VCCB-Pad6)": [
+        "VCC3V3_CP2105"
+      ],
+      "unconnected-(U1906-VCCB-Pad6)": [
+        "VCC3V3_CP2105"
+      ],
+      "unconnected-(U205I-OBSCLK_N-PadL1)": [
+        "TP203"
+      ],
+      "unconnected-(U205I-OBSCLK_P-PadK1)": [
+        "TP202"
+      ],
+      "unconnected-(U205I-RMII_REFCLK{slash}PR0_eCAP0_eCAP_SYNCOUT-PadD24)": [
+        "TP204"
+      ],
+      "unconnected-(U205I-SYSCLKOUT-PadM21)": [
+        "TP201"
+      ],
+      "unconnected-(U2701-DVDD-Pad48)": [
+        "VCC3V3_CDCM"
+      ],
+      "unconnected-(U2701-VDD_PLL1-Pad37)": [
+        "VDD2_PLL1"
+      ],
+      "unconnected-(U2701-VDD_Y7-Pad34)": [
+        "VCC3V3_CDCM"
+      ],
+      "unconnected-(U301S-RSV1-PadAA19)": [
+        "TP305"
+      ],
+      "unconnected-(U301S-RSV10-PadAA18)": [
+        "TP313"
+      ],
+      "unconnected-(U301S-RSV11-PadY19)": [
+        "TP314"
+      ],
+      "unconnected-(U301S-RSV12-PadY14)": [
+        "TP315"
+      ],
+      "unconnected-(U301S-RSV2-PadAB19)": [
+        "TP306"
+      ],
+      "unconnected-(U301S-RSV3-PadY20)": [
+        "TP307"
+      ],
+      "unconnected-(U301S-RSV4-PadW19)": [
+        "TP308"
+      ],
+      "unconnected-(U301S-RSV5-PadD2)": [
+        "TP309"
+      ],
+      "unconnected-(U301S-RSV7-PadG3)": [
+        "TP310"
+      ],
+      "unconnected-(U301S-RSV8-PadF18)": [
+        "TP311"
+      ],
+      "unconnected-(U301S-RSV9-PadH2)": [
+        "TP312"
+      ],
+      "unconnected-(U301Y-RSV15-PadAB1)": [
+        "TP301"
+      ],
+      "unconnected-(U301Y-RSV16-PadAA2)": [
+        "TP302"
+      ],
+      "unconnected-(U301Y-RSV17-PadAB2)": [
+        "TP303"
+      ],
+      "unconnected-(U301Y-RSV18-PadAC1)": [
+        "TP304"
+      ],
+      "unconnected-(U3301N-RTC_CVDD-PadL14)": [
+        "VCC1V2_XDS_CVDD"
+      ],
+      "unconnected-(U3401-VCCIO1-Pad7)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(U3503-SENSE-Pad5)": [
+        "VCC3V3_XDS"
+      ],
+      "unconnected-(U601-TDQS#-PadA7)": [
+        "TP601"
+      ],
+      "unconnected-(U601-VREFCA-PadJ8)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U601-VREFDQ-PadE1)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U602-TDQS#-PadA7)": [
+        "TP602"
+      ],
+      "unconnected-(U602-VREFCA-PadJ8)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U602-VREFDQ-PadE1)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U603-TDQS#-PadA7)": [
+        "TP603"
+      ],
+      "unconnected-(U603-VREFCA-PadJ8)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U603-VREFDQ-PadE1)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U604-TDQS#-PadA7)": [
+        "TP604"
+      ],
+      "unconnected-(U604-VREFCA-PadJ8)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U604-VREFDQ-PadE1)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U702-TDQS#-PadA7)": [
+        "TP701"
+      ],
+      "unconnected-(U702-VREFCA-PadJ8)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U702-VREFDQ-PadE1)": [
+        "VCC_DDR_VREF"
+      ],
+      "unconnected-(U802-VCC-Pad2)": [
+        "VCC3V3_QSPI"
+      ],
+      "unconnected-(U901-NC22-PadC7)": [
+        "VCC1V8_EMMC"
+      ],
+      "unconnected-(U902F-MMC1_POW-PadK2)": [
+        "TP901"
+      ]
+    },
+    "netclass_patterns": []
+  },
+  "pcbnew": {
+    "last_paths": {
+      "gencad": "",
+      "idf": "",
+      "netlist": "",
+      "plot": "",
+      "pos_files": "",
+      "specctra_dsn": "",
+      "step": "",
+      "svg": "",
+      "vrml": ""
+    },
+    "page_layout_descr_file": ""
+  },
+  "schematic": {
+    "annotate_start_num": 0,
+    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_fmt_presets": [],
+    "bom_fmt_settings": {
+      "field_delimiter": ",",
+      "keep_line_breaks": false,
+      "keep_tabs": false,
+      "name": "CSV",
+      "ref_delimiter": ",",
+      "ref_range_delimiter": "",
+      "string_delimiter": "\""
+    },
+    "bom_presets": [],
+    "bom_settings": {
+      "exclude_dnp": false,
+      "fields_ordered": [
+        {
+          "group_by": false,
+          "label": "Reference",
+          "name": "Reference",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Value",
+          "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from BOM",
+          "name": "${EXCLUDE_FROM_BOM}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from Board",
+          "name": "${EXCLUDE_FROM_BOARD}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Datasheet",
+          "name": "Datasheet",
+          "show": true
+        }
+      ],
+      "filter_string": "",
+      "group_symbols": true,
+      "include_excluded_from_bom": true,
+      "name": "Default Editing",
+      "sort_asc": true,
+      "sort_field": "Reference"
+    },
+    "connection_grid_size": 50.0,
+    "drawing": {
+      "dashed_lines_dash_length_ratio": 12.0,
+      "dashed_lines_gap_length_ratio": 3.0,
+      "default_line_thickness": 6.0,
+      "default_text_size": 50.0,
+      "field_names": [],
+      "intersheets_ref_own_page": false,
+      "intersheets_ref_prefix": "",
+      "intersheets_ref_short": false,
+      "intersheets_ref_show": false,
+      "intersheets_ref_suffix": "",
+      "junction_size_choice": 3,
+      "label_size_ratio": 0.375,
+      "operating_point_overlay_i_precision": 3,
+      "operating_point_overlay_i_range": "~A",
+      "operating_point_overlay_v_precision": 3,
+      "operating_point_overlay_v_range": "~V",
+      "overbar_offset_ratio": 1.23,
+      "pin_symbol_size": 25.0,
+      "text_offset_ratio": 0.15
+    },
+    "legacy_lib_dir": "",
+    "legacy_lib_list": [],
+    "meta": {
+      "version": 1
+    },
+    "net_format_name": "",
+    "page_layout_descr_file": "SOC GPIO, SMART REFLEX & TEST OUT",
+    "plot_directory": "C:/Users/nico/Desktop/",
+    "space_save_all_events": true,
+    "spice_current_sheet_as_root": false,
+    "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
+    "spice_save_all_currents": false,
+    "spice_save_all_dissipations": false,
+    "spice_save_all_voltages": false,
+    "subpart_first_id": 65,
+    "subpart_id_separator": 0
+  },
+  "sheets": [
+    [
+      "d330d23c-f976-4d30-a668-2bf451cc6840",
+      "Root"
+    ],
+    [
+      "fc416656-20dc-4860-bed7-5f65298e69e7",
+      "SOC CLOCK & RESET"
+    ],
+    [
+      "67e32a13-6790-4e7a-8cdd-416255665df9",
+      "SOC GPIO, SMART REFLEX & TEST OUT"
+    ],
+    [
+      "fa9c97e0-3b90-43d3-96c1-77ad77a79ef5",
+      "SOC POWER - CVDD,CVDD1 & PLL"
+    ],
+    [
+      "3199e115-b37c-4404-b691-5297fcf2cd7e",
+      "SOC POWER - DVDD33, DVDD18, DVDD_DDR & VSS"
+    ],
+    [
+      "1e325509-e453-42be-af03-35e9e8d60a64",
+      "DDR3L DEVICES"
+    ],
+    [
+      "e1ab8f63-36cb-420f-8f3a-b7731513ce52",
+      "SOC DDR MODULE, ECC & TERMINATION"
+    ],
+    [
+      "dde56bbf-a659-44b1-9d0e-47b414d7f927",
+      "QSPI, I2C & SPI EEPROM FLASH"
+    ],
+    [
+      "23767ee9-4fa3-4980-b189-f31e5324e948",
+      "EMMC FLASH"
+    ],
+    [
+      "93ed0a37-21db-4e3a-af21-58cc5ba920be",
+      "NAND FLASH & SD CARD"
+    ],
+    [
+      "2aed06fa-77b9-494d-84cf-8b30e5646dab",
+      "DSS BUFFER SECTION"
+    ],
+    [
+      "8026daf0-5838-4475-bb8b-6106a6c74c70",
+      "LCD & TOUCH SCREEN"
+    ],
+    [
+      "25ccd6c2-dcce-4d7f-91d9-2115f41a30c5",
+      "HDMI TRASMITTER"
+    ],
+    [
+      "51c366fb-2c46-40dd-af4c-3cfda0580b5f",
+      "AUDIO CODEC"
+    ],
+    [
+      "ff24d8c5-6366-4d73-9153-e9d1ff44b8e7",
+      "MCASP2 BUFFERS FOR COM8 , HDMI& AUDIO CODEC"
+    ],
+    [
+      "8b476b6e-f72e-431c-bdfc-c94a1e8bf1a7",
+      "ETHERNET PHY"
+    ],
+    [
+      "a5ad9bc1-1480-4e83-9004-4a0672d6e86f",
+      "PCIe x1 CONNECTOR"
+    ],
+    [
+      "86c82472-eaa4-4ddc-a5ac-dddc7bbb4836",
+      "USB DUAL ROLE & HOST"
+    ],
+    [
+      "4f3530f6-47f9-43fa-ab11-e33d3c2a352b",
+      "UART 0,1,& 2"
+    ],
+    [
+      "f5cb96c8-5b60-467d-b27c-7e0879bd38d0",
+      "UART2"
+    ],
+    [
+      "6030182e-40cb-4234-947e-29e4f813aa3c",
+      "COM8 CONNECTOR"
+    ],
+    [
+      "33587aed-cb43-41c0-ac92-9edbc2956eb5",
+      "MLB CONNECTOR"
+    ],
+    [
+      "f14015fd-1bf4-4a26-87a1-d32849f04882",
+      "DCAN CONNECTOR"
+    ],
+    [
+      "6285fed5-041a-4dea-ba10-d3f5cf5b6299",
+      "AUDIO EXP CONNECTOR"
+    ],
+    [
+      "1f45797e-6c56-4299-b909-e04ca0dddf28",
+      "SERIAL & EHRPWM EXP CONNECTOR"
+    ],
+    [
+      "b33b2e5c-65c5-4b2a-b2a5-6d1c6f8b452d",
+      "SERIAL CONTROL INTERFACE"
+    ],
+    [
+      "80aee9b3-bd76-4be4-87ab-cdccad77a5ab",
+      "CLOCK DISTRIBUTION 1"
+    ],
+    [
+      "3c1070ef-8802-4968-ae43-12af18dad9bb",
+      "CLOCK DISTRIBUTION 2"
+    ],
+    [
+      "675a074d-76ba-4689-bb35-e84e9af61645",
+      "EMU & MIPI60 CONNECTOR"
+    ],
+    [
+      "74301966-17a2-4844-8e23-9997732cba85",
+      "XDS200"
+    ],
+    [
+      "80cc8116-4b9e-4563-a380-951e1175c9b4",
+      "JTAG_XDS200_2"
+    ],
+    [
+      "e899e554-7374-4d5a-90db-e7ad54095fe9",
+      "JTAG_XDS200_3"
+    ],
+    [
+      "98e67109-9a21-43b3-aaf4-823fc2df8d89",
+      "JTAG_XDS200_4"
+    ],
+    [
+      "cc161c1e-3c16-4e2e-bcac-c9fcf26ee8fe",
+      "JTAG_XDS200_CPLD"
+    ],
+    [
+      "e02824e9-1f80-4da8-8b2b-35b93f12927f",
+      "XDS200 POWER"
+    ],
+    [
+      "eb03ecd0-cca0-49f0-837d-4e8da34b6468",
+      "BOARD MANAGEMENT CONTROL_1"
+    ],
+    [
+      "fd3f67de-575e-49ff-bb90-b445c6134797",
+      "BOARD MANAGEMENT CONTROL_2"
+    ],
+    [
+      "368bbb4f-88a3-42bc-be04-b39e89249644",
+      "BOARD MANAGEMENT CONTROL_3"
+    ],
+    [
+      "4d564300-2180-4e91-8dae-5188734dce4b",
+      "PMIC POWER CIRCUIT 1"
+    ],
+    [
+      "fdc9eb56-e667-4f80-8cb4-36f81e92ba1a",
+      "PMIC POWER CIRCUIT 2"
+    ],
+    [
+      "14e04959-303b-45c0-85a5-08c623624c11",
+      "DDR3L POWER"
+    ],
+    [
+      "3954725a-0618-4aae-991c-9b3095213750",
+      "OVER VOLTAGE PROTECTION"
+    ]
+  ],
+  "text_variables": {}
+}

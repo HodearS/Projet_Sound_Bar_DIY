@@ -1,0 +1,1750 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d330d23c-f976-4d30-a668-2bf451cc6840")
+	(paper "A3")
+	(title_block
+		(title "Barre de son (base saine)")
+		(date "2025-05-16")
+		(rev "1.0")
+		(company "NDH")
+	)
+	(lib_symbols)
+	(sheet
+		(at 17.145 101.6)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "14e04959-303b-45c0-85a5-08c623624c11")
+		(property "Sheetname" "DDR3L POWER"
+			(at 17.145 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DDR3L_POWER.kicad_sch"
+			(at 17.145 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "41")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 219.075 19.05)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1e325509-e453-42be-af03-35e9e8d60a64")
+		(property "Sheetname" "DDR3L DEVICES"
+			(at 219.075 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DDR3L_DEVICES.kicad_sch"
+			(at 219.075 23.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 290.83 50.165)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1f45797e-6c56-4299-b909-e04ca0dddf28")
+		(property "Sheetname" "SERIAL & EHRPWM EXP CONNECTOR"
+			(at 290.83 49.4534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SERIAL_and_EHRPWM_EXP_CONNECTOR.kicad_sch"
+			(at 290.83 54.5596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "25")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 351.79 19.05)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "23767ee9-4fa3-4980-b189-f31e5324e948")
+		(property "Sheetname" "EMMC FLASH"
+			(at 351.79 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EMMC_FLASH.kicad_sch"
+			(at 351.79 23.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.225 34.925)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "25ccd6c2-dcce-4d7f-91d9-2115f41a30c5")
+		(property "Sheetname" "HDMI TRASMITTER"
+			(at 149.225 34.2134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HDMI_TRASMITTER.kicad_sch"
+			(at 149.225 39.3196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 61.595 34.29)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2aed06fa-77b9-494d-84cf-8b30e5646dab")
+		(property "Sheetname" "DSS BUFFER SECTION"
+			(at 61.595 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DSS_BUFFER_SECTION.kicad_sch"
+			(at 61.595 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 158.75 19.05)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3199e115-b37c-4404-b691-5297fcf2cd7e")
+		(property "Sheetname" "SOC POWER - DVDD33, DVDD18, DVDD_DDR & VSS"
+			(at 158.75 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SOC_POWER_DVDD33_DVDD18_DVDD_DDR_VSS.kicad_sch"
+			(at 158.75 23.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.225 50.8)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "33587aed-cb43-41c0-ac92-9edbc2956eb5")
+		(property "Sheetname" "MLB CONNECTOR"
+			(at 149.225 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MLB_CONNECTOR.kicad_sch"
+			(at 149.225 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 149.225 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 211.455 87.63)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "368bbb4f-88a3-42bc-be04-b39e89249644")
+		(property "Sheetname" "BOARD MANAGEMENT CONTROL_3"
+			(at 211.455 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BOARD_MANAGEMENT_CONTROL_3.kicad_sch"
+			(at 211.455 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "38")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 102.87)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3954725a-0618-4aae-991c-9b3095213750")
+		(property "Sheetname" "OVER VOLTAGE PROTECTION"
+			(at 62.23 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OVER_VOLTAGE_PROTECTION.kicad_sch"
+			(at 62.23 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "42")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.68 69.215)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3c1070ef-8802-4968-ae43-12af18dad9bb")
+		(property "Sheetname" "CLOCK DISTRIBUTION 2"
+			(at 106.68 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CLOCK_DISTRIBUTION_2.kicad_sch"
+			(at 106.68 73.6096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "28")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 265.43 87.63)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4d564300-2180-4e91-8dae-5188734dce4b")
+		(property "Sheetname" "PMIC POWER CIRCUIT 1"
+			(at 265.43 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PMIC_POWER_CIRCUIT_1.kicad_sch"
+			(at 265.43 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "39")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.5093 51.4584)
+		(size 12.7007 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4f3530f6-47f9-43fa-ab11-e33d3c2a352b")
+		(property "Sheetname" "UART 0,1,& 2"
+			(at 16.5093 50.7468 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UART_0_1_and_2.kicad_sch"
+			(at 16.5093 55.853 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.055 34.925)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "51c366fb-2c46-40dd-af4c-3cfda0580b5f")
+		(property "Sheetname" "AUDIO CODEC"
+			(at 186.055 34.2134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AUDIO_CODEC.kicad_sch"
+			(at 186.055 39.3196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 103.505 50.8)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6030182e-40cb-4234-947e-29e4f813aa3c")
+		(property "Sheetname" "COM8 CONNECTOR"
+			(at 103.505 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "COM8_CONNECTOR.kicad_sch"
+			(at 103.505 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 239.395 50.8)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6285fed5-041a-4dea-ba10-d3f5cf5b6299")
+		(property "Sheetname" "AUDIO EXP CONNECTOR"
+			(at 239.395 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AUDIO_EXP_CONNECTOR.kicad_sch"
+			(at 239.395 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 69.215)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "675a074d-76ba-4689-bb35-e84e9af61645")
+		(property "Sheetname" "EMU & MIPI60 CONNECTOR"
+			(at 152.4 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EMU_and_MIPI60_CONNECTOR.kicad_sch"
+			(at 152.4 73.6096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "29")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.165 19.05)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "67e32a13-6790-4e7a-8cdd-416255665df9")
+		(property "Sheetname" "SOC GPIO, SMART REFLEX & TEST OUT"
+			(at 50.165 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SOC_GPIO_SMART_REFLEX_TEST_OUT_sch.kicad_sch"
+			(at 50.165 23.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 69.215)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "74301966-17a2-4844-8e23-9997732cba85")
+		(property "Sheetname" "XDS200"
+			(at 203.2 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "XDS200.kicad_sch"
+			(at 203.2 73.6096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "30")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 103.505 34.29)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8026daf0-5838-4475-bb8b-6106a6c74c70")
+		(property "Sheetname" "LCD & TOUCH SCREEN"
+			(at 103.505 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LCD_and_TOUCH_SCREEN.kicad_sch"
+			(at 103.505 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 69.85)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "80aee9b3-bd76-4be4-87ab-cdccad77a5ab")
+		(property "Sheetname" "CLOCK DISTRIBUTION 1"
+			(at 62.23 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CLOCK_DISTRIBUTION_1.kicad_sch"
+			(at 62.23 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "27")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 238.76 69.215)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "80cc8116-4b9e-4563-a380-951e1175c9b4")
+		(property "Sheetname" "JTAG_XDS200_2"
+			(at 238.76 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "JTAG_XDS200_2.kicad_sch"
+			(at 238.76 73.6096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "31")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 363.22 34.925)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "86c82472-eaa4-4ddc-a5ac-dddc7bbb4836")
+		(property "Sheetname" "USB DUAL ROLE & HOST"
+			(at 363.22 34.2134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_DUAL_ROLE_and_HOST.kicad_sch"
+			(at 363.22 39.3196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 287.655 34.925)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8b476b6e-f72e-431c-bdfc-c94a1e8bf1a7")
+		(property "Sheetname" "ETHERNET PHY"
+			(at 287.655 34.2134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ETHERNET_PHY.kicad_sch"
+			(at 287.655 39.3196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 34.29)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "93ed0a37-21db-4e3a-af21-58cc5ba920be")
+		(property "Sheetname" "NAND FLASH & SD CARD"
+			(at 16.51 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "NAND_FLASH_and_SD_CARD.kicad_sch"
+			(at 16.51 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 334.01 69.85)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "98e67109-9a21-43b3-aaf4-823fc2df8d89")
+		(property "Sheetname" "JTAG_XDS200_4"
+			(at 334.01 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "JTAG_XDS200_4.kicad_sch"
+			(at 334.01 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "33")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 321.31 34.925)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a5ad9bc1-1480-4e83-9004-4a0672d6e86f")
+		(property "Sheetname" "PCIe x1 CONNECTOR"
+			(at 321.31 34.2134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCIe_x1_CONNECTOR.kicad_sch"
+			(at 321.31 39.3196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.145 70.485)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b33b2e5c-65c5-4b2a-b2a5-6d1c6f8b452d")
+		(property "Sheetname" "SERIAL CONTROL INTERFACE"
+			(at 17.145 69.7734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SERIAL_CONTROL_INTERFACE.kicad_sch"
+			(at 17.145 74.8796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "26")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.145 88.265)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cc161c1e-3c16-4e2e-bcac-c9fcf26ee8fe")
+		(property "Sheetname" "JTAG_XDS200_CPLD"
+			(at 17.145 87.5534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "JTAG_XDS200_CPLD.kicad_sch"
+			(at 17.145 92.6596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "34")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 305.435 19.05)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dde56bbf-a659-44b1-9d0e-47b414d7f927")
+		(property "Sheetname" "QSPI, I2C & SPI EEPROM FLASH"
+			(at 305.435 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "QSPI_I2C_SPI_EEPROM_FLASH.kicad_sch"
+			(at 305.435 23.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 61.595 88.265)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e02824e9-1f80-4da8-8b2b-35b93f12927f")
+		(property "Sheetname" "XDS200 POWER"
+			(at 61.595 87.5534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "XDS200_POWER.kicad_sch"
+			(at 61.595 92.6596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "35")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 251.46 19.05)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e1ab8f63-36cb-420f-8f3a-b7731513ce52")
+		(property "Sheetname" "SOC DDR MODULE, ECC & TERMINATION"
+			(at 251.46 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SOC_DDR MODULE_ECC_TERMINATION.kicad_sch"
+			(at 251.46 23.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 290.83 69.215)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e899e554-7374-4d5a-90db-e7ad54095fe9")
+		(property "Sheetname" "JTAG_XDS200_3"
+			(at 290.83 68.5034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "JTAG_XDS200_3.kicad_sch"
+			(at 290.83 73.6096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "32")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.68 88.265)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eb03ecd0-cca0-49f0-837d-4e8da34b6468")
+		(property "Sheetname" "BOARD MANAGEMENT CONTROL_1"
+			(at 106.68 87.5534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BOARD_MANAGEMENT_CONTROL_1.kicad_sch"
+			(at 106.68 92.6596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "36")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 196.215 50.8)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f14015fd-1bf4-4a26-87a1-d32849f04882")
+		(property "Sheetname" "DCAN CONNECTOR"
+			(at 196.215 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DCAN_CONNECTOR.kicad_sch"
+			(at 196.215 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 61.595 51.435)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f5cb96c8-5b60-467d-b27c-7e0879bd38d0")
+		(property "Sheetname" "UART2"
+			(at 61.595 50.7234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UART2.kicad_sch"
+			(at 61.595 55.8296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.045 19.05)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fa9c97e0-3b90-43d3-96c1-77ad77a79ef5")
+		(property "Sheetname" "SOC POWER - CVDD,CVDD1 & PLL"
+			(at 106.045 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SOC_POWER_CVDD_CVDD1_PLL_sch.kicad_sch"
+			(at 106.045 23.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 18.415 19.05)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fc416656-20dc-4860-bed7-5f65298e69e7")
+		(property "Sheetname" "SOC CLOCK & RESET"
+			(at 18.415 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "soc_clock_reset.kicad_sch"
+			(at 18.415 23.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 161.29 87.63)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd3f67de-575e-49ff-bb90-b445c6134797")
+		(property "Sheetname" "BOARD MANAGEMENT CONTROL_2"
+			(at 161.29 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BOARD_MANAGEMENT_CONTROL_2.kicad_sch"
+			(at 161.29 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "37")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 312.42 87.63)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fdc9eb56-e667-4f80-8cb4-36f81e92ba1a")
+		(property "Sheetname" "PMIC POWER CIRCUIT 2"
+			(at 312.42 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PMIC_POWER_CIRCUIT_2.kicad_sch"
+			(at 312.42 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "40")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 217.805 34.925)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ff24d8c5-6366-4d73-9153-e9d1ff44b8e7")
+		(property "Sheetname" "MCASP2 BUFFERS FOR COM8 , HDMI& AUDIO CODEC"
+			(at 217.805 34.2134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCASP2_BUFFERS_FOR_COM8_HDMI_and_AUDIO_CODEC.kicad_sch"
+			(at 217.805 39.3196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Processeur_Barre_Son"
+				(path "/d330d23c-f976-4d30-a668-2bf451cc6840"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
