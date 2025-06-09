@@ -1,0 +1,440 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2fd17f55-75bd-4697-be3f-ff8a4448d607")
+	(paper "A3")
+	(title_block
+		(title "Carte fille (Base Saine)")
+		(date "2025-06-09")
+		(rev "1.0")
+		(company "NDH")
+	)
+	(lib_symbols)
+	(sheet
+		(at 144.78 33.655)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "09cfc90b-34e4-4851-90a4-00618e1394f2")
+		(property "Sheetname" "I2S HEADER"
+			(at 144.78 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "I2S_HEADER.kicad_sch"
+			(at 144.78 38.0496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 194.945 33.655)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "20a6cac8-674d-4357-9948-c323ef44ba06")
+		(property "Sheetname" "AUDIO DAC PCM1690"
+			(at 194.945 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AUDIO_DAC_PCM1690.kicad_sch"
+			(at 194.945 38.0496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 94.615 71.12)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b826ee9-65f9-4ee9-907e-14fd9ebc20bb")
+		(property "Sheetname" "DIR OPTICAL & COAXIAL INPUT"
+			(at 94.615 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIR_OPTICAL_and_COAXIAL_INPUT.kicad_sch"
+			(at 94.615 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 245.11 33.655)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "847c81f2-23c1-41cb-b862-ef04bad25f64")
+		(property "Sheetname" "DAC0 LPF & BUFFERS"
+			(at 245.11 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DAC0_LPF_and_BUFFERS.kicad_sch"
+			(at 245.11 38.0496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 94.615 33.655)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9a1549e8-4297-4c1b-84c0-cfa3642e86ab")
+		(property "Sheetname" "SERIAL EXPANSION CONN"
+			(at 94.615 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SERIAL_EXPANSION_CONN.kicad_sch"
+			(at 94.615 38.0496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 295.275 33.655)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c512d596-6810-493c-95ad-60321edc1c29")
+		(property "Sheetname" "DAC1 LPF & BUFFERS"
+			(at 295.275 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DAC1_LPF_and_BUFFERS.kicad_sch"
+			(at 295.275 38.0496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 33.655)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c5726c0e-307b-4020-b240-d609689562f5")
+		(property "Sheetname" "AUDIO EXPANSION CONN"
+			(at 44.45 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AUDIO_EXPANSION_CONN.kicad_sch"
+			(at 44.45 38.0496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 345.44 33.655)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c8d66e4a-88d2-4e5c-9c0b-bfd30d922b00")
+		(property "Sheetname" "AUDIO ADC PCM1865"
+			(at 345.44 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AUDIO_ADC_PCM1865.kicad_sch"
+			(at 345.44 38.0496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 71.12)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d5fb9054-5fdb-456a-86a4-69c8ea1f5507")
+		(property "Sheetname" "DIGITAL AUDIO RECEIVER"
+			(at 44.45 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIGITAL_AUDIO_RECEIVER.kicad_sch"
+			(at 44.45 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 71.12)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d82168a2-2135-4b85-b815-57c40bae1d4a")
+		(property "Sheetname" "OPAMP POWER"
+			(at 144.78 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OPAMP_POWER.kicad_sch"
+			(at 144.78 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Audio_Carte_fille"
+				(path "/2fd17f55-75bd-4697-be3f-ff8a4448d607"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

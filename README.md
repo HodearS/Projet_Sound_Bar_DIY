@@ -13,7 +13,7 @@ Travaux à réaliser :
 Travaux réalisés :
 - Reprise du schéma de la carte d’évaluation EVMK2GX de Texas Instruments pour le processeur 66AK2G12 → Processeur_Barre_Son_Avant_Projet.
 - Reprise du schéma de la carte amplificateur audio TIDA-01414 utilisant les amplificateurs TPA3244 → Amplificateur_Audio_Avant_Projet.
-
+- Reprise du schéma de la carte fille audio K2G → Audio_Carte_fille.
 
 The objective of this project is to build a DIY Dolby Atmos-compatible soundbar.
 To achieve this, the soundbar will use Texas Instruments architectures for both the audio processor and the amplifier board.
@@ -28,4 +28,4 @@ Tasks to be completed :
 Completed tasks :
 -Recreated the schematic of the Texas Instruments evaluation board EVMK2GX for the 66AK2G12 processor → Processeur_Barre_Son_Avant_Projet.
 -Recreated the schematic of the audio amplifier board TIDA-01414 using TPA3244 amplifiers → Amplificateur_Audio_Avant_Projet.
-
+-Recreated the schematic of the K2G audio daughter card → Audio_Carte_fille.
