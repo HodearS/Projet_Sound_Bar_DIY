@@ -8,7 +8,7 @@
 		(title "Amplificateur Audio (Base Saine)")
 		(date "2025-05-19")
 		(rev "1.0")
-		(company "NDG")
+		(company "NDH")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic_MountingPin:Conn_02x25_Odd_Even_MountingPin"

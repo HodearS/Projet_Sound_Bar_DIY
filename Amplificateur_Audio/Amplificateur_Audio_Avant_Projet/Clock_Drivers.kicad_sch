@@ -8,7 +8,7 @@
 		(title "Amplificateur Audio (Base Saine)")
 		(date "2025-05-19")
 		(rev "1.0")
-		(company "NDG")
+		(company "NDH")
 	)
 	(lib_symbols
 		(symbol "74xGxx:LVC1G125Ti"
