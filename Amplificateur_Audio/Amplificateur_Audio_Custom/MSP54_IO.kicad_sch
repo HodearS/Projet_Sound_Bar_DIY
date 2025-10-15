@@ -4679,6 +4679,16 @@
 		)
 		(uuid "ee5d8358-b44e-41eb-a398-eaf53ce0d0d1")
 	)
+	(text "Rajouter des condos sur les alims des composants\n"
+		(exclude_from_sim no)
+		(at 140.97 213.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f25e9877-d384-4fef-8dd9-96f9c7cb9888")
+	)
 	(text "Front Right\n"
 		(exclude_from_sim no)
 		(at 402.59 229.87 0)
@@ -9590,7 +9600,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 30.48 177.8 0)
 			(effects
 				(font
@@ -9660,7 +9670,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 76.2 71.12 0)
 			(effects
 				(font
@@ -9861,7 +9871,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 394.97 67.31 0)
 			(effects
 				(font
@@ -9898,73 +9908,6 @@
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "R217")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 30.48 34.29 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "091b844d-bbfd-4b15-8ef8-e9fee8734ade")
-		(property "Reference" "C201"
-			(at 30.48 28.702 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470pF"
-			(at 30.48 31.242 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "402"
-			(at 30.48 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 30.48 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM1555C1E471JA01D"
-			(at 30.48 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0bb86b57-77a4-4d5b-8fd9-3b94a04d088d")
-		)
-		(pin "1"
-			(uuid "4c573505-aefc-4ffb-96f6-d7b7c9cdb5cd")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -10064,7 +10007,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 455.93 82.55 0)
 			(effects
 				(font
@@ -10082,7 +10025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+		(property "Description" "MMBT2222A"
 			(at 392.43 82.55 0)
 			(effects
 				(font
@@ -10162,7 +10105,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 30.48 82.55 0)
 			(effects
 				(font
@@ -10180,7 +10123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "TL1015AF160QG"
 			(at 30.48 87.63 0)
 			(effects
 				(font
@@ -10230,7 +10173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 349.25 41.91 0)
 			(effects
 				(font
@@ -10273,73 +10216,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 30.48 137.16 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "10629cf6-2d80-459f-b131-2ca2d8617249")
-		(property "Reference" "C206"
-			(at 30.48 131.572 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470pF"
-			(at 30.48 134.112 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 30.48 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 30.48 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM1555C1E471JA01D"
-			(at 30.48 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9d4e80e3-f0af-4bae-b96a-7fa1773de1d3")
-		)
-		(pin "1"
-			(uuid "e9df6432-ee65-4469-929b-833e0a053cac")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "C206")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 314.96 82.55 270)
 		(unit 1)
@@ -10365,7 +10241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 314.96 82.55 0)
 			(effects
 				(font
@@ -10499,7 +10375,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
 			(at 123.19 167.64 0)
 			(effects
 				(font
@@ -10517,7 +10393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Two pin crystal"
+		(property "Description" "NX3215SA-32.768K-STD-MUA8"
 			(at 123.19 167.64 0)
 			(effects
 				(font
@@ -10536,6 +10412,76 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "Y201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 363.22 132.08 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "141a0182-d1dc-436f-8046-9a6ed4d75459")
+		(property "Reference" "R212"
+			(at 365.76 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 365.76 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+			(at 363.22 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 363.22 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW060310K0FKEA"
+			(at 363.22 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d1b3b4e5-9e88-4d63-b6cc-024e4df1a0eb")
+		)
+		(pin "2"
+			(uuid "7de8019e-ba5a-4103-9d16-dbc7e841fd78")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R212")
 					(unit 1)
 				)
 			)
@@ -10632,7 +10578,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
 			(at 54.61 204.47 0)
 			(effects
 				(font
@@ -10782,7 +10728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 383.54 158.75 0)
 			(effects
 				(font
@@ -10852,7 +10798,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 85.09 71.12 0)
 			(effects
 				(font
@@ -10985,7 +10931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 383.54 41.91 0)
 			(effects
 				(font
@@ -11160,140 +11106,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 383.54 193.04 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1f0a4b88-effb-4cfd-acc3-a399bd747749")
-		(property "Reference" "R246"
-			(at 385.572 191.262 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2k"
-			(at 381 191.262 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 383.54 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 383.54 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0a2c8c82-78b9-4cd6-99af-7f481826ab0b")
-		)
-		(pin "2"
-			(uuid "2ef6d390-012f-4c82-b5f8-81a076df3fa0")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R246")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 383.54 189.23 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "20adf466-3fec-4b58-a10f-aea1072cb3e9")
-		(property "Reference" "R245"
-			(at 385.572 187.452 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2k"
-			(at 381 187.452 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 383.54 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 383.54 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "10181129-db6c-40a3-875a-9da55af0f862")
-		)
-		(pin "2"
-			(uuid "a839200a-2ad6-4a6b-93ef-c27e1cc17ab4")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R245")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:Earth")
 		(at 185.42 38.1 0)
 		(unit 1)
@@ -11450,7 +11262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 203.2 44.45 0)
 			(effects
 				(font
@@ -11518,7 +11330,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 30.48 41.91 0)
 			(effects
 				(font
@@ -11536,7 +11348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "TL1015AF160QG"
 			(at 30.48 46.99 0)
 			(effects
 				(font
@@ -11694,76 +11506,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 363.22 132.08 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2c32c5aa-e592-441d-bdca-eb65fe21ba09")
-		(property "Reference" "R212"
-			(at 365.76 130.8099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 365.76 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "0602"
-			(at 363.22 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 363.22 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW060310K0FKEA"
-			(at 363.22 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e0961a25-2cce-4868-8c7e-8df8545022c2")
-		)
-		(pin "2"
-			(uuid "a944db59-d192-4fe7-94bb-7a7498e81794")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R212")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 87.63 198.12 0)
 		(unit 1)
@@ -11857,7 +11599,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 360.68 33.02 90)
 			(effects
 				(font
@@ -11875,7 +11617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol, filled shape"
+		(property "Description" "SMLD12BN1WT86C"
 			(at 360.68 33.02 0)
 			(effects
 				(font
@@ -11924,7 +11666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 185.42 267.97 0)
 			(effects
 				(font
@@ -11994,7 +11736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PinHeader_1x02_P2.54mm_Vertical"
 			(at 220.98 25.4 0)
 			(effects
 				(font
@@ -12012,7 +11754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "PBC02SAAN"
 			(at 220.98 25.4 0)
 			(effects
 				(font
@@ -12031,6 +11773,74 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "J202")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 45.72 74.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "35b0a697-629e-413b-8862-26cc2f2053f6")
+		(property "Reference" "R203"
+			(at 45.72 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "33.2k"
+			(at 45.72 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 45.72 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW040233K2FKED"
+			(at 45.72 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "631af04c-9d2d-4ec5-83c2-74f16bfa0577")
+		)
+		(pin "2"
+			(uuid "82b0545c-898e-4e36-93c8-d04ccddf0122")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R203")
 					(unit 1)
 				)
 			)
@@ -12261,7 +12071,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0602"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 345.44 132.08 0)
 			(effects
 				(font
@@ -12369,73 +12179,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 383.54 177.8 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3be44ad9-5848-48b9-ad50-47e011e328a7")
-		(property "Reference" "R242"
-			(at 385.572 176.022 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2k"
-			(at 381 176.022 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 383.54 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 383.54 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c101c2cb-7af8-47bd-9191-b176dd9b7f22")
-		)
-		(pin "2"
-			(uuid "6273bf50-07ef-4299-b825-282fa41ccdd8")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R242")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 30.48 109.22 0)
 		(unit 1)
@@ -12461,7 +12204,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 30.48 104.14 0)
 			(effects
 				(font
@@ -12479,7 +12222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "TL1015AF160QG"
 			(at 30.48 109.22 0)
 			(effects
 				(font
@@ -12498,6 +12241,74 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "SW205")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 45.72 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3e6a93a8-25c4-455c-b70a-ac21d2a46725")
+		(property "Reference" "R204"
+			(at 45.72 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "33.2k"
+			(at 45.72 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 45.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW040233K2FKED"
+			(at 45.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d4933230-33a4-4536-b377-557afdfa19bb")
+		)
+		(pin "2"
+			(uuid "afbcd933-16ef-4451-a539-7ba63cd60eff")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R204")
 					(unit 1)
 				)
 			)
@@ -12563,6 +12374,141 @@
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "#PWR0202")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 45.72 137.16 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40f3af9d-806f-47e2-97d9-4d3552a1021c")
+		(property "Reference" "R206"
+			(at 45.72 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "33.2k"
+			(at 45.72 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 45.72 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW040233K2FKED"
+			(at 45.72 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "142d514c-e1f0-4328-ad03-f26bae3b6182")
+		)
+		(pin "2"
+			(uuid "15e2c223-91f6-431d-9205-413b44ef3307")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R206")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 383.54 193.04 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "42493ee2-f654-46b9-9108-92803361a996")
+		(property "Reference" "R246"
+			(at 385.572 191.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k"
+			(at 381 191.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 383.54 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ERJ-2RKF2001X"
+			(at 383.54 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb9768d7-5f41-4b94-bae5-dadbd7a9f7ae")
+		)
+		(pin "2"
+			(uuid "80df105e-afdf-472d-b38f-6f6a48c4d83f")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R246")
 					(unit 1)
 				)
 			)
@@ -12662,7 +12608,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 387.35 41.91 0)
 			(effects
 				(font
@@ -12680,7 +12626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+		(property "Description" "MMBT2222A"
 			(at 323.85 41.91 0)
 			(effects
 				(font
@@ -12866,32 +12812,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 30.48 116.84 90)
+		(lib_id "Device:R_Small")
+		(at 45.72 116.84 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "44cd2c18-1ec5-4b75-ac53-6a3f6b68c660")
-		(property "Reference" "C205"
-			(at 30.48 111.252 90)
+		(fields_autoplaced yes)
+		(uuid "460cdbaf-a401-42f5-8985-fd71c977c961")
+		(property "Reference" "R205"
+			(at 45.72 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "470pF"
-			(at 30.48 113.792 90)
+		(property "Value" "33.2k"
+			(at 45.72 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "0402"
-			(at 30.48 116.84 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 45.72 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12900,7 +12847,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.48 116.84 0)
+			(at 45.72 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12908,25 +12855,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "GRM1555C1E471JA01D"
-			(at 30.48 116.84 0)
+		(property "Description" "CRCW040233K2FKED"
+			(at 45.72 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "1729be52-1a9d-44c8-a835-6ff33d49e17e")
 		)
 		(pin "1"
-			(uuid "e97be13e-f0c6-49ec-b19c-4be7c54988ea")
+			(uuid "c56e9b32-d8ee-41be-a6e6-bc6455ded3ae")
+		)
+		(pin "2"
+			(uuid "5689809f-ff4d-4586-9c62-d3f2cbc2efe3")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "C205")
+					(reference "R205")
 					(unit 1)
 				)
 			)
@@ -13025,7 +12972,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PinHeader_2x08_P2.54mm_Vertical"
 			(at 34.29 246.38 0)
 			(effects
 				(font
@@ -13043,7 +12990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "PPPC082LFBN-RC"
 			(at 34.29 246.38 0)
 			(effects
 				(font
@@ -13412,7 +13359,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 394.97 73.66 90)
 			(effects
 				(font
@@ -13430,7 +13377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol, filled shape"
+		(property "Description" "SMLD12BN1WT86C"
 			(at 394.97 73.66 0)
 			(effects
 				(font
@@ -13449,6 +13396,140 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "D201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 30.48 116.84 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4fa082a5-722e-4ac5-9ddb-e78fc04d97f8")
+		(property "Reference" "C205"
+			(at 30.48 111.252 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470pF"
+			(at 30.48 113.792 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 30.48 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM1555C1E471JA01D"
+			(at 30.48 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "36fee3d2-8e6a-42ac-adc1-84d47480be3d")
+		)
+		(pin "1"
+			(uuid "94dc74ac-c375-4728-a5ae-34b70a5e6c71")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "C205")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 30.48 137.16 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5057aafd-cb69-45ee-96ec-4ed43e501173")
+		(property "Reference" "C206"
+			(at 30.48 131.572 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470pF"
+			(at 30.48 134.112 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 30.48 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM1555C1E471JA01D"
+			(at 30.48 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "18f71a96-6bb5-4559-99ce-f719bcbbb5da")
+		)
+		(pin "1"
+			(uuid "4c484089-8385-41e0-a68b-168869c63714")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "C206")
 					(unit 1)
 				)
 			)
@@ -13877,7 +13958,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 81.28 199.39 0)
 			(effects
 				(font
@@ -14010,7 +14091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 246.38 267.97 0)
 			(effects
 				(font
@@ -14145,7 +14226,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 326.39 73.66 90)
 			(effects
 				(font
@@ -14163,7 +14244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol, filled shape"
+		(property "Description" "SMLD12BN1WT86C"
 			(at 326.39 73.66 0)
 			(effects
 				(font
@@ -14189,83 +14270,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 45.72 54.61 90)
+		(at 383.54 170.18 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59761a76-4685-4159-bb80-a154b513d8b5")
-		(property "Reference" "R202"
-			(at 45.72 49.53 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "33.2k"
-			(at 45.72 52.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 45.72 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 45.72 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW040233K2FKED"
-			(at 45.72 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8d0399fe-98f3-4216-8eb2-520912988999")
-		)
-		(pin "2"
-			(uuid "67a2526b-64e5-4cf6-8968-e84812f6251d")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R202")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 383.54 181.61 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "59b97130-edce-483c-a7dd-fcc961cbcb0e")
-		(property "Reference" "R243"
-			(at 385.572 179.832 90)
+		(uuid "5906d7d2-6b8f-4fed-bd57-3ec05785e632")
+		(property "Reference" "R240"
+			(at 385.572 168.402 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14273,15 +14286,15 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 381 179.832 90)
+			(at 381 168.402 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "0402"
-			(at 383.54 181.61 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14290,7 +14303,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 383.54 181.61 0)
+			(at 383.54 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14299,7 +14312,7 @@
 			)
 		)
 		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 181.61 0)
+			(at 383.54 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14308,15 +14321,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "c38503ff-cdb9-422a-8379-5e960c8b3495")
+			(uuid "cba9c970-50ee-4f62-825d-7be159c59914")
 		)
 		(pin "2"
-			(uuid "86181462-56c1-40b2-8ad3-5bc5669d7aa9")
+			(uuid "a23485cb-4af6-44bd-bdc5-d6bf4cc6b006")
 		)
 		(instances
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R243")
+					(reference "R240")
 					(unit 1)
 				)
 			)
@@ -14416,7 +14429,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
 			(at 326.39 33.02 90)
 			(effects
 				(font
@@ -14434,7 +14447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol, filled shape"
+		(property "Description" "SML-P11UTT86R"
 			(at 326.39 33.02 0)
 			(effects
 				(font
@@ -14486,7 +14499,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 326.39 26.67 0)
 			(effects
 				(font
@@ -14622,7 +14635,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0603"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 39.37 198.12 0)
 			(effects
 				(font
@@ -14887,7 +14900,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 30.48 165.1 0)
 			(effects
 				(font
@@ -14905,7 +14918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "TL1015AF160QG"
 			(at 30.48 170.18 0)
 			(effects
 				(font
@@ -14954,7 +14967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 226.06 267.97 0)
 			(effects
 				(font
@@ -15021,7 +15034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 236.22 267.97 0)
 			(effects
 				(font
@@ -15129,73 +15142,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 383.54 173.99 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6864ac94-e56f-4e31-b1ef-a875074cc2de")
-		(property "Reference" "R241"
-			(at 385.572 172.212 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2k"
-			(at 381 172.212 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 383.54 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 383.54 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1a31e175-ee7e-4efc-b162-3d84d446e070")
-		)
-		(pin "2"
-			(uuid "1b9e89e0-8c5d-45d3-add7-601df3755933")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R241")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 198.12 78.74 270)
 		(unit 1)
@@ -15220,7 +15166,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 203.2 78.74 0)
 			(effects
 				(font
@@ -15238,7 +15184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "TL1015AF160QG"
 			(at 198.12 78.74 0)
 			(effects
 				(font
@@ -15257,6 +15203,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "SW209")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 383.54 196.85 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "69dda752-a9e3-4c40-9d2e-e3b1d537adee")
+		(property "Reference" "R247"
+			(at 385.572 195.072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k"
+			(at 381 195.072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 383.54 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ERJ-2RKF2001X"
+			(at 383.54 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24a728b5-b019-4cee-b341-a5f66db79788")
+		)
+		(pin "2"
+			(uuid "fdaa11d0-ce75-4922-bfaf-3c9f6d79724f")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R247")
 					(unit 1)
 				)
 			)
@@ -15527,76 +15540,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 382.27 132.08 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "708ebee0-d192-41fb-8578-e87716c122df")
-		(property "Reference" "R214"
-			(at 384.81 130.8099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 384.81 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "0602"
-			(at 382.27 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 382.27 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW060310K0FKEA"
-			(at 382.27 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7ba2ce29-c6f8-4065-be10-01cc9aa7ba27")
-		)
-		(pin "2"
-			(uuid "5ae6fdea-442f-45cb-867c-cb27317f2d15")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R214")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
 		(at 394.97 26.67 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15623,7 +15566,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 394.97 26.67 0)
 			(effects
 				(font
@@ -15758,7 +15701,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 360.68 26.67 0)
 			(effects
 				(font
@@ -15891,7 +15834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 195.58 267.97 0)
 			(effects
 				(font
@@ -15961,7 +15904,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 360.68 67.31 0)
 			(effects
 				(font
@@ -16005,15 +15948,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 383.54 196.85 270)
+		(at 383.54 185.42 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "8351f04e-e5bc-43b4-abff-3ac89bc9c340")
-		(property "Reference" "R247"
-			(at 385.572 195.072 90)
+		(uuid "7d49d589-3860-4987-93c9-b2287c948970")
+		(property "Reference" "R244"
+			(at 385.572 183.642 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16021,15 +15964,15 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 381 195.072 90)
+			(at 381 183.642 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "0402"
-			(at 383.54 196.85 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16038,7 +15981,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 383.54 196.85 0)
+			(at 383.54 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16047,7 +15990,7 @@
 			)
 		)
 		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 196.85 0)
+			(at 383.54 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16056,15 +15999,82 @@
 			)
 		)
 		(pin "1"
-			(uuid "7a0819eb-12f8-42ec-bbef-8cbf1a163ca6")
+			(uuid "dd3cd99e-22a9-44e9-b667-dc316ea0451b")
 		)
 		(pin "2"
-			(uuid "c44f6e45-7554-4ae8-9580-2d7f1b805f3c")
+			(uuid "d4775624-edcb-491d-b4fd-db4660f2c7e9")
 		)
 		(instances
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R247")
+					(reference "R244")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 383.54 181.61 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8402355f-1d5e-4874-a2b5-f7ccb9e012fb")
+		(property "Reference" "R243"
+			(at 385.572 179.832 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k"
+			(at 381 179.832 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 383.54 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ERJ-2RKF2001X"
+			(at 383.54 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2a197c0d-529e-4964-80ba-2bdb0521e583")
+		)
+		(pin "2"
+			(uuid "aab59be5-395c-475f-94d2-871989df87ba")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R243")
 					(unit 1)
 				)
 			)
@@ -16131,6 +16141,214 @@
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "#PWR0781")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 354.33 132.08 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "868277db-a9e5-4043-82a7-70d6d53247f4")
+		(property "Reference" "R211"
+			(at 356.87 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 356.87 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+			(at 354.33 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 354.33 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW060310K0FKEA"
+			(at 354.33 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "874e2649-b1b1-4765-a895-cda797411a4f")
+		)
+		(pin "2"
+			(uuid "93595869-d5db-40f4-916e-9787bd1d4b0b")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R211")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 382.27 132.08 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8707b78d-5071-4bfa-bea1-71622088b8e9")
+		(property "Reference" "R214"
+			(at 384.81 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 384.81 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+			(at 382.27 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 382.27 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW060310K0FKEA"
+			(at 382.27 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e3ec76fc-fc00-4256-a4d2-81cf83c5a6f3")
+		)
+		(pin "2"
+			(uuid "4df589e3-ae3f-4f99-8ef7-0435ee91eb3c")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R214")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 45.72 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "88a7f764-b8bd-4dda-974b-c5908b758055")
+		(property "Reference" "R207"
+			(at 45.72 152.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "33.2k"
+			(at 45.72 154.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 45.72 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW040233K2FKED"
+			(at 45.72 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c28ec7b4-b99e-43e8-94b3-14986c186aa3")
+		)
+		(pin "2"
+			(uuid "35ea8763-a787-48ea-9e50-4744c8b6bca8")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R207")
 					(unit 1)
 				)
 			)
@@ -16263,6 +16481,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "#PWR0272")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 30.48 54.61 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8ce99aed-89bf-4aac-950b-0c79810afc42")
+		(property "Reference" "C202"
+			(at 30.48 49.022 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470pF"
+			(at 30.48 51.562 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 30.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM1555C1E471JA01D"
+			(at 30.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1854bd22-0dcd-4588-ae90-b486666d7446")
+		)
+		(pin "1"
+			(uuid "89041067-aa3c-49d5-8413-81796b926d52")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "C202")
 					(unit 1)
 				)
 			)
@@ -16402,76 +16687,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 372.11 132.08 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d1c0abc-0d13-470d-8e58-0e81d64e9125")
-		(property "Reference" "R213"
-			(at 374.65 130.8099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 374.65 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "0602"
-			(at 372.11 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 372.11 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW060310K0FKEA"
-			(at 372.11 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "04cc0aa4-4161-4910-9c81-32b67c573cec")
-		)
-		(pin "2"
-			(uuid "a9d8e251-7abe-4816-a64b-316acdc51fdb")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R213")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 30.48 149.86 0)
 		(unit 1)
@@ -16497,7 +16712,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 30.48 144.78 0)
 			(effects
 				(font
@@ -16515,7 +16730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "TL1015AF160QG"
 			(at 30.48 149.86 0)
 			(effects
 				(font
@@ -16565,7 +16780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 30.48 21.59 0)
 			(effects
 				(font
@@ -16583,7 +16798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "TL1015AF160QG"
 			(at 30.48 26.67 0)
 			(effects
 				(font
@@ -16602,73 +16817,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "SW201")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 30.48 54.61 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8fd2bac8-8328-43e1-b137-5afaf21dbbc9")
-		(property "Reference" "C202"
-			(at 30.48 49.022 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470pF"
-			(at 30.48 51.562 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 30.48 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 30.48 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM1555C1E471JA01D"
-			(at 30.48 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e40534bd-417f-456a-bbdf-d098d8474c14")
-		)
-		(pin "1"
-			(uuid "52860dd6-6637-4111-b79d-679a888063c5")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "C202")
 					(unit 1)
 				)
 			)
@@ -16702,7 +16850,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0603"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 39.37 205.74 0)
 			(effects
 				(font
@@ -16745,6 +16893,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 30.48 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "906dadb0-91de-4088-90ae-c6d881349b51")
+		(property "Reference" "C204"
+			(at 30.48 89.662 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470pF"
+			(at 30.48 92.202 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 30.48 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM1555C1E471JA01D"
+			(at 30.48 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "59bdb534-2204-44b1-8f83-efc8f24a83dc")
+		)
+		(pin "1"
+			(uuid "b9aba522-d934-4cda-8f0a-8d16f9733159")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "C204")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED_Small_Filled")
 		(at 394.97 33.02 90)
 		(unit 1)
@@ -16772,7 +16987,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 394.97 33.02 90)
 			(effects
 				(font
@@ -16790,7 +17005,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol, filled shape"
+		(property "Description" "SMLD12BN1WT86C"
 			(at 394.97 33.02 0)
 			(effects
 				(font
@@ -17300,7 +17515,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 130.81 172.72 0)
 			(effects
 				(font
@@ -17411,6 +17626,143 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
+		(at 383.54 162.56 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9c97fe85-7bd5-488c-9d80-e716a7e6f1d7")
+		(property "Reference" "R238"
+			(at 385.572 160.782 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k"
+			(at 381 160.782 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 383.54 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ERJ-2RKF2001X"
+			(at 383.54 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fa55d02d-4d3d-425d-b06c-aae7fb4f9388")
+		)
+		(pin "2"
+			(uuid "1e17ae54-1bb2-488f-9e89-3f6c74252638")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R238")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 372.11 132.08 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c9ad79c-19ed-4b13-88d8-508f4c25d04a")
+		(property "Reference" "R213"
+			(at 374.65 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 374.65 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+			(at 372.11 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 372.11 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW060310K0FKEA"
+			(at 372.11 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf478e00-bbe9-4cc4-b74f-4a2a0594c976")
+		)
+		(pin "2"
+			(uuid "f0fc397c-4635-4b4a-a02a-cab04c0f84fb")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R213")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
 		(at 270.51 252.73 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17435,7 +17787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0602"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 270.51 252.73 0)
 			(effects
 				(font
@@ -17505,7 +17857,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 185.42 26.67 0)
 			(effects
 				(font
@@ -17542,6 +17894,141 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "R229")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 45.72 54.61 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9d98e48f-7934-4c3b-92c7-6fcdc74148ba")
+		(property "Reference" "R202"
+			(at 45.72 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "33.2k"
+			(at 45.72 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 45.72 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW040233K2FKED"
+			(at 45.72 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "75913612-3686-429a-a2bd-8f0d4f0b7e9f")
+		)
+		(pin "2"
+			(uuid "714a73b5-cf4d-43ea-a5b9-70a2950a0477")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R202")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 383.54 166.37 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9dd3abc8-4e71-4399-afe9-6e867703a513")
+		(property "Reference" "R239"
+			(at 385.572 164.592 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k"
+			(at 381 164.592 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 383.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ERJ-2RKF2001X"
+			(at 383.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "68609b34-d9cc-4d64-89f8-ebc471e00639")
+		)
+		(pin "2"
+			(uuid "e2ab6a90-250a-4176-a850-9f7f29ac295e")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R239")
 					(unit 1)
 				)
 			)
@@ -17680,74 +18167,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 45.72 137.16 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9eee492b-146c-45ee-b211-8c481ec2b568")
-		(property "Reference" "R206"
-			(at 45.72 132.08 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "33.2k"
-			(at 45.72 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 45.72 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 45.72 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW040233K2FKED"
-			(at 45.72 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "53995716-9956-4bb6-ba5b-fa8377ce3e12")
-		)
-		(pin "2"
-			(uuid "65140332-be9f-40f3-a1cf-3bfb206fa28e")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R206")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED_Small_Filled")
 		(at 360.68 73.66 90)
 		(unit 1)
@@ -17775,7 +18194,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 360.68 73.66 90)
 			(effects
 				(font
@@ -17793,7 +18212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol, filled shape"
+		(property "Description" "SMLD12BN1WT86C"
 			(at 360.68 73.66 0)
 			(effects
 				(font
@@ -17845,7 +18264,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 326.39 67.31 0)
 			(effects
 				(font
@@ -17977,7 +18396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0603"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 185.42 34.29 0)
 			(effects
 				(font
@@ -18110,7 +18529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 314.96 41.91 0)
 			(effects
 				(font
@@ -18154,15 +18573,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 383.54 185.42 270)
+		(at 383.54 177.8 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a5640980-6073-45ae-8d08-03c588b48286")
-		(property "Reference" "R244"
-			(at 385.572 183.642 90)
+		(uuid "a5e3d654-112b-4e00-8781-408ebf887c14")
+		(property "Reference" "R242"
+			(at 385.572 176.022 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18170,15 +18589,15 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 381 183.642 90)
+			(at 381 176.022 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "0402"
-			(at 383.54 185.42 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18187,7 +18606,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 383.54 185.42 0)
+			(at 383.54 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18196,7 +18615,7 @@
 			)
 		)
 		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 185.42 0)
+			(at 383.54 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18205,82 +18624,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "36a4c849-df65-4c13-b223-7a5e30a88161")
+			(uuid "47b2e684-59f4-4453-8e76-8f0f96747523")
 		)
 		(pin "2"
-			(uuid "1c65a6f4-c545-4339-9a9a-457bd51382ea")
+			(uuid "f3bfdf45-d740-4e6b-9903-83f056b2aa44")
 		)
 		(instances
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R244")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 383.54 162.56 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a6aac034-818e-4254-9b7a-89720983c9fe")
-		(property "Reference" "R238"
-			(at 385.572 160.782 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2k"
-			(at 381 160.782 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 383.54 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 383.54 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2f5cd3ea-f063-4779-b02b-3b96a4ccd523")
-		)
-		(pin "2"
-			(uuid "5b559962-d542-4ab2-81f8-0366ec592e1e")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R238")
+					(reference "R242")
 					(unit 1)
 				)
 			)
@@ -18354,16 +18706,16 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 45.72 74.93 90)
+		(at 45.72 34.29 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ac4082e4-3b4e-40a1-ac02-239c7c01b0b6")
-		(property "Reference" "R203"
-			(at 45.72 69.85 90)
+		(uuid "a90a77f9-a972-494f-9b72-751c1d738a04")
+		(property "Reference" "R201"
+			(at 45.72 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18371,15 +18723,15 @@
 			)
 		)
 		(property "Value" "33.2k"
-			(at 45.72 72.39 90)
+			(at 45.72 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "0402"
-			(at 45.72 74.93 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 45.72 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18388,7 +18740,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 74.93 0)
+			(at 45.72 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18397,7 +18749,7 @@
 			)
 		)
 		(property "Description" "CRCW040233K2FKED"
-			(at 45.72 74.93 0)
+			(at 45.72 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18406,15 +18758,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "d752d604-7da6-4518-9a3b-c11c90f1f2b6")
+			(uuid "46765015-a170-4c41-aa93-809ea9aa645e")
 		)
 		(pin "2"
-			(uuid "31ab4711-aac3-4e31-b22b-2cc261a23daa")
+			(uuid "1e90f278-6a13-4f27-b2a7-3d4b14d26405")
 		)
 		(instances
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R203")
+					(reference "R201")
 					(unit 1)
 				)
 			)
@@ -18446,7 +18798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 45.72 177.8 0)
 			(effects
 				(font
@@ -18514,7 +18866,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 30.48 62.23 0)
 			(effects
 				(font
@@ -18532,7 +18884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "TL1015AF160QG"
 			(at 30.48 67.31 0)
 			(effects
 				(font
@@ -18551,6 +18903,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "SW203")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 383.54 173.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ae6b33dc-b857-4d55-ac9b-651e53b9b687")
+		(property "Reference" "R241"
+			(at 385.572 172.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k"
+			(at 381 172.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 383.54 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ERJ-2RKF2001X"
+			(at 383.54 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9b1e13bd-c34d-4bf6-bf03-2f41616c9975")
+		)
+		(pin "2"
+			(uuid "33843207-677c-48d9-a837-f89f9cf1641d")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R241")
 					(unit 1)
 				)
 			)
@@ -18622,6 +19041,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 383.54 189.23 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b1f141bd-b927-4076-b259-be408cad6d03")
+		(property "Reference" "R245"
+			(at 385.572 187.452 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k"
+			(at 381 187.452 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 383.54 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ERJ-2RKF2001X"
+			(at 383.54 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "91190df7-40f3-483e-a7ea-eb7785a61b4a")
+		)
+		(pin "2"
+			(uuid "38f41e66-52bc-42d8-aa9c-d876d90fd91f")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R245")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Simulation_SPICE:NPN")
 		(at 358.14 41.91 0)
 		(unit 1)
@@ -18648,7 +19134,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 421.64 41.91 0)
 			(effects
 				(font
@@ -18666,7 +19152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+		(property "Description" "MMBT2222A"
 			(at 358.14 41.91 0)
 			(effects
 				(font
@@ -18745,7 +19231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 175.26 267.97 0)
 			(effects
 				(font
@@ -18782,209 +19268,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "C209")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 30.48 157.48 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b47c5c8e-209d-4b26-a6fe-d95c6e335a25")
-		(property "Reference" "C207"
-			(at 30.48 151.892 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470pF"
-			(at 30.48 154.432 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 30.48 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 30.48 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM1555C1E471JA01D"
-			(at 30.48 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "37c8eab4-475d-4e06-9b6d-dd1f60923e6f")
-		)
-		(pin "1"
-			(uuid "f0dbad85-5606-4fab-a408-31af8f4e9bad")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "C207")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 45.72 157.48 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b61d8115-6865-4ee5-9ecb-8f1e575bf0c1")
-		(property "Reference" "R207"
-			(at 45.72 152.4 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "33.2k"
-			(at 45.72 154.94 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 45.72 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 45.72 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW040233K2FKED"
-			(at 45.72 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "483f0a0d-0f5b-4bfc-90c8-b8fbad8ceb7b")
-		)
-		(pin "2"
-			(uuid "f80a8708-c749-455d-b12a-3a1f5c0fdcf2")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R207")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 45.72 34.29 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bb8d93a1-3794-4f7c-9e08-f6978c1d5b1a")
-		(property "Reference" "R201"
-			(at 45.72 29.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "33.2k"
-			(at 45.72 31.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 45.72 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 45.72 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW040233K2FKED"
-			(at 45.72 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "347b51a0-71b5-4869-8984-e6173c3b59b0")
-		)
-		(pin "2"
-			(uuid "3325eddf-a55a-43eb-8bf2-ddd60ef20d5d")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R201")
 					(unit 1)
 				)
 			)
@@ -19216,7 +19499,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 455.93 41.91 0)
 			(effects
 				(font
@@ -19225,7 +19508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+		(property "Datasheet" "MMBT2222A"
 			(at 455.93 41.91 0)
 			(effects
 				(font
@@ -19283,74 +19566,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "Q205")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 45.72 116.84 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c29665d9-2d12-49e2-9d32-06f593cd6f34")
-		(property "Reference" "R205"
-			(at 45.72 111.76 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "33.2k"
-			(at 45.72 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 45.72 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 45.72 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW040233K2FKED"
-			(at 45.72 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89b8d4b2-73f2-4366-b346-4b824f0f1345")
-		)
-		(pin "2"
-			(uuid "05b8c44b-b2e8-466c-910f-7c6ad2d808b9")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R205")
 					(unit 1)
 				)
 			)
@@ -19448,7 +19663,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 30.48 124.46 0)
 			(effects
 				(font
@@ -19466,7 +19681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "TL1015AF160QG"
 			(at 30.48 129.54 0)
 			(effects
 				(font
@@ -19516,7 +19731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 194.31 68.58 0)
 			(effects
 				(font
@@ -19624,76 +19839,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 354.33 132.08 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c630a424-6e24-488a-87c3-30d5e6324728")
-		(property "Reference" "R211"
-			(at 356.87 130.8099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 356.87 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "0602"
-			(at 354.33 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 354.33 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW060310K0FKEA"
-			(at 354.33 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f2189c55-977c-46fe-b7d4-4d98ba7e2c0a")
-		)
-		(pin "2"
-			(uuid "892d5ebd-523d-497b-8195-1ecda96e3cf7")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R211")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Simulation_SPICE:NPN")
 		(at 323.85 82.55 0)
 		(unit 1)
@@ -19721,7 +19866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 387.35 82.55 0)
 			(effects
 				(font
@@ -19730,7 +19875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+		(property "Datasheet" "MMBT2222A"
 			(at 387.35 82.55 0)
 			(effects
 				(font
@@ -19859,73 +20004,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 383.54 200.66 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d21ab6f8-bc00-4e09-9cd0-04fc89276f45")
-		(property "Reference" "R248"
-			(at 385.572 198.882 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2k"
-			(at 381 198.882 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 383.54 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 383.54 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c975a683-c05d-43fb-b48f-cb46887f0207")
-		)
-		(pin "2"
-			(uuid "cacd40ea-4edd-4dcd-8dab-ddac60109455")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R248")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 189.23 78.74 0)
 		(unit 1)
@@ -19950,7 +20028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0603"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 189.23 78.74 0)
 			(effects
 				(font
@@ -20020,7 +20098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 421.64 82.55 0)
 			(effects
 				(font
@@ -20038,7 +20116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+		(property "Description" "MMBT2222A"
 			(at 358.14 82.55 0)
 			(effects
 				(font
@@ -20184,7 +20262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 215.9 267.97 0)
 			(effects
 				(font
@@ -20227,140 +20305,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 30.48 95.25 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "de6f5afe-95f4-40d1-962c-16e3b548215d")
-		(property "Reference" "C204"
-			(at 30.48 89.662 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470pF"
-			(at 30.48 92.202 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 30.48 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 30.48 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM1555C1E471JA01D"
-			(at 30.48 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "360bae7b-d4c2-415f-a7cf-f2c1ed55ce37")
-		)
-		(pin "1"
-			(uuid "56d22e9d-fcb1-4f5e-aec4-ce5b8af653d3")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "C204")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 383.54 170.18 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "df5be313-29b0-4a51-9967-0685b956931b")
-		(property "Reference" "R240"
-			(at 385.572 168.402 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2k"
-			(at 381 168.402 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 383.54 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 383.54 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bc665830-d537-429c-b1c0-81b02d5a6cf3")
-		)
-		(pin "2"
-			(uuid "677133c3-1534-467c-b7ca-d53168f0db77")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R240")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 349.25 82.55 270)
 		(unit 1)
@@ -20386,7 +20330,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 349.25 82.55 0)
 			(effects
 				(font
@@ -20561,73 +20505,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 30.48 74.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e4346247-6f15-48c6-b546-641a30809378")
-		(property "Reference" "C203"
-			(at 30.48 69.342 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470pF"
-			(at 30.48 71.882 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "GRM1555C1E471JA01D"
-			(at 30.48 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 30.48 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM1555C1E471JA01D"
-			(at 30.48 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b963170a-7410-4677-a11c-dba400d87e0d")
-		)
-		(pin "1"
-			(uuid "168ae1a3-3c4c-4441-ad65-a8a2c222c8ca")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "C203")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 205.74 265.43 0)
 		(unit 1)
@@ -20718,7 +20595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 115.57 172.72 0)
 			(effects
 				(font
@@ -20850,7 +20727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 205.74 267.97 0)
 			(effects
 				(font
@@ -20893,32 +20770,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 383.54 166.37 270)
+		(lib_id "Device:C_Small")
+		(at 30.48 34.29 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ed6d2802-9476-429b-8bff-fa867fdaf864")
-		(property "Reference" "R239"
-			(at 385.572 164.592 90)
+		(uuid "ecb9cf41-b346-4f57-9120-d6fccf924b48")
+		(property "Reference" "C201"
+			(at 30.48 28.702 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "2k"
-			(at 381 164.592 90)
+		(property "Value" "470pF"
+			(at 30.48 31.242 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "0402"
-			(at 383.54 166.37 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 30.48 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20927,7 +20804,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 383.54 166.37 0)
+			(at 30.48 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20935,25 +20812,92 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "ERJ-2RKF2001X"
-			(at 383.54 166.37 0)
+		(property "Description" "GRM1555C1E471JA01D"
+			(at 30.48 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "d8c27728-2dc6-4c5a-9021-132ba1ab74c3")
 		)
 		(pin "2"
-			(uuid "0791e895-de11-4bfc-ad83-689b355241a3")
+			(uuid "8a86153a-e82e-4118-b835-0cb21e48c7d1")
+		)
+		(pin "1"
+			(uuid "bf153369-ec65-493e-8909-50c635e81552")
 		)
 		(instances
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R239")
+					(reference "C201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 30.48 74.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ee996d27-c224-4ce3-8272-23f2de1a52b6")
+		(property "Reference" "C203"
+			(at 30.48 69.342 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470pF"
+			(at 30.48 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 30.48 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM1555C1E471JA01D"
+			(at 30.48 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bcaef1df-e552-4536-bd52-acb54552047b")
+		)
+		(pin "1"
+			(uuid "5f3d118d-d1df-4a7b-b9ec-bbb38a8ef456")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "C203")
 					(unit 1)
 				)
 			)
@@ -21052,7 +20996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0603"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 81.28 208.28 0)
 			(effects
 				(font
@@ -21089,6 +21033,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "R232")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 30.48 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f50a4d05-a762-4b79-94ef-0da83e1b4d72")
+		(property "Reference" "C207"
+			(at 30.48 151.892 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470pF"
+			(at 30.48 154.432 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 30.48 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM1555C1E471JA01D"
+			(at 30.48 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c8fca513-a044-44c9-8325-28e8e3714f5d")
+		)
+		(pin "1"
+			(uuid "c4cfe1bf-ae7a-4737-a367-125a72d20368")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "C207")
 					(unit 1)
 				)
 			)
@@ -21189,7 +21200,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 300.99 133.35 0)
 			(effects
 				(font
@@ -21226,6 +21237,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
 					(reference "R209")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 383.54 200.66 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9062a22-827c-44f5-aefe-44d2f6d7f8c8")
+		(property "Reference" "R248"
+			(at 385.572 198.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2k"
+			(at 381 198.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 383.54 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 383.54 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ERJ-2RKF2001X"
+			(at 383.54 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c65d2a3d-f403-4f0c-9d65-dc42ce947bad")
+		)
+		(pin "2"
+			(uuid "09a095cc-9482-4fa5-910b-4f6a763facb3")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
+					(reference "R248")
 					(unit 1)
 				)
 			)
@@ -21363,74 +21441,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 45.72 95.25 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fb146fa4-8807-425e-9cb6-040079a33517")
-		(property "Reference" "R204"
-			(at 45.72 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "33.2k"
-			(at 45.72 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "0402"
-			(at 45.72 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 45.72 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW040233K2FKED"
-			(at 45.72 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "26ada055-5431-49cc-a698-5b0df3fd70b6")
-		)
-		(pin "2"
-			(uuid "910153a6-f797-4159-bbe3-38756b46db10")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4"
-					(reference "R204")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:Earth")
 		(at 20.32 54.61 270)
 		(unit 1)
@@ -21524,7 +21534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PinSocket_1x06_P1.27mm_Vertical"
 			(at 220.98 46.99 0)
 			(effects
 				(font
@@ -21542,7 +21552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "851-43-006-10-001000"
 			(at 220.98 46.99 0)
 			(effects
 				(font
@@ -21604,7 +21614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0402"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 383.54 82.55 0)
 			(effects
 				(font

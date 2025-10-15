@@ -5597,6 +5597,12 @@
 		(uuid "a5c3c31b-e23a-4afd-acb6-d4f221e14b97")
 	)
 	(junction
+		(at 197.485 88.265)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8007a5e-5743-4ff5-8d59-c587ce52e227")
+	)
+	(junction
 		(at 370.205 66.675)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5612,7 +5618,7 @@
 		(at 197.485 69.215)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "adedd665-a412-44f8-a857-20fb15b21e46")
+		(uuid "b221bce1-c4df-469a-b2e5-18431064a945")
 	)
 	(junction
 		(at 297.18 40.005)
@@ -5631,12 +5637,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b7d528f0-01a5-480b-8f54-bb786f390c00")
-	)
-	(junction
-		(at 197.485 109.855)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b8c72d40-32e9-4cf3-afc5-d4597ebbc982")
 	)
 	(junction
 		(at 60.96 99.695)
@@ -5697,6 +5697,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4ba433f-9ee8-4596-a807-9d194c6c844a")
+	)
+	(junction
+		(at 197.485 109.855)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d51d4164-9015-4a7d-b22d-2bc63436a1d6")
 	)
 	(junction
 		(at 321.31 188.595)
@@ -5769,12 +5775,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5bb5e53-aa2e-4f7e-a13d-b27dcdb89a8a")
-	)
-	(junction
-		(at 197.485 88.265)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f99264be-165e-4cea-893f-ad7099e8d2eb")
 	)
 	(junction
 		(at 127 107.315)
@@ -5942,6 +5942,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 69.215) (xy 197.485 69.215)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0898d3a0-c632-44d0-87b6-e2c54af84b0b")
+	)
+	(wire
+		(pts
 			(xy 86.995 209.55) (xy 102.235 209.55)
 		)
 		(stroke
@@ -6019,6 +6029,16 @@
 			(type default)
 		)
 		(uuid "0cd031f8-83a4-4cfb-a793-47c23c9ccb85")
+	)
+	(wire
+		(pts
+			(xy 197.485 69.215) (xy 210.185 69.215)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e0db87a-32d7-4557-b73a-a158f9b4e770")
 	)
 	(wire
 		(pts
@@ -6329,6 +6349,16 @@
 			(type default)
 		)
 		(uuid "247c6155-8d2b-432c-9bfe-1d32bb9fce89")
+	)
+	(wire
+		(pts
+			(xy 194.31 109.855) (xy 197.485 109.855)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24975863-7829-4cc7-a4ce-86766ad48fb0")
 	)
 	(wire
 		(pts
@@ -7262,6 +7292,16 @@
 	)
 	(wire
 		(pts
+			(xy 197.485 88.265) (xy 210.185 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c48a755-51d4-489f-9954-c92999213732")
+	)
+	(wire
+		(pts
 			(xy 279.4 40.005) (xy 266.7 40.005)
 		)
 		(stroke
@@ -7562,16 +7602,6 @@
 	)
 	(wire
 		(pts
-			(xy 197.485 69.215) (xy 210.185 69.215)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "809cad9e-b6ff-4579-b901-20f56abd9ca4")
-	)
-	(wire
-		(pts
 			(xy 43.18 245.11) (xy 101.6 245.11)
 		)
 		(stroke
@@ -7739,16 +7769,6 @@
 			(type default)
 		)
 		(uuid "8e64bf39-2254-4f7a-ac8b-18a41b304746")
-	)
-	(wire
-		(pts
-			(xy 197.485 88.265) (xy 210.185 88.265)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ecf6f7b-e0ef-4546-8146-d61d8579d34c")
 	)
 	(wire
 		(pts
@@ -7942,16 +7962,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 109.855) (xy 197.485 109.855)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a5bd9e2-85bb-4808-824f-287571c29179")
-	)
-	(wire
-		(pts
 			(xy 152.4 53.975) (xy 135.89 53.975)
 		)
 		(stroke
@@ -8132,16 +8142,6 @@
 	)
 	(wire
 		(pts
-			(xy 197.485 109.855) (xy 209.55 109.855)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab51ca6b-f6e1-44e1-9353-76cdb584ede6")
-	)
-	(wire
-		(pts
 			(xy 85.09 267.335) (xy 102.235 267.335)
 		)
 		(stroke
@@ -8219,16 +8219,6 @@
 			(type default)
 		)
 		(uuid "b1a73bf4-4eb7-45fa-be14-4f014e2ebfb5")
-	)
-	(wire
-		(pts
-			(xy 194.31 88.265) (xy 197.485 88.265)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b30b2607-b525-4edf-8845-d4bc61c70855")
 	)
 	(wire
 		(pts
@@ -8352,16 +8342,6 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 102.235) (xy 379.73 100.965)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba5ec596-e540-44c8-917b-c91c197ceed3")
-	)
-	(wire
-		(pts
 			(xy 273.05 31.115) (xy 273.05 29.845)
 		)
 		(stroke
@@ -8399,6 +8379,16 @@
 			(type default)
 		)
 		(uuid "beaf65e8-ab8e-4a05-bac9-06b5ecbd4588")
+	)
+	(wire
+		(pts
+			(xy 370.205 117.475) (xy 370.205 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c04e98df-307e-49db-aded-448e0af03d95")
 	)
 	(wire
 		(pts
@@ -8469,16 +8459,6 @@
 			(type default)
 		)
 		(uuid "c3d86322-b1e2-474e-9f71-a7af4fc2a02f")
-	)
-	(wire
-		(pts
-			(xy 370.205 120.015) (xy 370.205 117.475)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c43afbdc-f760-4c50-990b-54795045d3ba")
 	)
 	(wire
 		(pts
@@ -8702,6 +8682,16 @@
 	)
 	(wire
 		(pts
+			(xy 197.485 109.855) (xy 209.55 109.855)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8c039c4-1b68-44c0-8281-a0a6948aa6ae")
+	)
+	(wire
+		(pts
 			(xy 247.65 99.695) (xy 247.65 93.345)
 		)
 		(stroke
@@ -8709,16 +8699,6 @@
 			(type default)
 		)
 		(uuid "d96a8964-5ed5-4822-9d15-56e723296fb6")
-	)
-	(wire
-		(pts
-			(xy 194.31 69.215) (xy 197.485 69.215)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da6e61df-7951-4b71-ab87-f03a1c95506c")
 	)
 	(wire
 		(pts
@@ -8912,6 +8892,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 88.265) (xy 197.485 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e87b2075-e0b2-49a3-b52b-29a2e7d90bf5")
+	)
+	(wire
+		(pts
 			(xy 30.48 252.73) (xy 30.48 255.27)
 		)
 		(stroke
@@ -9099,6 +9089,16 @@
 			(type default)
 		)
 		(uuid "f92f259b-1597-4a9e-8c68-ca130ea49325")
+	)
+	(wire
+		(pts
+			(xy 379.73 100.965) (xy 379.73 102.235)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9c945f6-a1b4-4ac4-8125-3acb36b8c144")
 	)
 	(wire
 		(pts
@@ -10578,7 +10578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left"
 			(at 172.72 50.165 0)
 			(effects
 				(font
@@ -10596,7 +10596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Jumper, 3-pole, both open"
+		(property "Description" "PBC03SAAN"
 			(at 172.72 50.165 0)
 			(effects
 				(font
@@ -10713,7 +10713,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 135.89 50.165 0)
 			(effects
 				(font
@@ -10731,7 +10731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM1555C1H102JA01D"
 			(at 135.89 50.165 0)
 			(effects
 				(font
@@ -10750,73 +10750,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C410")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 330.2 74.295 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00dc65f3-6c7d-4484-b1a0-adf82b92d616")
-		(property "Reference" "C435"
-			(at 329.946 69.215 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.033uF"
-			(at 329.946 70.993 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 330.2 74.295 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 330.2 74.295 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 330.2 74.295 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "dac45b89-224d-4eb6-8c7a-55971c5cb6bf")
-		)
-		(pin "1"
-			(uuid "70910a92-7caf-4a87-bf81-374c1111870a")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C435")
 					(unit 1)
 				)
 			)
@@ -10882,74 +10815,6 @@
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0539")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 129.54 69.215 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "02d76faf-d48e-47fc-9410-c729f51caf7c")
-		(property "Reference" "R412"
-			(at 129.54 64.135 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "499"
-			(at 129.54 66.675 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 129.54 69.215 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 129.54 69.215 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 129.54 69.215 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "17c156b6-5421-4268-b7be-491919f96dcd")
-		)
-		(pin "2"
-			(uuid "869bc1e7-f2eb-4dd5-885b-21752d876bd9")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "R412")
 					(unit 1)
 				)
 			)
@@ -11046,7 +10911,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 262.89 178.435 0)
 			(effects
 				(font
@@ -11064,7 +10929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM188R71H473KA61D"
 			(at 262.89 178.435 0)
 			(effects
 				(font
@@ -11083,73 +10948,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C431")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 31.75 41.275 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "08ef7b5d-0538-42d4-9eba-32accda437a8")
-		(property "Reference" "C405"
-			(at 27.305 42.418 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10uF"
-			(at 27.305 39.878 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 31.75 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 31.75 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e28e8228-17f1-4b14-9116-6c6c7513f3db")
-		)
-		(pin "1"
-			(uuid "48f59d25-2864-4602-84bd-bb7afc7d986c")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C405")
 					(unit 1)
 				)
 			)
@@ -11375,7 +11173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 197.485 52.705 0)
 			(effects
 				(font
@@ -11393,7 +11191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM1885C1H101JA01D"
 			(at 197.485 52.705 0)
 			(effects
 				(font
@@ -11442,7 +11240,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 121.92 103.505 0)
 			(effects
 				(font
@@ -11460,7 +11258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM155R71A104KA01D"
 			(at 121.92 103.505 0)
 			(effects
 				(font
@@ -11486,31 +11284,31 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 191.77 69.215 270)
+		(at 379.73 142.875 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "0d10a571-38a2-41df-bc71-0c7513bf0d18")
-		(property "Reference" "R414"
-			(at 191.77 65.151 90)
+		(uuid "0d7c34f2-81a4-487e-ad08-1a3f630d0a10")
+		(property "Reference" "R422"
+			(at 375.666 141.605 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100"
-			(at 191.77 66.675 90)
+		(property "Value" "3.3"
+			(at 375.412 143.637 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 191.77 69.215 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 379.73 142.875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11519,7 +11317,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 69.215 0)
+			(at 379.73 142.875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11527,8 +11325,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
-			(at 191.77 69.215 0)
+		(property "Description" "CRCW06033R30JNEA"
+			(at 379.73 142.875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11537,15 +11335,88 @@
 			)
 		)
 		(pin "1"
-			(uuid "1c33026a-5d26-402b-b96e-a5dd227937c3")
+			(uuid "0e5e204e-b365-4426-bb1e-c5f84279ad34")
 		)
 		(pin "2"
-			(uuid "a8fb95c1-c288-400f-a537-d6b622c8e174")
+			(uuid "af0c8cfe-d495-4235-bd9a-02327e06a3c9")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "R414")
+					(reference "R422")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_3_Open")
+		(at 173.99 109.855 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "112cda7d-e45b-481f-8c71-8ea512845486")
+		(property "Reference" "JP404"
+			(at 171.45 108.5849 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Jumper_3_Open"
+			(at 171.45 111.1249 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left"
+			(at 173.99 109.855 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 173.99 109.855 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "PBC03SAAN"
+			(at 173.99 109.855 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e66e0e91-630c-4082-a004-724729c40973")
+		)
+		(pin "3"
+			(uuid "f59106d5-0e3e-430b-b1f6-9a1e599cb612")
+		)
+		(pin "1"
+			(uuid "c6a84902-c045-4775-9864-9788a5b6d259")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "JP404")
 					(unit 1)
 				)
 			)
@@ -11553,15 +11424,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 197.485 71.755 0)
+		(at 197.485 90.805 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "0e428572-dc74-4c9d-864f-0275c03aae63")
-		(property "Reference" "C415"
-			(at 201.93 70.612 0)
+		(uuid "1194b64f-f806-4609-aeca-662764f1627a")
+		(property "Reference" "C417"
+			(at 201.93 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11569,15 +11440,15 @@
 			)
 		)
 		(property "Value" "100pF"
-			(at 201.93 73.152 0)
+			(at 201.93 92.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 197.485 71.755 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 197.485 90.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11586,7 +11457,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 197.485 71.755 0)
+			(at 197.485 90.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11594,8 +11465,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 197.485 71.755 0)
+		(property "Description" "GRM1885C1H101JA01D"
+			(at 197.485 90.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11604,15 +11475,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "30849195-6f47-4b8f-a19c-b6c9037e627c")
+			(uuid "5922aed4-3ba5-4bb4-8fbc-6eda0fe9a24d")
 		)
 		(pin "1"
-			(uuid "cc494cc4-2f6b-4677-944c-3659cf08b613")
+			(uuid "892af69b-c72e-4255-ae76-c198c63b8e71")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C415")
+					(reference "C417")
 					(unit 1)
 				)
 			)
@@ -11644,7 +11515,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 22.86 56.515 0)
 			(effects
 				(font
@@ -11662,7 +11533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "CRCW060310R0JNEA"
 			(at 22.86 56.515 0)
 			(effects
 				(font
@@ -11681,80 +11552,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R408")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L_Iron_Coupled_Small_1243")
-		(at 360.045 112.395 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "145063af-23e5-4c9d-afb6-5268129fb3c8")
-		(property "Reference" "L403"
-			(at 360.045 106.045 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10uH"
-			(at 360.045 108.585 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 360.045 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 360.045 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Coupled inductor with iron core, small symbol"
-			(at 360.045 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "a94e65b7-9933-4de7-82a4-d125841e1338")
-		)
-		(pin "2"
-			(uuid "9d8ffda0-729e-4975-85ce-abb72f0fe88a")
-		)
-		(pin "3"
-			(uuid "03e52103-4426-47f2-a808-5f966583f7f2")
-		)
-		(pin "1"
-			(uuid "8c2d7feb-aaa8-40dc-bc1c-9d69f382e5ef")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "L403")
 					(unit 1)
 				)
 			)
@@ -11892,6 +11689,143 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_Small_US")
+		(at 297.18 46.355 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "172f31ef-a04b-4feb-af8c-f0118017bc1c")
+		(property "Reference" "C425"
+			(at 299.72 44.6531 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 299.72 47.1931 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 297.18 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 297.18 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM31MR71H105KA88L"
+			(at 297.18 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa1a3def-d742-43b2-9e69-7abd0386720c")
+		)
+		(pin "2"
+			(uuid "59f3f7aa-850d-43b6-b217-5093e3b360d9")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C425")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 31.75 41.275 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1812da5c-6826-466a-956f-dd442a1e7aba")
+		(property "Reference" "C401"
+			(at 27.305 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 27.305 39.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 31.75 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.75 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM188R61A106ME69D"
+			(at 31.75 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f4c6cb3f-491f-4cd1-b784-1325b99bb111")
+		)
+		(pin "1"
+			(uuid "5d140bd2-6d56-4167-86d6-6eed13f8995c")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 226.695 93.345 0)
 		(unit 1)
@@ -11958,6 +11892,73 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 32.385 60.325 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "19c76152-ed12-48f4-adcd-c07341a52acf")
+		(property "Reference" "C405"
+			(at 27.94 61.468 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 27.94 58.928 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 32.385 60.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 32.385 60.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM188R61A106ME69D"
+			(at 32.385 60.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4d2737c0-09af-4ec3-adce-d47e5af6b204")
+		)
+		(pin "1"
+			(uuid "2c3e644b-e474-485e-9f8f-058930e91fb4")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C405")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 255.27 86.995 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11981,7 +11982,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 255.27 86.995 0)
 			(effects
 				(font
@@ -11999,7 +12000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "C0603C104K5RACTU"
 			(at 255.27 86.995 0)
 			(effects
 				(font
@@ -12051,7 +12052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 60.96 97.155 0)
 			(effects
 				(font
@@ -12069,7 +12070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "ERJ-2RKF1002X"
 			(at 60.96 97.155 0)
 			(effects
 				(font
@@ -12119,7 +12120,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering"
 			(at 354.965 196.85 0)
 			(effects
 				(font
@@ -12137,7 +12138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single Buffer Gate Tri-State, Low-Voltage CMOS"
+		(property "Description" "SN74LVC1G125DCKR"
 			(at 354.965 196.85 0)
 			(effects
 				(font
@@ -12231,73 +12232,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0444")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 191.77 109.855 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1d5c4f0c-26ef-4bfc-9915-4753f2f4a9e6")
-		(property "Reference" "R416"
-			(at 191.77 105.791 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100"
-			(at 191.77 107.315 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 191.77 109.855 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 191.77 109.855 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 191.77 109.855 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e5b5e7be-6d8a-41c7-ab76-41bd64a269a2")
-		)
-		(pin "2"
-			(uuid "60eeb459-46a8-4665-bd69-c408999e3e93")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "R416")
 					(unit 1)
 				)
 			)
@@ -12504,140 +12438,6 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 325.12 130.175 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1e850f28-2da8-49a3-9d11-030f5c1ffecb")
-		(property "Reference" "C444"
-			(at 324.866 125.095 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.033uF"
-			(at 324.866 126.873 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 325.12 130.175 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 325.12 130.175 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 325.12 130.175 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6c56af4f-12a3-4f34-b4e7-9cc8bee3dcc9")
-		)
-		(pin "1"
-			(uuid "cb3199d1-93ef-4fbf-bfbc-74b10b39e754")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C444")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 279.4 46.355 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1e864b7e-36da-4fdc-ad76-58092c627e67")
-		(property "Reference" "C423"
-			(at 274.955 47.498 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1uF"
-			(at 274.955 44.958 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 279.4 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 279.4 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 279.4 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8046d9f5-e97e-45ab-9177-74670478bd19")
-		)
-		(pin "1"
-			(uuid "2b35609e-27e9-4b89-b0aa-a42f02b825ca")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C423")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
 		(at 132.08 98.425 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12661,7 +12461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 132.08 98.425 0)
 			(effects
 				(font
@@ -12679,7 +12479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "C1005X5R1A225K050BC"
 			(at 132.08 98.425 0)
 			(effects
 				(font
@@ -12728,7 +12528,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 184.15 50.165 0)
 			(effects
 				(font
@@ -12746,7 +12546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM31CR71C106KAC7L"
 			(at 184.15 50.165 0)
 			(effects
 				(font
@@ -12795,7 +12595,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 191.77 50.165 0)
 			(effects
 				(font
@@ -12813,7 +12613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "CRCW0603100RFKEA"
 			(at 191.77 50.165 0)
 			(effects
 				(font
@@ -12993,7 +12793,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 121.92 83.185 0)
 			(effects
 				(font
@@ -13011,7 +12811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "C1005X5R1A225K050BC"
 			(at 121.92 83.185 0)
 			(effects
 				(font
@@ -13036,99 +12836,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 379.73 98.425 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2d47a084-0327-4e5f-8d37-49d684dd04be")
-		(property "Reference" "R420"
-			(at 375.666 97.155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "3.3"
-			(at 375.412 99.187 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 379.73 98.425 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 379.73 98.425 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 379.73 98.425 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0151dd59-f652-4486-b235-854d4739753c")
-		)
-		(pin "2"
-			(uuid "fc887beb-f692-418f-ada5-92eb520076b7")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "R420")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
-		(at 379.73 92.075 180)
+		(at 330.2 137.795 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "2e4aec39-779a-4b34-9d2b-a7f18e7917c0")
-		(property "Reference" "C439"
-			(at 375.285 93.218 0)
+		(uuid "30c80905-8c5d-432b-ab90-1c600515d96a")
+		(property "Reference" "C445"
+			(at 329.946 132.715 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "0.01uF"
-			(at 375.285 90.678 0)
+		(property "Value" "0.033uF"
+			(at 329.946 134.493 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 379.73 92.075 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 330.2 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13137,7 +12870,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 379.73 92.075 0)
+			(at 330.2 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13146,7 +12879,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 379.73 92.075 0)
+			(at 330.2 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13155,15 +12888,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "c0a3a865-9497-4729-8cbc-5599e76c4a33")
+			(uuid "ee6c3689-1032-42e3-a186-5268630ec6c3")
 		)
 		(pin "1"
-			(uuid "560ebbe9-29b5-4316-bd0e-601158c5546e")
+			(uuid "019efe83-4dae-4a38-8c95-114bec463171")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C439")
+					(reference "C445")
 					(unit 1)
 				)
 			)
@@ -13235,146 +12968,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 53.34 41.275 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "31eaa14e-f85b-4145-997f-bbc947f5ce88")
-		(property "Reference" "C401"
-			(at 48.895 42.418 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10uF"
-			(at 48.895 39.878 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 53.34 41.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ba3f811c-fa36-47de-9f99-425b03583078")
-		)
-		(pin "1"
-			(uuid "a82af419-7a0c-41f4-814a-816d6ddb4116")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C401")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:Jumper_3_Open")
-		(at 173.99 88.265 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3340087d-9149-47a5-bb63-d1ab6be9a13c")
-		(property "Reference" "JP403"
-			(at 171.45 86.9949 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Jumper_3_Open"
-			(at 171.45 89.5349 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 173.99 88.265 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 173.99 88.265 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 3-pole, both open"
-			(at 173.99 88.265 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e8a7197b-53f2-436b-ab09-bc1da0a6a736")
-		)
-		(pin "3"
-			(uuid "39971336-088f-4776-a0a8-84a9c07d4215")
-		)
-		(pin "1"
-			(uuid "8d9cc957-4de3-4337-9268-6b28a88e8e5e")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "JP403")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 266.7 150.495 270)
 		(unit 1)
@@ -13399,7 +12992,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 266.7 150.495 0)
 			(effects
 				(font
@@ -13417,7 +13010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RC0603FR-0722KL"
 			(at 266.7 150.495 0)
 			(effects
 				(font
@@ -13436,6 +13029,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R417")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 246.38 111.125 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "36d3d0a4-b345-4995-ad35-1fee515027ac")
+		(property "Reference" "C428"
+			(at 241.935 112.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 241.935 109.728 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 246.38 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 246.38 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C0603C104K5RACTU"
+			(at 246.38 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bb2cdf1a-64e7-4dc7-93b8-fd9f79bed7ed")
+		)
+		(pin "1"
+			(uuid "9f5c5377-da7a-40dd-888f-6d6e869348cc")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C428")
 					(unit 1)
 				)
 			)
@@ -13466,7 +13126,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 379.73 70.485 0)
 			(effects
 				(font
@@ -13484,7 +13144,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "C0603C103K5RACTU"
 			(at 379.73 70.485 0)
 			(effects
 				(font
@@ -13503,73 +13163,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C437")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 370.205 136.525 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "383e1c06-7f8e-4e88-94e0-a08322353c28")
-		(property "Reference" "C441"
-			(at 365.76 137.668 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1uF"
-			(at 365.76 135.128 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 370.205 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 370.205 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 370.205 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "24310c56-3349-402b-8f26-6ef81bdaef63")
-		)
-		(pin "1"
-			(uuid "922afbb1-f87a-4b20-a9eb-599b6f55812e")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C441")
 					(unit 1)
 				)
 			)
@@ -13665,7 +13258,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 135.89 65.405 0)
 			(effects
 				(font
@@ -13683,7 +13276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM1555C1H102JA01D"
 			(at 135.89 65.405 0)
 			(effects
 				(font
@@ -13773,146 +13366,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_3_Open")
-		(at 173.99 109.855 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "440badec-75f9-4a65-a36b-75e0239ab3c8")
-		(property "Reference" "JP404"
-			(at 171.45 108.5849 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Jumper_3_Open"
-			(at 171.45 111.1249 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 173.99 109.855 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 173.99 109.855 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 3-pole, both open"
-			(at 173.99 109.855 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3234fcc9-f600-441e-938a-d541cbe7c2a8")
-		)
-		(pin "3"
-			(uuid "8bbbe568-de2b-47c8-8df0-711f46d271f3")
-		)
-		(pin "1"
-			(uuid "f93567a9-b914-4c35-87c2-670ddc20520b")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "JP404")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 32.385 60.325 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "442f9cda-bb03-4ecc-840a-973a037b2dff")
-		(property "Reference" "C403"
-			(at 27.94 61.468 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10uF"
-			(at 27.94 58.928 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 32.385 60.325 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 32.385 60.325 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 32.385 60.325 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f7c60ebd-67fb-4021-b60b-0ddb1df58d4f")
-		)
-		(pin "1"
-			(uuid "d9e5b8dd-7a5e-4009-98ba-afeb3f67bada")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C403")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:Earth")
 		(at 279.4 49.53 0)
 		(unit 1)
@@ -13979,73 +13432,6 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 239.395 98.425 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "448138a8-c2e5-4fcc-a028-4bc73e4efe19")
-		(property "Reference" "C428"
-			(at 234.95 99.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 234.95 97.028 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 239.395 98.425 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 239.395 98.425 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 239.395 98.425 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2d8b3152-46cb-48da-8f59-aa6b2fb61a87")
-		)
-		(pin "1"
-			(uuid "7ee5b79c-08a4-499e-a34c-e7a774451db9")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C428")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
 		(at 63.5 41.275 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14069,7 +13455,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 63.5 41.275 0)
 			(effects
 				(font
@@ -14087,7 +13473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM155R71A104KA01D"
 			(at 63.5 41.275 0)
 			(effects
 				(font
@@ -14177,6 +13563,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 370.205 114.935 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "48da811e-c376-43a7-ac6f-cbd6050db279")
+		(property "Reference" "C440"
+			(at 365.76 116.078 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 365.76 113.538 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
+			(at 370.205 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 370.205 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C3225X7R2A105K200AA"
+			(at 370.205 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f402ed32-d226-4898-b7c2-d2daea730699")
+		)
+		(pin "1"
+			(uuid "77a43c9d-0104-424b-a420-c433ba2c8339")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C440")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:Earth")
 		(at 349.885 245.11 0)
 		(unit 1)
@@ -14243,6 +13696,73 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 53.34 41.275 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4b34ef3c-c8fa-48ac-a0e0-b6a01224d277")
+		(property "Reference" "C403"
+			(at 48.895 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 48.895 39.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 53.34 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM188R61A106ME69D"
+			(at 53.34 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9c499603-5cf0-4ab1-8c74-cc3a4c25ae6e")
+		)
+		(pin "1"
+			(uuid "3ee26293-5730-45fe-9d3e-faca2ca73873")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C403")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 325.12 66.675 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14266,7 +13786,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 325.12 66.675 0)
 			(effects
 				(font
@@ -14399,7 +13919,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering"
 			(at 354.965 233.68 0)
 			(effects
 				(font
@@ -14417,7 +13937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single Buffer Gate Tri-State, Low-Voltage CMOS"
+		(property "Description" "SN74LVC1G125DCKR"
 			(at 354.965 233.68 0)
 			(effects
 				(font
@@ -14511,6 +14031,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0403")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 325.12 130.175 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4f7b38e4-c431-4798-8a18-34256da31e88")
+		(property "Reference" "C444"
+			(at 324.866 125.095 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.033uF"
+			(at 324.866 126.873 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 325.12 130.175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 325.12 130.175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 325.12 130.175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "440ce2ff-e821-4513-9ebb-e44bdf3bb9b3")
+		)
+		(pin "1"
+			(uuid "5352046a-f0af-4586-a1b9-7d3b9fdaa3be")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C444")
 					(unit 1)
 				)
 			)
@@ -14712,6 +14299,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 337.82 165.735 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "53f8d90b-1712-45de-81df-58d47ea3d696")
+		(property "Reference" "C446"
+			(at 333.375 166.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 333.375 164.338 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 337.82 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 337.82 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C0603C104K5RACTU"
+			(at 337.82 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d16db41d-b39f-4178-8517-4c1e6fd88d00")
+		)
+		(pin "1"
+			(uuid "026ed937-5b58-4e65-ace9-6aea02da3e81")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C446")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:Earth")
 		(at 49.53 106.045 0)
 		(unit 1)
@@ -14778,32 +14432,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 191.77 88.265 270)
+		(lib_id "Jumper:Jumper_3_Open")
+		(at 173.99 88.265 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5818573c-cd9e-4b9a-af1b-e38d79de8121")
-		(property "Reference" "R415"
-			(at 191.77 84.201 90)
+		(fields_autoplaced yes)
+		(uuid "59531e92-8553-4d8f-9a23-df2dbc0bbe07")
+		(property "Reference" "JP403"
+			(at 171.45 86.9949 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "100"
-			(at 191.77 85.725 90)
+		(property "Value" "Jumper_3_Open"
+			(at 171.45 89.5349 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 191.77 88.265 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left"
+			(at 173.99 88.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14812,7 +14469,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 88.265 0)
+			(at 173.99 88.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14820,25 +14477,28 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
-			(at 191.77 88.265 0)
+		(property "Description" "PBC03SAAN"
+			(at 173.99 88.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "4f2f4a15-8271-4c6e-bdcd-d97ab2309096")
 		)
 		(pin "2"
-			(uuid "47ab997c-acd7-4872-a203-c04a23d264ad")
+			(uuid "04f9bfb1-9b29-4c7f-ab2c-773498748bd9")
+		)
+		(pin "3"
+			(uuid "47f30903-a67c-426d-a4c6-e78aa92f771e")
+		)
+		(pin "1"
+			(uuid "8b4a908e-bf36-4cb6-93b9-764a56ff945f")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "R415")
+					(reference "JP403")
 					(unit 1)
 				)
 			)
@@ -14936,7 +14596,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NewLibrary:630661MouserReel"
 			(at 402.59 111.125 0)
 			(effects
 				(font
@@ -14954,7 +14614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
+		(property "Description" "63066-1"
 			(at 402.59 111.125 0)
 			(effects
 				(font
@@ -15000,7 +14660,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 273.05 27.305 0)
 			(effects
 				(font
@@ -15018,7 +14678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM31MR71H105KA88L"
 			(at 273.05 27.305 0)
 			(effects
 				(font
@@ -15043,33 +14703,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 129.54 61.595 270)
+		(lib_id "Device:C_Small")
+		(at 239.395 98.425 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5f3dbee7-4651-4cae-a392-de83fe7c2ae6")
-		(property "Reference" "R411"
-			(at 129.54 56.515 90)
+		(uuid "5e2f7388-4122-4235-88b8-8e44ca0d2795")
+		(property "Reference" "C427"
+			(at 234.95 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "499"
-			(at 129.54 59.055 90)
+		(property "Value" "0.1uF"
+			(at 234.95 97.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 129.54 61.595 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 239.395 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15078,7 +14737,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 61.595 0)
+			(at 239.395 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15086,25 +14745,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
-			(at 129.54 61.595 0)
+		(property "Description" "C0603C104K5RACTU"
+			(at 239.395 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "52b1d8c7-321c-4da8-b850-7adefa2f4635")
 		)
 		(pin "2"
-			(uuid "7fe0f7a6-b5fa-4fd8-925a-ace4044700f7")
+			(uuid "2fb78f2c-8c75-4e83-a5f8-34468eb0a505")
+		)
+		(pin "1"
+			(uuid "298062f7-583c-4bcf-bd3a-79ac7e642edc")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "R411")
+					(reference "C427")
 					(unit 1)
 				)
 			)
@@ -15136,7 +14795,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x25_P2.54mm_Vertical_SMD"
 			(at 35.56 232.41 0)
 			(effects
 				(font
@@ -15154,7 +14813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connectable mounting pin connector, double row, 02x25, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "N2550-6002-RB"
 			(at 35.56 232.41 0)
 			(effects
 				(font
@@ -15391,6 +15050,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 129.54 69.215 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "620eeb8e-00e0-406d-802b-a6c124f06664")
+		(property "Reference" "R412"
+			(at 129.54 64.135 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "499"
+			(at 129.54 66.675 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 129.54 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW0603499RFKEA"
+			(at 129.54 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "35b4eda9-637e-4acb-b1c2-716656aaf24d")
+		)
+		(pin "2"
+			(uuid "d45ea8ef-84b3-4ff2-aeee-decd9a2e1449")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "R412")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:Earth")
 		(at 30.48 265.43 0)
 		(unit 1)
@@ -15548,7 +15275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NewLibrary:630661MouserReel"
 			(at 402.59 66.675 0)
 			(effects
 				(font
@@ -15566,7 +15293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
+		(property "Description" "63066-1"
 			(at 402.59 66.675 0)
 			(effects
 				(font
@@ -15582,73 +15309,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "J401")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 330.2 137.795 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "65facfef-4b67-438d-90b6-0840437a7727")
-		(property "Reference" "C445"
-			(at 329.946 132.715 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.033uF"
-			(at 329.946 134.493 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 330.2 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 330.2 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 330.2 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "abf3ffe9-b0c8-4e18-a0cf-2d3a90a3b560")
-		)
-		(pin "1"
-			(uuid "35c57ec3-1937-47d5-8929-e1ccb3f8e9e5")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C445")
 					(unit 1)
 				)
 			)
@@ -15810,7 +15470,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 63.5 126.365 0)
 			(effects
 				(font
@@ -15828,7 +15488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "ERJ-2RKF1002X"
 			(at 63.5 126.365 0)
 			(effects
 				(font
@@ -15877,7 +15537,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 41.91 41.275 0)
 			(effects
 				(font
@@ -15895,7 +15555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM155R71A104KA01D"
 			(at 41.91 41.275 0)
 			(effects
 				(font
@@ -15914,6 +15574,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C406")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 191.77 88.265 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ab2b4e3-0e05-49b4-a3cf-1db3025f3cf0")
+		(property "Reference" "R415"
+			(at 191.77 84.201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 191.77 85.725 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 191.77 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW0603100RFKEA"
+			(at 191.77 88.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "492a7a4a-0ff9-49bc-b5e3-7f20178ab2de")
+		)
+		(pin "2"
+			(uuid "c1b9e430-07a6-44c8-9a2e-6f926bb414a5")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "R415")
 					(unit 1)
 				)
 			)
@@ -16010,7 +15737,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 379.73 76.835 0)
 			(effects
 				(font
@@ -16028,7 +15755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "CRCW06033R30JNEA"
 			(at 379.73 76.835 0)
 			(effects
 				(font
@@ -16146,7 +15873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 49.53 85.725 0)
 			(effects
 				(font
@@ -16164,7 +15891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "ERJ-2RKF1002X"
 			(at 49.53 85.725 0)
 			(effects
 				(font
@@ -16280,7 +16007,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 62.23 150.495 0)
 			(effects
 				(font
@@ -16298,7 +16025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "CRCW04024K99FKED"
 			(at 62.23 150.495 0)
 			(effects
 				(font
@@ -16317,73 +16044,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R402")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 197.485 112.395 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7184ef73-0ee6-4f33-8f4e-371a54412f79")
-		(property "Reference" "C419"
-			(at 201.93 111.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100pF"
-			(at 201.93 113.792 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 197.485 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 197.485 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 197.485 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e1b327c9-5e35-4cef-b98b-63ee3fb56295")
-		)
-		(pin "1"
-			(uuid "89e6dec7-1ce0-4384-83fc-8f18c5bc8a9b")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C419")
 					(unit 1)
 				)
 			)
@@ -16520,73 +16180,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 379.73 136.525 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "79babf9f-3bca-4b8a-a847-d7a46c2e4759")
-		(property "Reference" "C443"
-			(at 375.285 137.668 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.01uF"
-			(at 375.285 135.128 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 379.73 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 379.73 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 379.73 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "07d11bb3-e9a9-4912-baff-44911ada1c2d")
-		)
-		(pin "1"
-			(uuid "cf889872-6a8d-43bd-81a4-bcf30c020658")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C443")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:Earth")
 		(at 379.73 146.685 0)
 		(unit 1)
@@ -16652,32 +16245,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 246.38 111.125 180)
+		(lib_id "Device:R_Small")
+		(at 129.54 61.595 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7c667113-12cd-4ea3-90fe-592fd0d1811a")
-		(property "Reference" "C427"
-			(at 241.935 112.268 0)
+		(fields_autoplaced yes)
+		(uuid "7c544ace-76c4-4132-ace0-01cc32cc4120")
+		(property "Reference" "R411"
+			(at 129.54 56.515 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 241.935 109.728 0)
+		(property "Value" "499"
+			(at 129.54 59.055 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 246.38 111.125 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 129.54 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16686,7 +16280,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 246.38 111.125 0)
+			(at 129.54 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16694,25 +16288,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 246.38 111.125 0)
+		(property "Description" "CRCW0603499RFKEA"
+			(at 129.54 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "8cc7401b-1824-4362-9d1a-2fb8cbc1ae27")
 		)
 		(pin "1"
-			(uuid "351a8ca4-241a-41ba-97bf-487456d647b8")
+			(uuid "225fd01b-a0ed-4d8b-bc03-6274ffb3bf48")
+		)
+		(pin "2"
+			(uuid "a897ff49-e7dc-4bdd-8588-55c33cf49030")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C427")
+					(reference "R411")
 					(unit 1)
 				)
 			)
@@ -16849,32 +16443,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 370.205 114.935 180)
+		(lib_id "Device:R_Small")
+		(at 191.77 109.855 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "803fb4cf-a81a-4802-affb-661637f0046a")
-		(property "Reference" "C440"
-			(at 365.76 116.078 0)
+		(uuid "83e3cd09-eb93-463e-90ac-c36ad06deb73")
+		(property "Reference" "R416"
+			(at 191.77 105.791 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1uF"
-			(at 365.76 113.538 0)
+		(property "Value" "100"
+			(at 191.77 107.315 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 370.205 114.935 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 191.77 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16883,7 +16477,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 370.205 114.935 0)
+			(at 191.77 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16891,25 +16485,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 370.205 114.935 0)
+		(property "Description" "CRCW0603100RFKEA"
+			(at 191.77 109.855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "c86b4295-c465-40b6-ab8e-497a3e2b053f")
 		)
 		(pin "1"
-			(uuid "211d6c0d-541d-425a-9806-73a88279f7a1")
+			(uuid "c02c686b-6ac4-4aaf-9a4c-273e0fab6e2f")
+		)
+		(pin "2"
+			(uuid "db95f001-59bc-4fb4-9343-ff04ae9b3da1")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C440")
+					(reference "R416")
 					(unit 1)
 				)
 			)
@@ -16941,7 +16535,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NewLibrary:UA8014ALD"
 			(at 360.045 67.945 0)
 			(effects
 				(font
@@ -16959,7 +16553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Coupled inductor with iron core, small symbol"
+		(property "Description" "UA8014-ALD"
 			(at 360.045 67.945 0)
 			(effects
 				(font
@@ -16990,83 +16584,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 289.56 46.355 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "842d3728-65bc-4eae-a1f9-71a505fa200e")
-		(property "Reference" "C424"
-			(at 285.115 47.498 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1uF"
-			(at 285.115 44.958 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 289.56 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 289.56 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 289.56 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8bbdd66d-317c-4177-8480-95336313bdda")
-		)
-		(pin "1"
-			(uuid "f34a6368-b39e-4414-a7f0-949f53902847")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C424")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
-		(at 379.73 121.285 0)
+		(at 379.73 98.425 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "8783f98c-19c1-4a95-85b4-4fe62b8c14af")
-		(property "Reference" "R421"
-			(at 375.666 120.015 0)
+		(uuid "85ce5b3d-5005-4243-8d5e-8f73ea9e4b1a")
+		(property "Reference" "R420"
+			(at 375.666 97.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17074,15 +16601,15 @@
 			)
 		)
 		(property "Value" "3.3"
-			(at 375.412 122.047 0)
+			(at 375.412 99.187 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 379.73 121.285 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 379.73 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17091,7 +16618,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 379.73 121.285 0)
+			(at 379.73 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17099,8 +16626,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
-			(at 379.73 121.285 0)
+		(property "Description" "CRCW06033R30JNEA"
+			(at 379.73 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17109,15 +16636,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "414cb3f8-c50c-47ad-815b-e8ce3c368c4d")
+			(uuid "0f9ee9a4-ade6-48d9-a8b6-a0bcdf0a8f8f")
 		)
 		(pin "2"
-			(uuid "2c4eb5b2-1280-4343-a96e-1fc603ad2a8f")
+			(uuid "d51ae555-b282-43c5-9137-d36936d66de1")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "R421")
+					(reference "R420")
 					(unit 1)
 				)
 			)
@@ -17190,31 +16717,31 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 379.73 114.935 180)
+		(at 279.4 46.355 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "90df8628-fbbe-40f3-b547-3769c83fc03f")
-		(property "Reference" "C442"
-			(at 375.285 116.078 0)
+		(uuid "8d08bc32-966a-4066-9fcf-e3505ca223dc")
+		(property "Reference" "C423"
+			(at 274.955 47.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "0.01uF"
-			(at 375.285 113.538 0)
+		(property "Value" "1uF"
+			(at 274.955 44.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 379.73 114.935 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 279.4 46.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17223,7 +16750,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 379.73 114.935 0)
+			(at 279.4 46.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17231,8 +16758,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 379.73 114.935 0)
+		(property "Description" "GRM31MR71H105KA88L"
+			(at 279.4 46.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17241,15 +16768,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "e82cae3d-ed8a-4ae5-9baf-ff9f2c74c560")
+			(uuid "32e46805-c6ac-4450-9219-1fa7bf1cb6d2")
 		)
 		(pin "1"
-			(uuid "d478d844-7d90-4941-b42d-55d8f930da88")
+			(uuid "05bb5a62-ff0f-40d8-b2ca-30194fe45d5f")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C442")
+					(reference "C423")
 					(unit 1)
 				)
 			)
@@ -17281,7 +16808,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NewLibrary:630661MouserReel"
 			(at 403.225 132.715 0)
 			(effects
 				(font
@@ -17299,7 +16826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
+		(property "Description" "63066-1"
 			(at 403.225 132.715 0)
 			(effects
 				(font
@@ -17315,6 +16842,80 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "J404")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L_Iron_Coupled_Small_1243")
+		(at 360.045 112.395 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "93807c6b-ebfa-47f6-aa17-4dfa3f8c3744")
+		(property "Reference" "L403"
+			(at 360.045 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uH"
+			(at 360.045 108.585 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NewLibrary:UA8014ALD"
+			(at 360.045 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 360.045 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "UA8014-ALD"
+			(at 360.045 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "0fc40a24-eb24-4c8e-8ac0-4a2b3c6c8666")
+		)
+		(pin "2"
+			(uuid "92c2d894-eb30-45b2-8d5c-11e9b05557ba")
+		)
+		(pin "3"
+			(uuid "1a6a71eb-d33f-4d10-8d1e-de050b12d1ff")
+		)
+		(pin "1"
+			(uuid "d6ff8119-9960-4bf9-a3f2-1915480713a8")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "L403")
 					(unit 1)
 				)
 			)
@@ -17584,11 +17185,78 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 184.15 69.215 90)
+		(at 283.21 27.305 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(dnp no)
+		(uuid "9cdf23ea-3ff1-4f88-aa04-e88b45593d2a")
+		(property "Reference" "C421"
+			(at 278.765 28.448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 278.765 25.908 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 283.21 27.305 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 283.21 27.305 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM31MR71H105KA88L"
+			(at 283.21 27.305 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "74e52ef3-f17e-4ab1-8638-fbfdc652f372")
+		)
+		(pin "1"
+			(uuid "af4d0607-569c-4d7e-8ec4-35abd024484a")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C421")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 184.15 69.215 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
 		(dnp no)
 		(uuid "9d275c86-43bb-4c23-b872-362a6eae123e")
 		(property "Reference" "C414"
@@ -17607,7 +17275,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 184.15 69.215 0)
 			(effects
 				(font
@@ -17625,7 +17293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM31CR71C106KAC7L"
 			(at 184.15 69.215 0)
 			(effects
 				(font
@@ -17709,6 +17377,73 @@
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0497")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 330.2 74.295 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a2bdb34f-f8c0-46b2-a178-f6c2eb8e0a83")
+		(property "Reference" "C435"
+			(at 329.946 69.215 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.033uF"
+			(at 329.946 70.993 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 330.2 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 330.2 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 330.2 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fa6860aa-376c-4c00-89a0-b97df07f92a7")
+		)
+		(pin "1"
+			(uuid "fc5757bc-c892-4e55-af48-9179192ee821")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C435")
 					(unit 1)
 				)
 			)
@@ -17804,7 +17539,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 264.16 113.665 0)
 			(effects
 				(font
@@ -17822,7 +17557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM188R71C105KA12D"
 			(at 264.16 113.665 0)
 			(effects
 				(font
@@ -17841,73 +17576,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C429")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 379.73 142.875 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a6074e22-beab-4501-a34a-96cb5b46fff0")
-		(property "Reference" "R422"
-			(at 375.666 141.605 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "3.3"
-			(at 375.412 143.637 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 379.73 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 379.73 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 379.73 142.875 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5977245a-c559-4584-8b35-3117ba7570f9")
-		)
-		(pin "2"
-			(uuid "6161f234-73b1-4a68-942e-c742534b0291")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "R422")
 					(unit 1)
 				)
 			)
@@ -17938,7 +17606,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 184.15 88.265 0)
 			(effects
 				(font
@@ -17956,7 +17624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM31CR71C106KAC7L"
 			(at 184.15 88.265 0)
 			(effects
 				(font
@@ -18040,6 +17708,74 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0426")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 129.54 53.975 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a79277e6-7010-4904-af34-acc4beb4e81f")
+		(property "Reference" "R410"
+			(at 129.54 48.895 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "499"
+			(at 129.54 51.435 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 129.54 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW0603499RFKEA"
+			(at 129.54 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "263eccfa-aa1c-48c2-886d-acc393a71ef9")
+		)
+		(pin "2"
+			(uuid "ded1e824-c66b-4bc1-a65c-e3f68345fbf3")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "R410")
 					(unit 1)
 				)
 			)
@@ -18136,7 +17872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NewLibrary:630661MouserReel"
 			(at 402.59 88.265 0)
 			(effects
 				(font
@@ -18154,7 +17890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
+		(property "Description" "63066-1"
 			(at 402.59 88.265 0)
 			(effects
 				(font
@@ -18200,7 +17936,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 228.6 231.775 0)
 			(effects
 				(font
@@ -18218,7 +17954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM155R71A104KA01D"
 			(at 228.6 231.775 0)
 			(effects
 				(font
@@ -18237,6 +17973,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C432")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 379.73 92.075 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aea0225e-9be4-4c51-b295-7ab188bab5d1")
+		(property "Reference" "C439"
+			(at 375.285 93.218 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.01uF"
+			(at 375.285 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 379.73 92.075 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 379.73 92.075 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C0603C103K5RACTU"
+			(at 379.73 92.075 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "44f3d462-e5d8-4f40-80c7-95c4ddd01b73")
+		)
+		(pin "1"
+			(uuid "782b2a9e-82cd-407f-9f0a-b5f078cf00b6")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C439")
 					(unit 1)
 				)
 			)
@@ -18333,7 +18136,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 235.585 93.345 0)
 			(effects
 				(font
@@ -18351,7 +18154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor with iron core, small symbol"
+		(property "Description" "GLFR1608T100M-LR"
 			(at 235.585 93.345 0)
 			(effects
 				(font
@@ -18377,31 +18180,31 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 197.485 90.805 0)
+		(at 370.205 92.075 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b13c4d1d-b464-4beb-9c03-a6e4ec31c668")
-		(property "Reference" "C417"
-			(at 201.93 89.662 0)
+		(uuid "b173a9d9-b102-4820-8b22-08705c29a889")
+		(property "Reference" "C438"
+			(at 365.76 93.218 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100pF"
-			(at 201.93 92.202 0)
+		(property "Value" "1uF"
+			(at 365.76 90.678 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 197.485 90.805 0)
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
+			(at 370.205 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18410,7 +18213,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 197.485 90.805 0)
+			(at 370.205 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18418,8 +18221,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 197.485 90.805 0)
+		(property "Description" "C3225X7R2A105K200AA"
+			(at 370.205 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18428,15 +18231,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "71a2abd6-15be-406c-a4ad-e511acc41180")
+			(uuid "01fb7f3c-6e36-4061-81f6-6f695f1974b5")
 		)
 		(pin "1"
-			(uuid "afe89213-43af-4391-aa7d-39798afbe1e1")
+			(uuid "346b7e96-a6cb-4cee-8692-4cac52167c57")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C417")
+					(reference "C438")
 					(unit 1)
 				)
 			)
@@ -18502,6 +18305,79 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0432")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_3_Open")
+		(at 172.72 69.215 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5d0bfed-852d-4384-b656-ae5d4cf266a2")
+		(property "Reference" "JP402"
+			(at 170.18 67.9449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Jumper_3_Open"
+			(at 170.18 70.4849 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left"
+			(at 172.72 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "PBC03SAAN"
+			(at 172.72 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "026b0b1d-3ad6-4925-8e91-ba4889051834")
+		)
+		(pin "3"
+			(uuid "9d2a4652-f440-42fb-9dcd-6bc90eff6e25")
+		)
+		(pin "1"
+			(uuid "d3d89d47-0931-45a2-89a2-5e263b06d10b")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "JP402")
 					(unit 1)
 				)
 			)
@@ -18639,32 +18515,31 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 129.54 53.975 270)
+		(at 379.73 121.285 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b8de7d89-a289-40db-8795-787334ef85a2")
-		(property "Reference" "R410"
-			(at 129.54 48.895 90)
+		(uuid "b9ba6389-f8fb-4d39-9fa9-d8a842e9c04e")
+		(property "Reference" "R421"
+			(at 375.666 120.015 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "499"
-			(at 129.54 51.435 90)
+		(property "Value" "3.3"
+			(at 375.412 122.047 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 129.54 53.975 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 379.73 121.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18673,7 +18548,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 53.975 0)
+			(at 379.73 121.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18681,8 +18556,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
-			(at 129.54 53.975 0)
+		(property "Description" "CRCW06033R30JNEA"
+			(at 379.73 121.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18691,15 +18566,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "5435a5bf-6585-419e-847d-4211032f330b")
+			(uuid "d59c9ce7-a8e2-4211-ad6e-f75106b6f517")
 		)
 		(pin "2"
-			(uuid "bebbe898-e57c-4a1f-bcfc-396a40af99ce")
+			(uuid "33ce5cda-cf65-49d9-b9d9-69b55e202a17")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "R410")
+					(reference "R421")
 					(unit 1)
 				)
 			)
@@ -18766,6 +18641,140 @@
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0467")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 379.73 114.935 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd75289e-24d7-474a-8579-0015eedebe93")
+		(property "Reference" "C442"
+			(at 375.285 116.078 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.01uF"
+			(at 375.285 113.538 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 379.73 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 379.73 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C0603C103K5RACTU"
+			(at 379.73 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e5630330-cd84-42b7-994c-21fd1e870675")
+		)
+		(pin "1"
+			(uuid "b11ea1d2-a5e6-416e-b218-bc5746fb58bd")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C442")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 379.73 136.525 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c121ccc7-36d2-4b69-9e69-c56c87fd6d74")
+		(property "Reference" "C443"
+			(at 375.285 137.668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.01uF"
+			(at 375.285 135.128 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 379.73 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 379.73 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C0603C103K5RACTU"
+			(at 379.73 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b2da3818-813c-4e39-9932-bf468af77acd")
+		)
+		(pin "1"
+			(uuid "56995263-91f9-47fa-8c89-46b804dfea3e")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C443")
 					(unit 1)
 				)
 			)
@@ -18927,7 +18936,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 53.34 144.145 0)
 			(effects
 				(font
@@ -18945,7 +18954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "CRCW04024K99FKED"
 			(at 53.34 144.145 0)
 			(effects
 				(font
@@ -18964,6 +18973,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 370.205 136.525 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c87a4b32-8865-4c74-97f9-503c4d92991f")
+		(property "Reference" "C441"
+			(at 365.76 137.668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 365.76 135.128 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
+			(at 370.205 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 370.205 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C3225X7R2A105K200AA"
+			(at 370.205 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7b1d5c48-848e-43ba-8adf-75e23317b56c")
+		)
+		(pin "1"
+			(uuid "ea5c48bc-0e56-4e4d-a6b8-1123e87ece9f")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C441")
 					(unit 1)
 				)
 			)
@@ -18994,7 +19070,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 42.545 60.325 0)
 			(effects
 				(font
@@ -19012,7 +19088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM155R71A104KA01D"
 			(at 42.545 60.325 0)
 			(effects
 				(font
@@ -19096,6 +19172,73 @@
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0481")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 289.56 46.355 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cc01d36f-5556-46bc-bc12-b468a8c170e3")
+		(property "Reference" "C424"
+			(at 285.115 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 285.115 44.958 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 289.56 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 289.56 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM31MR71H105KA88L"
+			(at 289.56 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "96c71c32-db54-4572-b935-6edc66a6b173")
+		)
+		(pin "1"
+			(uuid "7b5322ef-b4f0-4cbc-b60d-d1e111b4cd1d")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C424")
 					(unit 1)
 				)
 			)
@@ -19194,7 +19337,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 49.53 99.695 0)
 			(effects
 				(font
@@ -19212,7 +19355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "ERJ-2RKF1002X"
 			(at 49.53 99.695 0)
 			(effects
 				(font
@@ -19262,7 +19405,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 129.54 46.355 0)
 			(effects
 				(font
@@ -19280,7 +19423,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "CRCW0603499RFKEA"
 			(at 129.54 46.355 0)
 			(effects
 				(font
@@ -19460,7 +19603,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 184.15 109.855 0)
 			(effects
 				(font
@@ -19478,7 +19621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM31CR71C106KAC7L"
 			(at 184.15 109.855 0)
 			(effects
 				(font
@@ -19497,76 +19640,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C418")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized_Small_US")
-		(at 297.18 46.355 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "da3b2933-a3b4-4431-a9b3-56dff3962755")
-		(property "Reference" "C425"
-			(at 299.72 44.6531 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1000uF"
-			(at 299.72 47.1931 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 297.18 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 297.18 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor, small US symbol"
-			(at 297.18 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "470f9c41-99c0-434f-a0d6-cc32c83f6d0a")
-		)
-		(pin "2"
-			(uuid "5ca37f87-63eb-4af6-abd8-335e138abf07")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C425")
 					(unit 1)
 				)
 			)
@@ -19600,7 +19673,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 60.96 103.505 0)
 			(effects
 				(font
@@ -19618,7 +19691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "ERJ-2RKF1002X"
 			(at 60.96 103.505 0)
 			(effects
 				(font
@@ -19644,31 +19717,31 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 283.21 27.305 180)
+		(at 197.485 112.395 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ddfa29dd-5000-4ef9-8dca-1e834d4c145d")
-		(property "Reference" "C421"
-			(at 278.765 28.448 0)
+		(uuid "ddc9d050-98e0-4c5e-aa0f-c7d6b9fe284c")
+		(property "Reference" "C419"
+			(at 201.93 111.252 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1uF"
-			(at 278.765 25.908 0)
+		(property "Value" "100pF"
+			(at 201.93 113.792 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 283.21 27.305 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 197.485 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19677,7 +19750,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 283.21 27.305 0)
+			(at 197.485 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19685,8 +19758,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 283.21 27.305 0)
+		(property "Description" "GRM1885C1H101JA01D"
+			(at 197.485 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19695,15 +19768,82 @@
 			)
 		)
 		(pin "2"
-			(uuid "e254920d-a1d2-4f15-a630-a9b755b82d7c")
+			(uuid "cb64308e-4669-4b65-a46f-0c7d4bf4d6ae")
 		)
 		(pin "1"
-			(uuid "0b0cfff3-4d91-49c3-8733-2bb18b575ca8")
+			(uuid "9bd8b015-5456-40d7-9ff7-c963c000b8fc")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C421")
+					(reference "C419")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 191.77 69.215 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "de5bcac1-f445-4a37-9fd5-2073542eb26d")
+		(property "Reference" "R414"
+			(at 191.77 65.151 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 191.77 66.675 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 191.77 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW0603100RFKEA"
+			(at 191.77 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "013f3fd1-4040-4fe3-9bcc-2dc1484f4c01")
+		)
+		(pin "2"
+			(uuid "257575fb-0b13-48df-bf0e-c77fb807d058")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "R414")
 					(unit 1)
 				)
 			)
@@ -19735,7 +19875,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DFN_QFN:Texas_RHB0032E_VQFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm_ThermalVias"
 			(at 88.9 42.545 0)
 			(effects
 				(font
@@ -19895,7 +20035,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 238.76 231.775 0)
 			(effects
 				(font
@@ -19913,7 +20053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "GRM155R71A104KA01D"
 			(at 238.76 231.775 0)
 			(effects
 				(font
@@ -19932,6 +20072,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C433")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 266.7 120.015 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e273760e-eb13-4c08-84ec-0532db0762cc")
+		(property "Reference" "C430"
+			(at 270.764 116.459 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 271.018 118.237 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 266.7 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 266.7 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM188R71C105KA12D"
+			(at 266.7 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e2c1324e-6980-4c63-9002-1a0a1ced6382")
+		)
+		(pin "1"
+			(uuid "80b72e4b-664f-4c2a-8d15-481a35647d19")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C430")
 					(unit 1)
 				)
 			)
@@ -20028,7 +20235,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 370.205 70.485 0)
 			(effects
 				(font
@@ -20046,7 +20253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "C3225X7R2A105K200AA"
 			(at 370.205 70.485 0)
 			(effects
 				(font
@@ -20065,73 +20272,6 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C436")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 337.82 165.735 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e440a65d-7d74-414f-b58d-4bdc5a904c4a")
-		(property "Reference" "C446"
-			(at 333.375 166.878 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 333.375 164.338 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 337.82 165.735 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 337.82 165.735 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 337.82 165.735 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4b7d3cca-967a-4562-b4b0-202c90bb87a4")
-		)
-		(pin "1"
-			(uuid "64c733f3-04a6-4fd2-a8a4-0f752445bdab")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C446")
 					(unit 1)
 				)
 			)
@@ -20162,7 +20302,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 266.7 198.755 0)
 			(effects
 				(font
@@ -20180,7 +20320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RC0603FR-0730KL"
 			(at 266.7 198.755 0)
 			(effects
 				(font
@@ -20336,31 +20476,31 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 370.205 92.075 180)
+		(at 197.485 71.755 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ec774a56-d20b-4f0f-8e41-d268cb7877f5")
-		(property "Reference" "C438"
-			(at 365.76 93.218 0)
+		(uuid "eb2c0b77-27e7-42f3-bccd-1abc54fa96f0")
+		(property "Reference" "C415"
+			(at 201.93 70.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1uF"
-			(at 365.76 90.678 0)
+		(property "Value" "100pF"
+			(at 201.93 73.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 370.205 92.075 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 197.485 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20369,7 +20509,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 370.205 92.075 0)
+			(at 197.485 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20377,78 +20517,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 370.205 92.075 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c88e8e78-3a53-417d-ae5b-1fe8c3dcb475")
-		)
-		(pin "1"
-			(uuid "9c4ff3dc-4526-4b43-9eaa-f2a09ea59356")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C438")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:Jumper_3_Open")
-		(at 172.72 69.215 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "edc1eb9c-9d37-4790-9b41-f583dd87cb7d")
-		(property "Reference" "JP402"
-			(at 170.18 67.9449 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Jumper_3_Open"
-			(at 170.18 70.4849 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 172.72 69.215 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 172.72 69.215 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 3-pole, both open"
-			(at 172.72 69.215 0)
+		(property "Description" "GRM1885C1H101JA01D"
+			(at 197.485 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20457,18 +20527,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "07678c86-6ec6-4ecf-82b1-3c8bd567d3f1")
-		)
-		(pin "3"
-			(uuid "732f7b92-52dd-49a2-b8e2-4430c583596e")
+			(uuid "1d29f42c-142d-421f-9282-ec3fa428c837")
 		)
 		(pin "1"
-			(uuid "e50e1c56-a283-4cb3-8b74-34f3fbd18778")
+			(uuid "6271a8a0-f096-48bc-bb47-eb06a455698d")
 		)
 		(instances
-			(project "BarreDeSonTI"
+			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "JP402")
+					(reference "C415")
 					(unit 1)
 				)
 			)
@@ -20534,73 +20601,6 @@
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0488")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 266.7 120.015 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f6f5853f-ff15-4ff8-9bcc-5554d08ac17a")
-		(property "Reference" "C430"
-			(at 270.764 121.285 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1uF"
-			(at 271.018 123.063 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 266.7 120.015 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 266.7 120.015 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 266.7 120.015 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ace4ab95-87c4-4fb0-8793-fc1a861e17d7")
-		)
-		(pin "1"
-			(uuid "e6cd4a99-d7c2-4411-9000-9c48cd9c7b4a")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C430")
 					(unit 1)
 				)
 			)
@@ -20764,7 +20764,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 290.83 27.305 0)
 			(effects
 				(font
@@ -20782,7 +20782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, small US symbol"
+		(property "Description" "GRM31MR71H105KA88L"
 			(at 290.83 27.305 0)
 			(effects
 				(font
