@@ -1,4 +1,4 @@
-26380962011162134
+26386243897052689
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -72142,12 +72142,33 @@ Connector
 1
 1
 NewLibrary
+CUI_RCJ-024
+<b>DC POWER JACK</b><p>Source: DCJ0202.pdf
+
+0
+3
+3
+NewLibrary
+PBC02SAAN
+PBC02SAAN
+Connector
+0
+2
+2
+NewLibrary
 UA8014ALD
 UA8014-ALD-1
 Inductor
 0
 4
 4
+NewLibrary
+WE-PD_1050P
+
+
+0
+2
+2
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
