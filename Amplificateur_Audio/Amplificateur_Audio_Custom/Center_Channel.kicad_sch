@@ -7248,6 +7248,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_Small_US")
+		(at 271.145 75.565 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b33c80b-61b6-4482-a2f6-4506d23da606")
+		(property "Reference" "C830"
+			(at 273.685 73.8631 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 273.685 76.4031 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+			(at 271.145 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 271.145 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "EEV-FK1H102M"
+			(at 271.145 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c1c8910a-eea9-416f-a550-dfe1466bec48")
+		)
+		(pin "2"
+			(uuid "a34aacce-579c-4229-a93f-e208c0674e64")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c036bfb0-bbd6-4b06-9ac2-4fee91403ada"
+					(reference "C830")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
 		(at 389.255 180.975 180)
 		(unit 1)
@@ -7272,7 +7342,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NewLibrary:630661MouserReel"
 			(at 389.255 180.975 0)
 			(effects
 				(font
@@ -8180,76 +8250,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_Small_US")
-		(at 277.495 94.615 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2ba86035-277a-4a8d-83c6-5f7d0f863559")
-		(property "Reference" "C831"
-			(at 280.035 92.9131 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1000uF"
-			(at 280.035 95.4531 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 277.495 94.615 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 277.495 94.615 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM31MR71H105KA88L"
-			(at 277.495 94.615 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b82907ec-ac3f-42aa-baaa-69d34c9b4b93")
-		)
-		(pin "2"
-			(uuid "3d76d7f7-b73c-46df-b00d-33ba82e06768")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c036bfb0-bbd6-4b06-9ac2-4fee91403ada"
-					(reference "C831")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 58.42 153.67 0)
 		(unit 1)
@@ -8606,7 +8606,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NewLibrary:630661MouserReel"
 			(at 389.255 114.935 0)
 			(effects
 				(font
@@ -9334,7 +9334,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DDV0044D_N"
+		(property "Footprint" "NewLibrary:DDV0044D_N"
 			(at 276.225 183.515 0)
 			(effects
 				(font
@@ -10775,76 +10775,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_Small_US")
-		(at 271.145 75.565 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6616b5a6-add0-4240-a4d5-f97cb01c3b66")
-		(property "Reference" "C830"
-			(at 273.685 73.8631 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1000uF"
-			(at 273.685 76.4031 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 271.145 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 271.145 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM31MR71H105KA88L"
-			(at 271.145 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b5c519e2-1bc3-436e-9886-df4ff9652aa0")
-		)
-		(pin "2"
-			(uuid "c42a6ffb-2b86-4014-87ce-e07f087e4af9")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c036bfb0-bbd6-4b06-9ac2-4fee91403ada"
-					(reference "C830")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 47.625 88.9 180)
 		(unit 1)
@@ -11540,7 +11470,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NewLibrary:630661MouserReel"
 			(at 389.255 159.385 0)
 			(effects
 				(font
@@ -11848,6 +11778,76 @@
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c036bfb0-bbd6-4b06-9ac2-4fee91403ada"
 					(reference "#PWR0823")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_Small_US")
+		(at 277.495 94.615 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "80a9e2d0-919c-4ee6-a8a0-217aaf64a63b")
+		(property "Reference" "C831"
+			(at 280.035 92.9131 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 280.035 95.4531 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+			(at 277.495 94.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 277.495 94.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "EEV-FK1H102M"
+			(at 277.495 94.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "96121ca0-b0d5-436b-be01-f7755b7136a9")
+		)
+		(pin "2"
+			(uuid "79f36f93-dd2f-4844-8e9b-5698e4a23bba")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c036bfb0-bbd6-4b06-9ac2-4fee91403ada"
+					(reference "C831")
 					(unit 1)
 				)
 			)
@@ -12679,7 +12679,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NewLibrary:630661MouserReel"
 			(at 389.255 136.525 0)
 			(effects
 				(font

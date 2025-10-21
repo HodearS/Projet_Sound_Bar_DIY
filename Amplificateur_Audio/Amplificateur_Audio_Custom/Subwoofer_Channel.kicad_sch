@@ -9031,6 +9031,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:Jumper_2_Open")
+		(at 129.54 201.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a40edfc-57d0-456f-a4a0-5c8ad800c31c")
+		(property "Reference" "JP902"
+			(at 131.445 200.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PBC02SAAN"
+			(at 131.445 203.1999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "NewLibrary:PBC02SAAN"
+			(at 129.54 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, open"
+			(at 129.54 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "22f05158-f80e-47da-9bb5-9a808ef36107")
+		)
+		(pin "1"
+			(uuid "017717b5-f530-418e-8262-0c536ed8a76f")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c3eeb04c-3089-42ef-a9c1-68f6f54d6f1b"
+					(reference "JP902")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 293.37 106.68 0)
 		(unit 1)
@@ -9363,6 +9433,76 @@
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c3eeb04c-3089-42ef-a9c1-68f6f54d6f1b"
 					(reference "R913")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Open")
+		(at 144.78 209.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b00c3186-8c99-4f34-98ec-66096fd74092")
+		(property "Reference" "JP903"
+			(at 146.685 208.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PBC02SAAN"
+			(at 146.685 210.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "NewLibrary:PBC02SAAN"
+			(at 144.78 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, open"
+			(at 144.78 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b87fbf80-4ae6-4788-a8ec-434f60c35ad5")
+		)
+		(pin "1"
+			(uuid "69618f67-280d-4c60-84c0-b4b8337272bc")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c3eeb04c-3089-42ef-a9c1-68f6f54d6f1b"
+					(reference "JP903")
 					(unit 1)
 				)
 			)
@@ -9729,76 +9869,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 144.78 209.55 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c0de6311-45d0-4055-8af8-6051413b8cf1")
-		(property "Reference" "JP907"
-			(at 146.05 208.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "0.7"
-			(at 146.05 210.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 144.78 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 144.78 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 144.78 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f4c087b9-fe3e-4394-ab4d-5ad7f2c50d7e")
-		)
-		(pin "1"
-			(uuid "1d62a7ca-d22f-4c0c-8af1-859c0fc11c25")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c3eeb04c-3089-42ef-a9c1-68f6f54d6f1b"
-					(reference "JP907")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:Earth")
 		(at 104.775 81.28 0)
 		(unit 1)
@@ -10153,7 +10223,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RCJ-024"
+		(property "Value" "SUBOUT"
 			(at 379.73 75.2474 0)
 			(effects
 				(font
@@ -10670,76 +10740,6 @@
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c3eeb04c-3089-42ef-a9c1-68f6f54d6f1b"
 					(reference "C906")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 129.54 201.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e22555d1-b8d5-43eb-88ce-a2388f37593a")
-		(property "Reference" "JP906"
-			(at 130.81 200.6599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "0.7"
-			(at 130.81 203.1999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 129.54 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 129.54 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 129.54 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "274a22dc-2449-4a67-8de7-2f42421eb373")
-		)
-		(pin "1"
-			(uuid "9c59bde5-2001-4075-98a8-0d4c43be5c53")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/c3eeb04c-3089-42ef-a9c1-68f6f54d6f1b"
-					(reference "JP906")
 					(unit 1)
 				)
 			)

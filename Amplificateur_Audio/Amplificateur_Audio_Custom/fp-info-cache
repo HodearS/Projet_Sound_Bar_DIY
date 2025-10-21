@@ -1,4 +1,4 @@
-26386243897052689
+26389765326250764
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -72149,12 +72149,26 @@ CUI_RCJ-024
 3
 3
 NewLibrary
+DDV0044D_N
+
+TPA3255DDV 
+0
+44
+44
+NewLibrary
 PBC02SAAN
 PBC02SAAN
 Connector
 0
 2
 2
+NewLibrary
+QFN40P180X260X55-16N
+
+
+0
+16
+16
 NewLibrary
 UA8014ALD
 UA8014-ALD-1

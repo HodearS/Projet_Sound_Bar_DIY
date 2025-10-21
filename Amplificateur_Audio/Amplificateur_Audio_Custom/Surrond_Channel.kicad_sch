@@ -10887,6 +10887,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_Small_US")
+		(at 297.18 46.355 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "055ed33d-9444-472a-a823-66401d7b1d16")
+		(property "Reference" "C425"
+			(at 299.72 44.6531 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 299.72 47.1931 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+			(at 297.18 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 297.18 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "EEV-FK1H102M"
+			(at 297.18 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c235cb3-0633-44f0-9193-bbb05a12f50a")
+		)
+		(pin "2"
+			(uuid "cc67d41f-88f0-47c1-8cac-f869b8187f88")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C425")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 262.89 178.435 90)
 		(unit 1)
@@ -11689,76 +11759,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_Small_US")
-		(at 297.18 46.355 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "172f31ef-a04b-4feb-af8c-f0118017bc1c")
-		(property "Reference" "C425"
-			(at 299.72 44.6531 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1000uF"
-			(at 299.72 47.1931 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 297.18 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 297.18 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM31MR71H105KA88L"
-			(at 297.18 46.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aa1a3def-d742-43b2-9e69-7abd0386720c")
-		)
-		(pin "2"
-			(uuid "59f3f7aa-850d-43b6-b217-5093e3b360d9")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C425")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 31.75 41.275 180)
 		(unit 1)
@@ -12263,7 +12263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DDV0044D_N"
+		(property "Footprint" "NewLibrary:DDV0044D_N"
 			(at 295.91 135.255 0)
 			(effects
 				(font
@@ -14588,12 +14588,13 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Surrond Right+"
 			(at 401.955 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "NewLibrary:630661MouserReel"
@@ -16800,12 +16801,13 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "SurroundRight-"
 			(at 402.59 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "NewLibrary:630661MouserReel"
@@ -17245,73 +17247,6 @@
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C421")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 184.15 69.215 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "9d275c86-43bb-4c23-b872-362a6eae123e")
-		(property "Reference" "C414"
-			(at 184.023 64.262 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10uF"
-			(at 184.404 65.913 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 184.15 69.215 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 184.15 69.215 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM31CR71C106KAC7L"
-			(at 184.15 69.215 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3f4c88d1-7277-40ab-a135-13def81a4df6")
-		)
-		(pin "1"
-			(uuid "1b31f958-ae60-40a3-bd4a-2348f3178905")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
-					(reference "C414")
 					(unit 1)
 				)
 			)
@@ -17864,12 +17799,13 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Surrond Left-"
 			(at 401.955 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "NewLibrary:630661MouserReel"
@@ -18173,6 +18109,73 @@
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "L401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 184.15 69.215 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b0eeec16-7e9d-4eec-a5bf-a6a6dac09834")
+		(property "Reference" "C414"
+			(at 184.023 64.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 184.404 65.913 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 184.15 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "GRM31CR71C106KAC7L"
+			(at 184.15 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b67fa1d4-9442-4848-b970-c2381f0b6906")
+		)
+		(pin "1"
+			(uuid "434b63e1-5d66-40a4-a2a7-0c599f0a9701")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
+					(reference "C414")
 					(unit 1)
 				)
 			)
@@ -20302,7 +20305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 266.7 198.755 0)
 			(effects
 				(font
@@ -20764,7 +20767,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
 			(at 290.83 27.305 0)
 			(effects
 				(font
@@ -20782,7 +20785,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "GRM31MR71H105KA88L"
+		(property "Description" "EEV-FK1H102M"
 			(at 290.83 27.305 0)
 			(effects
 				(font

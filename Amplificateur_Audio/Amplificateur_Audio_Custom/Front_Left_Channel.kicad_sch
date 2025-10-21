@@ -7104,6 +7104,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_Small_US")
+		(at 272.415 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03e1a5d0-3536-4b24-bfb3-501239dd352c")
+		(property "Reference" "C730"
+			(at 274.955 71.9581 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 274.955 74.4981 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+			(at 272.415 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 272.415 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "EEV-FK1H102M"
+			(at 272.415 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3a81f4ab-1523-427a-9830-ea8945a34003")
+		)
+		(pin "2"
+			(uuid "d9c61263-4f61-4867-af92-defbdb51201f")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/7a445999-a030-4ec8-8810-54be223b32bd"
+					(reference "C730")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 244.475 224.79 90)
 		(unit 1)
@@ -8577,76 +8647,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_Small_US")
-		(at 278.765 92.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "34d91c4c-4d52-48b8-8d66-9fbd7b3560f7")
-		(property "Reference" "C731"
-			(at 281.305 91.0081 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1000uF"
-			(at 281.305 93.5481 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 278.765 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 278.765 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM31MR71H105KA88L"
-			(at 278.765 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6dc152f0-1c51-45ef-a129-088c100ec9c3")
-		)
-		(pin "2"
-			(uuid "07245272-1600-421b-a3ee-7d22fc05b105")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/7a445999-a030-4ec8-8810-54be223b32bd"
-					(reference "C731")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 198.755 92.075 0)
 		(unit 1)
@@ -9192,7 +9192,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3e0391e3-f1c2-45ac-ad5d-3608afa81261")
-		(property "Reference" "J706"
+		(property "Reference" "J702"
 			(at 381 129.54 0)
 			(effects
 				(font
@@ -9241,7 +9241,7 @@
 		(instances
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/7a445999-a030-4ec8-8810-54be223b32bd"
-					(reference "J706")
+					(reference "J702")
 					(unit 1)
 				)
 			)
@@ -9918,7 +9918,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4fdb7b63-5475-412d-8b39-5fed4fa6b48e")
-		(property "Reference" "J705"
+		(property "Reference" "J701"
 			(at 381 107.95 0)
 			(effects
 				(font
@@ -9967,7 +9967,7 @@
 		(instances
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/7a445999-a030-4ec8-8810-54be223b32bd"
-					(reference "J705")
+					(reference "J701")
 					(unit 1)
 				)
 			)
@@ -10064,7 +10064,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DDV0044D_N"
+		(property "Footprint" "NewLibrary:DDV0044D_N"
 			(at 277.495 181.61 0)
 			(effects
 				(font
@@ -12184,7 +12184,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88e841e6-3b1a-4bee-8c86-6833d8fc09f4")
-		(property "Reference" "J707"
+		(property "Reference" "J703"
 			(at 381 152.4 0)
 			(effects
 				(font
@@ -12233,7 +12233,7 @@
 		(instances
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/7a445999-a030-4ec8-8810-54be223b32bd"
-					(reference "J707")
+					(reference "J703")
 					(unit 1)
 				)
 			)
@@ -12510,6 +12510,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_Small_US")
+		(at 278.765 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92424423-a4f4-4fa8-9bfa-bb85f9eab86d")
+		(property "Reference" "C731"
+			(at 281.305 91.0081 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 281.305 93.5481 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+			(at 278.765 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 278.765 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "EEV-FK1H102M"
+			(at 278.765 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44b92941-b481-43c4-a9b8-70e4a377ae1b")
+		)
+		(pin "2"
+			(uuid "589d6b77-e164-4344-a8eb-27bf994147b4")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/7a445999-a030-4ec8-8810-54be223b32bd"
+					(reference "C731")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 211.455 139.7 0)
 		(unit 1)
@@ -12701,76 +12771,6 @@
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/7a445999-a030-4ec8-8810-54be223b32bd"
 					(reference "C724")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized_Small_US")
-		(at 272.415 73.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9665cc7e-c4ab-4d87-83d4-bbfb81470e07")
-		(property "Reference" "C730"
-			(at 274.955 71.9581 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1000uF"
-			(at 274.955 74.4981 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 272.415 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 272.415 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "GRM31MR71H105KA88L"
-			(at 272.415 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "36db8ee3-2fde-4544-8938-08506958fa01")
-		)
-		(pin "2"
-			(uuid "4a8a881c-87a8-419e-9109-a8bf2b2539b5")
-		)
-		(instances
-			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/7a445999-a030-4ec8-8810-54be223b32bd"
-					(reference "C730")
 					(unit 1)
 				)
 			)
@@ -15008,7 +15008,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ee0ccf1f-b14e-4235-82c5-5a60e63b1e4c")
-		(property "Reference" "J708"
+		(property "Reference" "J704"
 			(at 381 173.99 0)
 			(effects
 				(font
@@ -15057,7 +15057,7 @@
 		(instances
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/7a445999-a030-4ec8-8810-54be223b32bd"
-					(reference "J708")
+					(reference "J704")
 					(unit 1)
 				)
 			)
