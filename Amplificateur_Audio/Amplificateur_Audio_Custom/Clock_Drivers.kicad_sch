@@ -6260,6 +6260,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 62.865 176.53 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15ea01fb-5506-4438-b2de-d9e12a4349f6")
+		(property "Reference" "R327"
+			(at 62.865 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 62.865 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+			(at 62.865 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.865 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CRCW06030000Z0EA"
+			(at 62.865 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f61f716c-8def-4f73-a31b-54d240e053a2")
+		)
+		(pin "2"
+			(uuid "9b7fc313-ab3b-4ae1-bdba-272ee7098ba5")
+		)
+		(instances
+			(project "Amplificateur_Audio"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/217a2d94-4661-419a-8848-f82c573ccf51"
+					(reference "R327")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 222.25 222.25 0)
 		(unit 1)
@@ -6661,74 +6729,6 @@
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/217a2d94-4661-419a-8848-f82c573ccf51"
 					(reference "U304")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 62.865 176.53 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2f614d3c-2ef2-4c5d-b17c-b2ad00f31278")
-		(property "Reference" "R327"
-			(at 62.865 171.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 62.865 173.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 62.865 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.865 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CRCW06030000Z0EA"
-			(at 62.865 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8f412b3c-773c-409f-975a-06d5c1d8dce2")
-		)
-		(pin "2"
-			(uuid "51d5e5a8-ed77-47f2-9486-465836ec8510")
-		)
-		(instances
-			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/217a2d94-4661-419a-8848-f82c573ccf51"
-					(reference "R327")
 					(unit 1)
 				)
 			)

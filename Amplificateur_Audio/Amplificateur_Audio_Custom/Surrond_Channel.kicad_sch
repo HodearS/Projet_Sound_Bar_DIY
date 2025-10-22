@@ -9620,6 +9620,16 @@
 		)
 		(uuid "c1a71081-2aa6-4f90-b0d9-ed4f23265c86")
 	)
+	(label "SurroundRight-"
+		(at 382.905 132.715 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c56bdeca-8b67-47f9-98d4-37899103a63f")
+	)
 	(label "DAC1L-"
 		(at 162.56 59.055 0)
 		(effects
@@ -9659,16 +9669,6 @@
 			(justify left bottom)
 		)
 		(uuid "d088e6cd-9223-4857-8f84-878feb43c9a2")
-	)
-	(label "SurroundRight-"
-		(at 381 132.715 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d1dba494-d51c-4bd3-a139-70e6b45c8206")
 	)
 	(label "IND5"
 		(at 48.26 262.89 0)
@@ -10914,7 +10914,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+		(property "Footprint" "NewLibrary:CAP_EEVFK1H102M"
 			(at 297.18 46.355 0)
 			(effects
 				(font
@@ -14588,7 +14588,7 @@
 				)
 			)
 		)
-		(property "Value" "Surrond Right+"
+		(property "Value" "SR+"
 			(at 401.955 109.22 0)
 			(effects
 				(font
@@ -15267,7 +15267,7 @@
 				)
 			)
 		)
-		(property "Value" "Surrond Left+"
+		(property "Value" "SL+"
 			(at 401.955 64.77 0)
 			(effects
 				(font
@@ -16801,7 +16801,7 @@
 				)
 			)
 		)
-		(property "Value" "SurroundRight-"
+		(property "Value" "SR-"
 			(at 402.59 130.81 0)
 			(effects
 				(font
@@ -17799,7 +17799,7 @@
 				)
 			)
 		)
-		(property "Value" "Surrond Left-"
+		(property "Value" "SL-"
 			(at 401.955 86.36 0)
 			(effects
 				(font
@@ -20767,7 +20767,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_16x17.5"
+		(property "Footprint" "NewLibrary:CAP_EEVFK1H102M"
 			(at 290.83 27.305 0)
 			(effects
 				(font
