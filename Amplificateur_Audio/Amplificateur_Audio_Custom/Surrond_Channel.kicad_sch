@@ -16513,15 +16513,15 @@
 	(symbol
 		(lib_id "Device:L_Iron_Coupled_Small_1243")
 		(at 360.045 67.945 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "83f64c05-acc0-429e-9e01-a21ffb906ca5")
 		(property "Reference" "L402"
-			(at 360.045 61.595 0)
+			(at 360.045 74.295 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16529,7 +16529,7 @@
 			)
 		)
 		(property "Value" "10uH"
-			(at 360.045 64.135 0)
+			(at 360.045 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16852,15 +16852,15 @@
 	(symbol
 		(lib_id "Device:L_Iron_Coupled_Small_1243")
 		(at 360.045 112.395 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "93807c6b-ebfa-47f6-aa17-4dfa3f8c3744")
 		(property "Reference" "L403"
-			(at 360.045 106.045 0)
+			(at 360.045 118.745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16868,7 +16868,7 @@
 			)
 		)
 		(property "Value" "10uH"
-			(at 360.045 108.585 0)
+			(at 360.045 116.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
