@@ -12263,7 +12263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NewLibrary:DDV0044D_N"
+		(property "Footprint" "Package_SO:HTSSOP-44-1EP_6.1x14mm_P0.635mm_EP5.2x14mm_Mask4.31x8.26mm_ThermalVias"
 			(at 295.91 135.255 0)
 			(effects
 				(font
