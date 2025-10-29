@@ -7052,7 +7052,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 111.125) (xy 357.505 111.125)
+			(xy 356.235 111.125) (xy 357.505 111.125)
 		)
 		(stroke
 			(width 0)
@@ -7642,7 +7642,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 104.775) (xy 358.14 111.125)
+			(xy 356.235 104.775) (xy 356.235 111.125)
 		)
 		(stroke
 			(width 0)
@@ -8732,7 +8732,7 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 104.775) (xy 358.14 104.775)
+			(xy 332.74 104.775) (xy 356.235 104.775)
 		)
 		(stroke
 			(width 0)
@@ -16536,7 +16536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NewLibrary:UA8014ALD"
+		(property "Footprint" "NewLibrary:UA8014ALD_Reverse"
 			(at 360.045 67.945 0)
 			(effects
 				(font
@@ -16875,7 +16875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NewLibrary:UA8014ALD"
+		(property "Footprint" "NewLibrary:UA8014ALD_Reverse"
 			(at 360.045 112.395 0)
 			(effects
 				(font
