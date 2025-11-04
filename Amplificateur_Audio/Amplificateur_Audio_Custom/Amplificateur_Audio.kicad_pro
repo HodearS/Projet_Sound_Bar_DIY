@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.4,
-          "width": 1.575
+          "height": 0.25,
+          "width": 0.875
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -489,6 +489,48 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.3,
+        "name": "12V_POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 2.0,
+        "via_diameter": 1.0,
+        "via_drill": 0.6
+      },
+      {
+        "clearance": 0.25,
+        "name": "3V3_POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.0,
+        "via_diameter": 0.9,
+        "via_drill": 0.5
+      },
+      {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.2,
+        "diff_pair_width": 0.2,
+        "name": "AUDIO_DIFF",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.15,
+        "name": "I2S_CLK",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
         "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -496,9 +538,19 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 5,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.15,
+        "name": "Signal_Low",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.15,
         "via_diameter": 0.6,
         "via_drill": 0.3
       }
@@ -508,7 +560,72 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/OUTL1+"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/OUTL1-"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/OUTR1-"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/OUTR1+"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/DAC1L-"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/DAC1L+"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/DAC1R-"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/DAC1R+"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/INPUTL1+"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/INPUTL1-"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/INPUTR1-"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/INPUTR1+"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/DACF1L-"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/DACF1L+"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/DACF1R-"
+      },
+      {
+        "netclass": "AUDIO_DIFF",
+        "pattern": "/Surrond_Channel/DACF1R+"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
