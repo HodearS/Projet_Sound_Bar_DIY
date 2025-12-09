@@ -5057,7 +5057,7 @@
 			)
 		)
 	)
-	(global_label "{slash}Fault3"
+	(global_label "{slash}FAULT3"
 		(shape input)
 		(at 30.48 191.77 180)
 		(fields_autoplaced yes)
@@ -5069,7 +5069,7 @@
 		)
 		(uuid "90e16e6f-4795-4897-9ae9-5417a616e43e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.1773 191.77 0)
+			(at 19.4514 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5101,7 +5101,7 @@
 			)
 		)
 	)
-	(global_label "{slash}Fault5"
+	(global_label "{slash}FAULT5"
 		(shape input)
 		(at 30.48 207.01 180)
 		(fields_autoplaced yes)
@@ -5113,7 +5113,7 @@
 		)
 		(uuid "9ad29156-053f-4535-bc08-a1370c421cca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.1773 207.01 0)
+			(at 19.4514 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5145,7 +5145,7 @@
 			)
 		)
 	)
-	(global_label "{slash}Fault4"
+	(global_label "{slash}FAULT4"
 		(shape input)
 		(at 30.48 199.39 180)
 		(fields_autoplaced yes)
@@ -5157,7 +5157,7 @@
 		)
 		(uuid "ab3d0a3e-a0b6-4288-857c-3755c369c579")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.1773 199.39 0)
+			(at 19.4514 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5255,7 +5255,7 @@
 			)
 		)
 	)
-	(global_label "{slash}Fault1"
+	(global_label "{slash}FAULT1"
 		(shape input)
 		(at 30.48 176.53 180)
 		(fields_autoplaced yes)
@@ -5267,7 +5267,7 @@
 		)
 		(uuid "b9aa99fa-4a46-4056-87a0-9bf954979c32")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.1773 176.53 0)
+			(at 19.4514 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5365,7 +5365,7 @@
 			)
 		)
 	)
-	(global_label "{slash}Fault2"
+	(global_label "{slash}FAULT2"
 		(shape input)
 		(at 30.48 184.15 180)
 		(fields_autoplaced yes)
@@ -5377,7 +5377,7 @@
 		)
 		(uuid "e373f342-94fb-49b5-a288-c7f4e26cbe2c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.1773 184.15 0)
+			(at 19.4514 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5794,7 +5794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 359.41 113.03 0)
 			(effects
 				(font
@@ -11833,7 +11833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 359.41 179.07 0)
 			(effects
 				(font
@@ -12100,7 +12100,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 359.41 46.99 0)
 			(effects
 				(font

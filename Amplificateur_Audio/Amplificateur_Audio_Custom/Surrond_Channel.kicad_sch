@@ -4861,7 +4861,7 @@
 	)
 	(rectangle
 		(start 44.45 78.105)
-		(end 70.485 111.76)
+		(end 74.295 111.76)
 		(stroke
 			(width 0)
 			(type default)
@@ -6701,6 +6701,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 99.695) (xy 74.93 99.695)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fdf5db0-37f2-4998-b426-287208494a05")
+	)
+	(wire
+		(pts
 			(xy 370.205 97.155) (xy 370.205 94.615)
 		)
 		(stroke
@@ -7208,16 +7218,6 @@
 			(type default)
 		)
 		(uuid "71c9b183-cc22-4734-908a-5d6a1fa4789d")
-	)
-	(wire
-		(pts
-			(xy 74.93 99.695) (xy 60.96 99.695)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71da0498-1d3d-4e5b-8efb-3ff771e4b8ea")
 	)
 	(wire
 		(pts
@@ -8031,7 +8031,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 85.725) (xy 116.84 85.725)
+			(xy 125.095 85.725) (xy 116.84 85.725)
 		)
 		(stroke
 			(width 0)
@@ -8461,7 +8461,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 80.645) (xy 116.84 80.645)
+			(xy 125.095 80.645) (xy 116.84 80.645)
 		)
 		(stroke
 			(width 0)
@@ -8949,6 +8949,16 @@
 		)
 		(uuid "0c24b662-b17a-4a16-a82a-a2bf1bb266ed")
 	)
+	(label "VNEG"
+		(at 121.285 95.885 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "154b155d-71a1-4e07-9b41-e4676af016eb")
+	)
 	(label "OSC-IOM"
 		(at 368.3 233.68 0)
 		(effects
@@ -9249,6 +9259,16 @@
 		)
 		(uuid "824038c0-8721-4e47-8353-ea2904e0d7cb")
 	)
+	(label "ADR2"
+		(at 68.58 99.695 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "883c7e79-c08f-4c8f-8f4c-a2477ad4a08f")
+	)
 	(label "INPUTL1+"
 		(at 259.08 132.715 0)
 		(effects
@@ -9268,6 +9288,16 @@
 			(justify left bottom)
 		)
 		(uuid "8b24adb4-5ab2-4a45-8040-05580a01ccfa")
+	)
+	(label "LDOO"
+		(at 118.11 100.965 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "93e4b7ba-0055-49d2-bd5b-5a30c1302f60")
 	)
 	(label "INC5"
 		(at 48.26 260.35 0)
@@ -9309,6 +9339,26 @@
 		)
 		(uuid "9a543cc3-f040-4ae1-a555-d5fe81a2d1eb")
 	)
+	(label "CAPP"
+		(at 117.475 80.645 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a490b0af-ac1c-432e-b7fb-bfb4de37f736")
+	)
+	(label "MISO"
+		(at 64.77 89.535 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b0c39a22-0eb9-4486-a3f8-fac0a0ce272d")
+	)
 	(label "OUT1D"
 		(at 342.9 113.665 0)
 		(effects
@@ -9349,6 +9399,16 @@
 		)
 		(uuid "bcbd7c24-a946-462d-a254-fe1804e1c7ec")
 	)
+	(label "MODE2"
+		(at 66.04 150.495 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "be44646a-c46e-4d1f-9e4b-02924a501a6e")
+	)
 	(label "INB4"
 		(at 48.26 247.65 0)
 		(effects
@@ -9368,6 +9428,16 @@
 			(justify left bottom)
 		)
 		(uuid "c1a71081-2aa6-4f90-b0d9-ed4f23265c86")
+	)
+	(label "MODE1"
+		(at 66.04 144.145 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c21f2ec1-6710-4ebf-a94e-a576a5e41999")
 	)
 	(label "SurroundRight-"
 		(at 382.905 132.715 0)
@@ -9498,6 +9568,26 @@
 			(justify left bottom)
 		)
 		(uuid "e8cfe8e8-f991-49e7-b996-fada197066a6")
+	)
+	(label "CAPM"
+		(at 117.475 85.725 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ecc1e46d-6154-4bf9-a801-c6109740fa54")
+	)
+	(label "XSMT"
+		(at 67.31 126.365 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eef56fb5-eef2-481a-8ef6-1f5d19345155")
 	)
 	(label "Surrond Left-"
 		(at 381 88.265 0)
@@ -12296,7 +12386,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 121.92 83.185 0)
+		(at 125.095 83.185 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12304,7 +12394,7 @@
 		(dnp no)
 		(uuid "2afd4d5b-af62-4f6d-8ccd-0c8cd8b8eed8")
 		(property "Reference" "C407"
-			(at 126.365 82.042 0)
+			(at 129.54 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12312,7 +12402,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 126.365 84.582 0)
+			(at 129.54 84.582 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12320,7 +12410,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 121.92 83.185 0)
+			(at 125.095 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12329,7 +12419,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 83.185 0)
+			(at 125.095 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12338,7 +12428,7 @@
 			)
 		)
 		(property "Description" "C1005X5R1A225K050BC"
-			(at 121.92 83.185 0)
+			(at 125.095 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)

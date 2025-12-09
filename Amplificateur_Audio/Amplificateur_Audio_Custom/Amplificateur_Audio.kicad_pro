@@ -492,29 +492,79 @@
         "clearance": 0.3,
         "name": "12V_POWER",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 7,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 2.0,
         "via_diameter": 1.0,
         "via_drill": 0.6
       },
       {
+        "clearance": 0.2,
+        "name": "3.3V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 5,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
         "clearance": 0.25,
         "name": "3V3_POWER",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 8,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
         "via_diameter": 0.9,
         "via_drill": 0.5
       },
       {
-        "clearance": 0.15,
+        "clearance": 0.2,
+        "name": "ANALOG_AUX",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
         "diff_pair_gap": 0.2,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.25,
         "name": "AUDIO_DIFF",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 9,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "name": "DIGITAL_FAST",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "name": "DIGITAL_LOW",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "name": "GND_global",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.6,
@@ -524,7 +574,7 @@
         "clearance": 0.5,
         "name": "HP_OUT",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 6,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 2.0,
         "via_diameter": 1.1,
@@ -534,7 +584,7 @@
         "clearance": 0.15,
         "name": "I2S_CLK",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 4,
+        "priority": 10,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.6,
@@ -548,7 +598,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 6,
+        "priority": 12,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
         "via_diameter": 0.6,
@@ -558,9 +608,19 @@
         "clearance": 0.15,
         "name": "Signal_Low",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 5,
+        "priority": 11,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "name": "U402_CTRL",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
         "via_diameter": 0.6,
         "via_drill": 0.3
       }
@@ -634,6 +694,118 @@
       {
         "netclass": "AUDIO_DIFF",
         "pattern": "/Surrond_Channel/DACF1R+"
+      },
+      {
+        "netclass": "3.3V",
+        "pattern": "3.3V-4"
+      },
+      {
+        "netclass": "3.3V",
+        "pattern": "/Surrond_Channel/AVDD"
+      },
+      {
+        "netclass": "GND_global",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "DIGITAL_FAST",
+        "pattern": "/Surrond_Channel/MISO"
+      },
+      {
+        "netclass": "DIGITAL_FAST",
+        "pattern": "LRCK1"
+      },
+      {
+        "netclass": "DIGITAL_FAST",
+        "pattern": "DIN1"
+      },
+      {
+        "netclass": "DIGITAL_FAST",
+        "pattern": "BCK1"
+      },
+      {
+        "netclass": "DIGITAL_FAST",
+        "pattern": "SCK1"
+      },
+      {
+        "netclass": "DIGITAL_LOW",
+        "pattern": "/Surrond_Channel/MODE1"
+      },
+      {
+        "netclass": "DIGITAL_LOW",
+        "pattern": "/Surrond_Channel/MODE2"
+      },
+      {
+        "netclass": "DIGITAL_LOW",
+        "pattern": "/Surrond_Channel/ADR2"
+      },
+      {
+        "netclass": "DIGITAL_LOW",
+        "pattern": "SCL1"
+      },
+      {
+        "netclass": "DIGITAL_LOW",
+        "pattern": "SDA1"
+      },
+      {
+        "netclass": "DIGITAL_LOW",
+        "pattern": "/Surrond_Channel/XSMT"
+      },
+      {
+        "netclass": "ANALOG_AUX",
+        "pattern": "/Surrond_Channel/VNEG"
+      },
+      {
+        "netclass": "ANALOG_AUX",
+        "pattern": "/Surrond_Channel/CAPM"
+      },
+      {
+        "netclass": "ANALOG_AUX",
+        "pattern": "/Surrond_Channel/CAPP"
+      },
+      {
+        "netclass": "ANALOG_AUX",
+        "pattern": "/Surrond_Channel/LDOO"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "/CLIP_OTW1"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "/FAULT"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "/AMP-RESET1"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "Net-(U402-C_START)"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "Net-(U402-FREQ_ADJ)"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "Net-(U402-OC_ADJ)"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "Net-(U402-OSC_IOP)"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "Net-(U402-OSC_IOM)"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "Net-(U402-VBG)"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "Net-(U402-DVDD)"
       }
     ]
   },
@@ -819,7 +991,7 @@
     },
     "net_format_name": "KiCad",
     "page_layout_descr_file": "",
-    "plot_directory": "C:/Users/nico/Desktop/Gerber/",
+    "plot_directory": "C:/Users/nico/Desktop/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
