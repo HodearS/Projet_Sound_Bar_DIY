@@ -4973,6 +4973,16 @@
 		)
 		(uuid "2264c3fd-72d3-435e-9a41-f6ef10425a8b")
 	)
+	(text "ref ventilateur \nhttps://www.mouser.fr/datasheet/3/6118/1/cfm_50c.pdf\n12V et PWM\nsignal haut 2.3 à 10V\nfreq 20khz\n"
+		(exclude_from_sim no)
+		(at 158.75 127.635 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "24e61407-938a-497d-9e80-2c27b2df3ef3")
+	)
 	(text "Surround"
 		(exclude_from_sim no)
 		(at 113.665 212.09 0)
@@ -10308,6 +10318,100 @@
 				)
 				(justify left)
 				(hide yes)
+			)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 218.44 15.24) (xy 218.44 215.265) (xy 320.675 215.265) (xy 327.025 208.915) (xy 327.025 179.705)
+				(xy 330.835 175.895) (xy 391.16 175.895) (xy 407.035 160.02) (xy 407.035 52.705) (xy 369.57 15.24)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 84e73c5c-dfd4-4125-a60f-d22b7698e90b)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 216.535 35.56) (xy 216.535 140.335) (xy 196.85 160.02) (xy 19.685 160.02) (xy 12.7 153.035)
+				(xy 12.7 31.115) (xy 29.845 13.97) (xy 194.945 13.97)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid dbc5a082-afe5-41a0-951b-d95db082e04a)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 12.7 31.115 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "463c83aa-4df5-432e-ade0-0fdf24de7966")
+		(property "Netclass" ""
+			(at -231.14 27.305 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Component Class" "Préampli"
+			(at 13.3985 28.575 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 218.44 15.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4af3d1db-ae3e-45eb-b53b-9d5cd3377125")
+		(property "Netclass" ""
+			(at -116.84 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Component Class" "Ampli"
+			(at 219.1385 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
 			)
 		)
 	)

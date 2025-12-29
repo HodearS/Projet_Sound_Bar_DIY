@@ -6973,6 +6973,100 @@
 			)
 		)
 	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 220.345 71.12) (xy 220.345 175.895) (xy 200.66 195.58) (xy 23.495 195.58) (xy 16.51 188.595)
+				(xy 16.51 66.675) (xy 33.655 49.53) (xy 198.755 49.53)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid b7b70d30-cb5c-4741-9243-441c0e985e0e)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 222.25 14.605) (xy 222.25 214.63) (xy 324.485 214.63) (xy 330.835 208.28) (xy 330.835 179.07)
+				(xy 334.645 175.26) (xy 394.97 175.26) (xy 410.845 159.385) (xy 410.845 52.07) (xy 373.38 14.605)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid d44b7817-b126-4e79-8025-ed3c51a914b7)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 16.51 66.675 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ef1cf343-5561-4eb6-9883-9c73944d1cda")
+		(property "Netclass" ""
+			(at -227.33 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Component Class" "Préampli"
+			(at 17.2085 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 373.38 14.605 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0ee09ba-b84d-4688-a017-ac02256c9c97")
+		(property "Netclass" ""
+			(at 38.1 9.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Component Class" "Ampli"
+			(at 374.0785 12.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 65.405 149.86 270)

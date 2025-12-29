@@ -3295,6 +3295,16 @@
 		)
 		(uuid "011ee78d-e088-4f3c-bd49-c8706933e80c")
 	)
+	(text "Dissipateur supporter :https://www.digikey.fr/fr/products/detail/advanced-thermal-solutions-inc/ATS-CPX070070010-209-C1-R0/4753872\nSKV707014-CU\nSKV707014_AL"
+		(exclude_from_sim no)
+		(at 93.98 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0e1e294b-7748-48ea-9fd2-19a27a370124")
+	)
 	(text "ADDRESS SELECT"
 		(exclude_from_sim no)
 		(at 60.325 84.455 0)

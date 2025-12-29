@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.95,
-          "width": 1.075
+          "height": 1.6,
+          "width": 1.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -492,7 +492,7 @@
         "clearance": 0.3,
         "name": "12V_POWER",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 7,
+        "priority": 10,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 2.0,
         "via_diameter": 1.0,
@@ -502,7 +502,7 @@
         "clearance": 0.2,
         "name": "3.3V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 5,
+        "priority": 8,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
         "via_diameter": 0.6,
@@ -512,7 +512,7 @@
         "clearance": 0.25,
         "name": "3V3_POWER",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 8,
+        "priority": 11,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
         "via_diameter": 0.9,
@@ -522,7 +522,7 @@
         "clearance": 0.2,
         "name": "ANALOG_AUX",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.6,
@@ -534,7 +534,7 @@
         "diff_pair_width": 0.25,
         "name": "AUDIO_DIFF",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 9,
+        "priority": 12,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.6,
@@ -542,9 +542,19 @@
       },
       {
         "clearance": 0.2,
+        "name": "CLASSD_BST",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.4,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
         "name": "DIGITAL_FAST",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 3,
+        "priority": 6,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.6,
@@ -554,7 +564,7 @@
         "clearance": 0.2,
         "name": "DIGITAL_LOW",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 5,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.6,
@@ -564,7 +574,7 @@
         "clearance": 0.2,
         "name": "GND_global",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 4,
+        "priority": 7,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.6,
@@ -574,7 +584,7 @@
         "clearance": 0.5,
         "name": "HP_OUT",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 6,
+        "priority": 9,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 2.0,
         "via_diameter": 1.1,
@@ -584,9 +594,29 @@
         "clearance": 0.15,
         "name": "I2S_CLK",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 10,
+        "priority": 13,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "name": "LOCAL_LOW_POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "name": "LOCAL_POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
         "via_diameter": 0.6,
         "via_drill": 0.3
       },
@@ -598,7 +628,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 12,
+        "priority": 15,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
         "via_diameter": 0.6,
@@ -608,7 +638,7 @@
         "clearance": 0.15,
         "name": "Signal_Low",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 11,
+        "priority": 14,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
         "via_diameter": 0.6,
@@ -618,7 +648,7 @@
         "clearance": 0.2,
         "name": "U402_CTRL",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.6,
@@ -769,15 +799,15 @@
       },
       {
         "netclass": "U402_CTRL",
-        "pattern": "/CLIP_OTW1"
+        "pattern": "/Surrond_Channel/CLIP_OTW1"
       },
       {
         "netclass": "U402_CTRL",
-        "pattern": "/FAULT"
+        "pattern": "/Surrond_Channel/FAULT1"
       },
       {
         "netclass": "U402_CTRL",
-        "pattern": "/AMP-RESET1"
+        "pattern": "/Surrond_Channel/AMP-RESET1"
       },
       {
         "netclass": "U402_CTRL",
@@ -806,6 +836,66 @@
       {
         "netclass": "U402_CTRL",
         "pattern": "Net-(U402-DVDD)"
+      },
+      {
+        "netclass": "LOCAL_POWER",
+        "pattern": "VDD1"
+      },
+      {
+        "netclass": "LOCAL_POWER",
+        "pattern": "12V"
+      },
+      {
+        "netclass": "LOCAL_LOW_POWER",
+        "pattern": "Net-(U402-AVDD)"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "/Surrond_Channel/Net-(U402-VBG)"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "{slash}CLIP_OTW1"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "{slash}FAULT1"
+      },
+      {
+        "netclass": "U402_CTRL",
+        "pattern": "{slash}AMP-RESET1"
+      },
+      {
+        "netclass": "CLASSD_BST",
+        "pattern": "Net-(U402-BST_A)"
+      },
+      {
+        "netclass": "CLASSD_BST",
+        "pattern": "/Surrond_Channel/OUT1A"
+      },
+      {
+        "netclass": "CLASSD_BST",
+        "pattern": "/Surrond_Channel/OUT1B"
+      },
+      {
+        "netclass": "CLASSD_BST",
+        "pattern": "Net-(U402-BST_B)"
+      },
+      {
+        "netclass": "CLASSD_BST",
+        "pattern": "/Surrond_Channel/OUT1C"
+      },
+      {
+        "netclass": "CLASSD_BST",
+        "pattern": "Net-(U402-BST_C)"
+      },
+      {
+        "netclass": "CLASSD_BST",
+        "pattern": "/Surrond_Channel/OUT1D"
+      },
+      {
+        "netclass": "CLASSD_BST",
+        "pattern": "Net-(U402-BST_D)"
       }
     ]
   },
