@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -1098,44 +1098,24 @@
       "Root"
     ],
     [
-      "f8ac718e-8bec-44a2-9fe1-fcd8b5be07d4",
-      "MSP43_IO"
+      "16098fdf-7a4f-4178-9406-68f5e7d096b8",
+      "Surround_Hierarchy"
     ],
     [
-      "217a2d94-4661-419a-8848-f82c573ccf51",
-      "Clock_Drivers"
+      "f20c9cb5-1c2b-44a4-a0e7-a511dbffc413",
+      "Up_Hierarchy"
     ],
     [
-      "2266f535-6438-4aa9-912a-4ebf19d1b357",
-      "Surrond_Channel"
+      "84670f7e-6900-48b3-abac-6ca4060020c6",
+      "Front_Right_Hierarchy"
     ],
     [
-      "c4f15db9-a029-4371-8acc-cdaa6fd1dc1d",
-      "Up_Channel"
+      "ed7ee7ef-650d-4c88-9bad-a25a3f177623",
+      "Front_Left_Hierarchy"
     ],
     [
-      "cf8131f5-674c-4a4a-95bd-85b86419f228",
-      "Front_Right_Channel"
-    ],
-    [
-      "7a445999-a030-4ec8-8810-54be223b32bd",
-      "Front_Left_Channel"
-    ],
-    [
-      "c036bfb0-bbd6-4b06-9ac2-4fee91403ada",
-      "Center_Channel"
-    ],
-    [
-      "c3eeb04c-3089-42ef-a9c1-68f6f54d6f1b",
-      "Subwoofer_Channel"
-    ],
-    [
-      "9144ad36-2254-45c5-9c7e-6359ef38a028",
-      "Power_Supplies"
-    ],
-    [
-      "a1c822be-ef8e-4633-a487-fe5099c066f7",
-      "Analog_Io_Board"
+      "e3a62f30-8b6f-46e5-865a-5068b1ea099b",
+      "Center_Hierarchy"
     ]
   ],
   "text_variables": {}

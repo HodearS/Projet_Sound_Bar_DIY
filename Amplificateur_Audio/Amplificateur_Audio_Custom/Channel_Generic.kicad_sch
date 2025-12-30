@@ -4648,7 +4648,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.675 76.835) (xy 205.74 76.835)
+			(xy 193.675 76.835) (xy 206.375 76.835)
 		)
 		(stroke
 			(width 0)
@@ -6436,77 +6436,7 @@
 		)
 		(uuid "ff7fe9eb-4a69-49d2-bac8-4d121a68d550")
 	)
-	(label "OUT1B"
-		(at 323.85 94.615 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0521926a-8806-40eb-aed7-3e7407019483")
-	)
-	(label "INPUTR1+"
-		(at 259.08 140.335 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0a4dbfa9-1121-4360-8e6b-3d7e07c471a4")
-	)
-	(label "SCK1"
-		(at 63.5 67.945 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0c24b662-b17a-4a16-a82a-a2bf1bb266ed")
-	)
-	(label "VNEG"
-		(at 121.285 95.885 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "154b155d-71a1-4e07-9b41-e4676af016eb")
-	)
-	(label "OSC-IOM"
-		(at 368.3 233.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1db18ee7-003b-4e4c-b59e-4e447f87cec2")
-	)
-	(label "INPUTL1-"
-		(at 259.08 135.255 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1fcd7328-bb6a-4b15-8510-09fe5376e02d")
-	)
-	(label "INPUTR1-"
-		(at 205.74 76.835 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "283f7af2-6816-42ab-a89f-cf0e4f17e54a")
-	)
-	(label "DAC1R-"
+	(label "DACR-"
 		(at 162.56 76.835 0)
 		(effects
 			(font
@@ -6516,147 +6446,7 @@
 		)
 		(uuid "28ef8c10-af00-43b3-90f4-33e67fd60f7e")
 	)
-	(label "OUT1A"
-		(at 339.725 66.675 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2d436680-622f-4862-8f00-60e87844e2ca")
-	)
-	(label "OUT1D"
-		(at 323.215 114.935 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "31473e47-25db-46ee-b30e-267585008c73")
-	)
-	(label "Surrond Left+"
-		(at 381.635 66.675 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "34f5ddff-3262-4a02-ae16-5a2eeac3d4c4")
-	)
-	(label "OUT1C"
-		(at 323.215 104.775 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "39fe7ff9-13f6-4b77-8cd1-439ae6624c2e")
-	)
-	(label "OUT1A"
-		(at 324.485 81.915 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4aaa1b53-cb6c-4c64-99fe-102ef0819fdf")
-	)
-	(label "OUTL1-"
-		(at 117.475 53.975 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4ce897a2-e8ae-4dc6-b7fa-576f3c085529")
-	)
-	(label "SDA1"
-		(at 48.895 118.745 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "51d5f26c-3cca-455c-88a5-16e08e7c1157")
-	)
-	(label "INPUTR1+"
-		(at 206.375 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "54b83326-5eea-407a-b828-f0cb25db148c")
-	)
-	(label "OSC-IOP"
-		(at 368.556 196.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "57d2e045-39b5-4ea2-9919-1665d7a7794e")
-	)
-	(label "BCK1"
-		(at 63.5 70.485 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5aca618a-ff22-48d3-87b5-cd80980dda0d")
-	)
-	(label "OUTR1-"
-		(at 117.475 61.595 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "62e5ed80-881a-44e5-885f-9a55cb20eff4")
-	)
-	(label "DIN1"
-		(at 63.5 75.565 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "638fd3a3-e2b3-489f-962a-9ddacab1fa2c")
-	)
-	(label "OUT1C"
-		(at 342.265 104.775 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "65395730-9815-404a-8dc2-cc0c061d26da")
-	)
-	(label "VDD1"
-		(at 263.525 99.695 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6751ab70-09d5-443b-91f9-0e36fb6758ae")
-	)
-	(label "DACF1R-"
+	(label "DACFR-"
 		(at 175.895 76.835 0)
 		(effects
 			(font
@@ -6666,77 +6456,7 @@
 		)
 		(uuid "6e6af18a-09e3-46ab-9b62-542da0d92a1d")
 	)
-	(label "Surrond Right+"
-		(at 381 111.125 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7e5194e3-d0bd-4394-ad59-c73a2ba6eb34")
-	)
-	(label "{slash}CLIP_OTW1"
-		(at 321.945 147.955 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7f3c68e2-3fae-4bd1-99ac-fabf253392e5")
-	)
-	(label "INPUTR1-"
-		(at 259.08 137.795 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "824038c0-8721-4e47-8353-ea2904e0d7cb")
-	)
-	(label "ADR2"
-		(at 68.58 99.695 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "883c7e79-c08f-4c8f-8f4c-a2477ad4a08f")
-	)
-	(label "INPUTL1+"
-		(at 259.08 132.715 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8994ca2c-fe70-4065-a226-7dd3ce1b58a3")
-	)
-	(label "LDOO"
-		(at 118.11 100.965 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "93e4b7ba-0055-49d2-bd5b-5a30c1302f60")
-	)
-	(label "INPUTL1-"
-		(at 206.375 62.865 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9643dbf0-616c-4e51-81e9-0c462fd9b1d6")
-	)
-	(label "DACF1L+"
+	(label "DACFL+"
 		(at 175.26 43.815 0)
 		(effects
 			(font
@@ -6746,97 +6466,7 @@
 		)
 		(uuid "9a543cc3-f040-4ae1-a555-d5fe81a2d1eb")
 	)
-	(label "CAPP"
-		(at 117.475 80.645 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a490b0af-ac1c-432e-b7fb-bfb4de37f736")
-	)
-	(label "MISO"
-		(at 64.77 89.535 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b0c39a22-0eb9-4486-a3f8-fac0a0ce272d")
-	)
-	(label "OUT1D"
-		(at 342.9 113.665 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b460e8c5-474c-4a91-a374-dfda5cfbd4e1")
-	)
-	(label "OUTR1+"
-		(at 117.475 69.215 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b5bead92-ad6f-49e0-a549-9f0aea537b07")
-	)
-	(label "AVDD"
-		(at 45.085 56.515 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bcbd7c24-a946-462d-a254-fe1804e1c7ec")
-	)
-	(label "MODE2"
-		(at 66.04 150.495 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "be44646a-c46e-4d1f-9e4b-02924a501a6e")
-	)
-	(label "OUT1B"
-		(at 344.805 94.615 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c1a71081-2aa6-4f90-b0d9-ed4f23265c86")
-	)
-	(label "MODE1"
-		(at 66.04 144.145 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c21f2ec1-6710-4ebf-a94e-a576a5e41999")
-	)
-	(label "SurroundRight-"
-		(at 382.905 132.715 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c56bdeca-8b67-47f9-98d4-37899103a63f")
-	)
-	(label "DAC1L-"
+	(label "DACL-"
 		(at 159.385 59.055 0)
 		(effects
 			(font
@@ -6846,37 +6476,7 @@
 		)
 		(uuid "c9fe5c86-e1fe-4b5e-8150-31a1e256745c")
 	)
-	(label "SCL1"
-		(at 48.895 114.935 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cc065293-2a7b-4dd5-b532-33bed1cf5135")
-	)
-	(label "{slash}FAULT1"
-		(at 321.945 150.495 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d7d1d820-b293-42d6-bf6c-1ad7b62a5dbb")
-	)
-	(label "INPUTL1+"
-		(at 207.01 43.815 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d8f71efc-e76e-457e-ae92-6f5ca3b42539")
-	)
-	(label "DACF1R+"
+	(label "DACFR+"
 		(at 175.895 95.25 0)
 		(effects
 			(font
@@ -6886,7 +6486,7 @@
 		)
 		(uuid "dc423aae-49fa-4d05-8e10-784928f0ff73")
 	)
-	(label "DAC1L+"
+	(label "DACL+"
 		(at 158.115 43.815 0)
 		(effects
 			(font
@@ -6896,57 +6496,7 @@
 		)
 		(uuid "e20bb568-2a05-4a88-bb4d-c7d811bc5391")
 	)
-	(label "LRCK1"
-		(at 63.5 73.025 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e2476ef1-80bc-49ee-8f0b-6070f84b5442")
-	)
-	(label "{slash}AMP-RESET1"
-		(at 257.175 169.545 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e742e7b5-73f1-4909-8017-6a1e301ab4bf")
-	)
-	(label "CAPM"
-		(at 117.475 85.725 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ecc1e46d-6154-4bf9-a801-c6109740fa54")
-	)
-	(label "XSMT"
-		(at 67.31 126.365 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "eef56fb5-eef2-481a-8ef6-1f5d19345155")
-	)
-	(label "Surrond Left-"
-		(at 381 88.265 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f3984cc8-1f38-4c23-a42f-e75b281d73dc")
-	)
-	(label "DAC1R+"
+	(label "DACR+"
 		(at 160.02 95.25 0)
 		(effects
 			(font
@@ -6956,7 +6506,7 @@
 		)
 		(uuid "f8a7caa1-06cc-45bf-a365-f66d2c891984")
 	)
-	(label "DACF1L-"
+	(label "DACFL-"
 		(at 175.895 62.865 0)
 		(effects
 			(font
@@ -6966,257 +6516,214 @@
 		)
 		(uuid "fcb1b4fa-25c4-410c-a421-934b4adae4f9")
 	)
-	(label "OUTL1+"
-		(at 117.475 46.355 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fd7292fb-2434-4aa4-a01e-3b6c435747ba")
-	)
-	(global_label "SCK1"
-		(shape input)
-		(at 55.88 67.945 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1b9fe5e1-9404-4140-8393-78983b0907af")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.9358 67.945 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "OSC-IOP"
-		(shape output)
-		(at 379.73 214.63 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "23fd20f3-6861-45d5-be7e-f4a3fbd119b6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 391.3029 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "{slash}FAULT1"
-		(shape output)
-		(at 335.915 150.495 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2a804c2d-0e33-4e26-aaa9-08eda7641718")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 346.9436 150.495 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BCK1"
-		(shape input)
-		(at 55.88 70.485 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3df3d3e0-392f-4362-b9c8-274caf5833f3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.8753 70.485 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DIN1"
+	(hierarchical_label "DIN"
 		(shape input)
 		(at 55.88 75.565 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "5a239778-c462-4bd8-aaa2-b1d31b9f9127")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.48 75.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+		(uuid "0645c2e6-4d46-47e6-b8cc-a586008e85b3")
 	)
-	(global_label "{slash}AMP-RESET1"
-		(shape input)
-		(at 255.905 169.545 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6fa3522d-9162-498c-ac81-e6058e98aba8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 239.2523 169.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SDA1"
+	(hierarchical_label "SDA"
 		(shape bidirectional)
 		(at 37.465 118.745 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "8796292d-140d-4163-9c79-f958f81c0255")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 28.5909 118.745 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+		(uuid "147b9a98-7aad-410b-91fd-46e5ec6fe9a4")
 	)
-	(global_label "{slash}CLIP_OTW1"
+	(hierarchical_label "OSC-IOP"
 		(shape output)
-		(at 335.915 147.955 0)
-		(fields_autoplaced yes)
+		(at 379.73 214.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "c444a32a-e152-4676-b496-49762ce3254a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 350.3302 147.955 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
+		(uuid "174313a5-c540-4020-801f-16d72a092e44")
 	)
-	(global_label "LRCK1"
-		(shape input)
-		(at 55.88 73.025 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c9f41afd-3a06-4da7-8fff-587be7dd21c7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.8472 73.025 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCL1"
+	(hierarchical_label "SCL"
 		(shape input)
 		(at 37.465 114.935 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "cc7b8a4e-fc2b-4de6-91b0-b9858a33e7fd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.7627 114.935 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+		(uuid "187a61cd-aea4-44ce-904b-4600b63cd7de")
 	)
-	(global_label "OSC-IOM"
+	(hierarchical_label "BCK"
+		(shape input)
+		(at 55.88 70.485 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1a235750-1183-4702-9637-57b3e45bb297")
+	)
+	(hierarchical_label "INPUTL+"
 		(shape output)
-		(at 379.73 217.17 0)
-		(fields_autoplaced yes)
+		(at 207.01 43.815 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e65ab938-9b1b-4544-945c-3e3ab27b73f1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 391.4843 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
+		(uuid "52a5c6e1-b978-4366-884e-53df0ba37710")
+	)
+	(hierarchical_label "INPUTR+"
+		(shape input)
+		(at 259.08 140.335 180)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify right)
 		)
+		(uuid "579073fd-c1aa-4caf-b39a-ff04fb45a281")
+	)
+	(hierarchical_label "INPUTL-"
+		(shape output)
+		(at 206.375 62.865 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6c2f0a3b-c0ee-4651-8882-7c68ac7ded62")
+	)
+	(hierarchical_label "{slash}CLIP_OTW"
+		(shape output)
+		(at 335.915 147.955 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "748bc832-ddb7-419b-8e58-a53330a2695f")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 55.88 67.945 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8899ac24-a99e-44d3-b516-4f977ef9d615")
+	)
+	(hierarchical_label "{slash}FAULT"
+		(shape output)
+		(at 335.915 150.495 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ac17b83c-4c01-4f9f-b0fa-6cb99c33f955")
+	)
+	(hierarchical_label "OSC-IOM"
+		(shape output)
+		(at 379.73 217.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ad3e5470-b62b-4e06-bab9-874a314c6788")
+	)
+	(hierarchical_label "INPUTR-"
+		(shape input)
+		(at 259.08 137.795 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b30d7c2c-9476-4386-9786-0c1a70165b85")
+	)
+	(hierarchical_label "LRCK"
+		(shape input)
+		(at 55.88 73.025 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b34ab603-2c0b-4860-bd80-ebb80e470014")
+	)
+	(hierarchical_label "INPUTL+"
+		(shape input)
+		(at 259.08 132.715 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc40d337-47db-4215-a3c0-2f0682a20212")
+	)
+	(hierarchical_label "INPUTR-"
+		(shape output)
+		(at 206.375 76.835 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d0731c15-fe9f-4c7e-800c-329334e7df0d")
+	)
+	(hierarchical_label "INPUTL-"
+		(shape input)
+		(at 259.08 135.255 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d9fe8928-f76a-4584-85cc-a9597480fabf")
+	)
+	(hierarchical_label "INPUTR+"
+		(shape output)
+		(at 206.375 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0142a0e-823b-4ae9-8131-7f5ca0e7caa5")
+	)
+	(hierarchical_label "{slash}AMP-RESET"
+		(shape input)
+		(at 255.905 169.545 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e65e8060-1ced-47ed-aa36-f8b0f7792940")
 	)
 	(netclass_flag ""
 		(length 2.54)
@@ -7258,7 +6765,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0066d314-083c-46aa-9c8b-bdefd6ceaca3")
-		(property "Reference" "#PWR0492"
+		(property "Reference" "#PWR?"
 			(at 321.31 201.93 0)
 			(effects
 				(font
@@ -7306,6 +6813,12 @@
 			(uuid "346dde40-f157-458f-9168-4e155058239a")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0492")
@@ -7323,7 +6836,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "008dfd5a-8dde-4b3c-a5e6-61179f08b48f")
-		(property "Reference" "C410"
+		(property "Reference" "C?"
 			(at 140.335 49.022 0)
 			(effects
 				(font
@@ -7373,6 +6886,12 @@
 			(uuid "3d5e6c15-fe64-4e30-ae7e-2d7ef4936512")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C410")
@@ -7390,7 +6909,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0134acfa-9186-410a-92eb-bf02cb8d6c24")
-		(property "Reference" "#PWR0539"
+		(property "Reference" "#PWR?"
 			(at 349.885 214.63 0)
 			(effects
 				(font
@@ -7438,6 +6957,12 @@
 			(uuid "654aefa5-f62f-4ce7-8815-4e5ff0de5136")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0539")
@@ -7456,7 +6981,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02eb22f7-0eab-413b-9101-b22ea2071426")
-		(property "Reference" "#PWR0443"
+		(property "Reference" "#PWR?"
 			(at 228.6 240.665 0)
 			(effects
 				(font
@@ -7504,6 +7029,12 @@
 			(uuid "0c2b0b36-232d-4837-a778-dfcfe0d94c1d")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0443")
@@ -7522,7 +7053,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "055ed33d-9444-472a-a823-66401d7b1d16")
-		(property "Reference" "C425"
+		(property "Reference" "C?"
 			(at 304.8 44.6531 0)
 			(effects
 				(font
@@ -7574,6 +7105,12 @@
 			(uuid "cc67d41f-88f0-47c1-8cac-f869b8187f88")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C425")
@@ -7591,7 +7128,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "069435f2-00b0-41cb-9604-a89800a872ef")
-		(property "Reference" "C431"
+		(property "Reference" "C?"
 			(at 266.954 179.705 90)
 			(effects
 				(font
@@ -7641,6 +7178,12 @@
 			(uuid "b30c89e7-9513-422d-b875-c8405c2af187")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C431")
@@ -7658,7 +7201,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "09429699-b13b-4a45-b457-ba7383e008d4")
-		(property "Reference" "#PWR0474"
+		(property "Reference" "#PWR?"
 			(at 53.34 50.165 0)
 			(effects
 				(font
@@ -7706,6 +7249,12 @@
 			(uuid "ab4aeb30-0b71-4b2f-bf83-ba11f9c4d08a")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0474")
@@ -7723,7 +7272,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a7a911e-7ca3-4360-9123-0cc994abb42e")
-		(property "Reference" "#PWR0470"
+		(property "Reference" "#PWR?"
 			(at 42.545 69.215 0)
 			(effects
 				(font
@@ -7771,6 +7320,12 @@
 			(uuid "6bea8312-defa-4e19-8388-ac5879146ae2")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0470")
@@ -7788,7 +7343,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0b3d7ebf-b859-4a2f-abd4-f6f1977ee377")
-		(property "Reference" "#PWR0480"
+		(property "Reference" "#PWR?"
 			(at 193.675 76.2 0)
 			(effects
 				(font
@@ -7837,6 +7392,12 @@
 			(uuid "042803ee-04a7-4e40-a863-d246b8c3a960")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0480")
@@ -7854,7 +7415,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c1e5b2a-0504-4c6a-8f47-4801100bb31f")
-		(property "Reference" "C413"
+		(property "Reference" "C?"
 			(at 198.12 45.212 0)
 			(effects
 				(font
@@ -7904,6 +7465,12 @@
 			(uuid "0ec0c405-6be5-46f0-b90b-111e45ec5dac")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C413")
@@ -7921,7 +7488,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c2923d9-c783-4c78-b843-ee9cbf9c661c")
-		(property "Reference" "C409"
+		(property "Reference" "C?"
 			(at 126.365 102.362 0)
 			(effects
 				(font
@@ -7971,6 +7538,12 @@
 			(uuid "fc4276d0-a43e-455e-8771-15f873ee9f98")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C409")
@@ -7988,7 +7561,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0d7c34f2-81a4-487e-ad08-1a3f630d0a10")
-		(property "Reference" "R422"
+		(property "Reference" "R?"
 			(at 375.666 141.605 0)
 			(effects
 				(font
@@ -8038,6 +7611,12 @@
 			(uuid "af0c8cfe-d495-4235-bd9a-02327e06a3c9")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R422")
@@ -8055,7 +7634,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1194b64f-f806-4609-aeca-662764f1627a")
-		(property "Reference" "C417"
+		(property "Reference" "C?"
 			(at 198.12 96.647 0)
 			(effects
 				(font
@@ -8105,6 +7684,12 @@
 			(uuid "892af69b-c72e-4255-ae76-c198c63b8e71")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C417")
@@ -8123,7 +7708,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12499b25-8d81-4972-8cf3-40b3f87e8be0")
-		(property "Reference" "R408"
+		(property "Reference" "R?"
 			(at 22.86 51.435 90)
 			(effects
 				(font
@@ -8173,6 +7758,12 @@
 			(uuid "5c015a71-4515-4c05-aa42-0c73b96c4723")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R408")
@@ -8190,7 +7781,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "145a24c8-0c03-40e0-849a-640506ea00ca")
-		(property "Reference" "#PWR0413"
+		(property "Reference" "#PWR?"
 			(at 349.885 189.23 0)
 			(effects
 				(font
@@ -8239,6 +7830,12 @@
 			(uuid "bfeb6246-3047-402f-b768-436c7da38844")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0413")
@@ -8256,7 +7853,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16eadc0a-282e-4d72-8d5a-3bdbd766a9b4")
-		(property "Reference" "#PWR0502"
+		(property "Reference" "#PWR?"
 			(at 379.73 131.445 0)
 			(effects
 				(font
@@ -8304,6 +7901,12 @@
 			(uuid "727bba42-02ad-41df-8b1c-d464a963faa2")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0502")
@@ -8321,7 +7924,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1812da5c-6826-466a-956f-dd442a1e7aba")
-		(property "Reference" "C401"
+		(property "Reference" "C?"
 			(at 27.305 42.418 0)
 			(effects
 				(font
@@ -8371,6 +7974,12 @@
 			(uuid "5d140bd2-6d56-4167-86d6-6eed13f8995c")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C401")
@@ -8388,7 +7997,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "192e0b10-5abc-4844-91f9-579e8c07b16b")
-		(property "Reference" "#PWR0436"
+		(property "Reference" "#PWR?"
 			(at 226.695 97.155 0)
 			(effects
 				(font
@@ -8436,6 +8045,12 @@
 			(uuid "22f40a88-5849-4b95-9015-fdfd8702f14f")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0436")
@@ -8453,7 +8068,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "19c76152-ed12-48f4-adcd-c07341a52acf")
-		(property "Reference" "C405"
+		(property "Reference" "C?"
 			(at 27.94 61.468 0)
 			(effects
 				(font
@@ -8503,6 +8118,12 @@
 			(uuid "2c3e644b-e474-485e-9f8f-058930e91fb4")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C405")
@@ -8520,7 +8141,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a237f0a-b91d-44d8-8558-5eebfbaea872")
-		(property "Reference" "C426"
+		(property "Reference" "C?"
 			(at 250.825 88.138 0)
 			(effects
 				(font
@@ -8570,6 +8191,12 @@
 			(uuid "9c116b89-44d4-447b-87bf-b48b6d844227")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C426")
@@ -8588,7 +8215,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1aedac99-3800-4f88-b7a6-0c2e8a52a289")
-		(property "Reference" "R407"
+		(property "Reference" "R?"
 			(at 63.5 95.8849 0)
 			(effects
 				(font
@@ -8640,6 +8267,12 @@
 			(uuid "8f478412-5d6f-4077-92ef-63109af7c206")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R407")
@@ -8658,7 +8291,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1be0e7dc-d0b4-4a3f-b969-8da7084e924e")
-		(property "Reference" "U403"
+		(property "Reference" "U?"
 			(at 367.665 190.5314 0)
 			(effects
 				(font
@@ -8717,6 +8350,12 @@
 			(uuid "d2dc0152-1d3a-4bb1-ba26-e4657d855f3f")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "U403")
@@ -8735,7 +8374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d5c458b-0ad6-4636-8be7-7a813ecd25f7")
-		(property "Reference" "#PWR0444"
+		(property "Reference" "#PWR?"
 			(at 238.76 240.665 0)
 			(effects
 				(font
@@ -8783,6 +8422,12 @@
 			(uuid "7da40b2d-4ed4-4470-ad13-381f98aab156")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0444")
@@ -8801,7 +8446,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1de4913f-6ba9-49a1-b3fc-1e72c1e14def")
-		(property "Reference" "U402"
+		(property "Reference" "U?"
 			(at 295.91 58.42 0)
 			(effects
 				(font
@@ -8982,6 +8627,12 @@
 			(uuid "c6d3097b-e356-4cab-b18d-85714940acd9")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "U402")
@@ -8999,7 +8650,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "211cd5f1-a963-48d2-9875-a8868fb3d9b6")
-		(property "Reference" "C408"
+		(property "Reference" "C?"
 			(at 136.525 97.282 0)
 			(effects
 				(font
@@ -9049,6 +8700,12 @@
 			(uuid "d29a5f03-285e-44be-905e-665f88400f56")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C408")
@@ -9066,7 +8723,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "24ff2d48-9590-4867-bb04-b97000965ce6")
-		(property "Reference" "C412"
+		(property "Reference" "C?"
 			(at 171.958 38.862 90)
 			(effects
 				(font
@@ -9116,6 +8773,12 @@
 			(uuid "ea8c7eb2-de7d-419c-aa8b-906021ebde58")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C412")
@@ -9133,7 +8796,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "25e3c01e-1083-4c1d-98f7-cb361065b616")
-		(property "Reference" "R413"
+		(property "Reference" "R?"
 			(at 187.96 39.751 90)
 			(effects
 				(font
@@ -9183,6 +8846,12 @@
 			(uuid "5bf7b578-59e6-457d-9ab5-d87ffc5f4317")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R413")
@@ -9200,7 +8869,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29358e56-b163-4c81-815e-5bcce1fa6b0d")
-		(property "Reference" "#PWR0475"
+		(property "Reference" "#PWR?"
 			(at 63.5 50.165 0)
 			(effects
 				(font
@@ -9248,6 +8917,12 @@
 			(uuid "b807bb88-709a-4757-bf18-c69954c30c55")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0475")
@@ -9265,7 +8940,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29fc1a92-b915-40fb-9826-d8c76af1efb4")
-		(property "Reference" "#PWR0411"
+		(property "Reference" "#PWR?"
 			(at 349.885 226.06 0)
 			(effects
 				(font
@@ -9314,6 +8989,12 @@
 			(uuid "b546243f-4bd0-419a-9781-d1ab694eb2a5")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0411")
@@ -9331,7 +9012,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2afd4d5b-af62-4f6d-8ccd-0c8cd8b8eed8")
-		(property "Reference" "C407"
+		(property "Reference" "C?"
 			(at 129.54 82.042 0)
 			(effects
 				(font
@@ -9381,6 +9062,12 @@
 			(uuid "d0b4b988-02a1-4ed7-953f-47d18d580fe1")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C407")
@@ -9398,7 +9085,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2fd65f43-e38a-4e94-be76-484a8f9f3911")
-		(property "Reference" "#PWR0402"
+		(property "Reference" "#PWR?"
 			(at 270.51 38.1 0)
 			(effects
 				(font
@@ -9446,6 +9133,12 @@
 			(uuid "29d25f68-b616-47a3-81c8-5c4565354daf")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0402")
@@ -9463,7 +9156,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30c80905-8c5d-432b-ab90-1c600515d96a")
-		(property "Reference" "C445"
+		(property "Reference" "C?"
 			(at 329.946 132.715 90)
 			(effects
 				(font
@@ -9513,6 +9206,12 @@
 			(uuid "019efe83-4dae-4a38-8c95-114bec463171")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C445")
@@ -9530,7 +9229,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "310c77c3-3220-41e9-9acb-374291fe7008")
-		(property "Reference" "#PWR0483"
+		(property "Reference" "#PWR?"
 			(at 289.56 37.465 0)
 			(effects
 				(font
@@ -9578,6 +9277,12 @@
 			(uuid "af78f5cf-e116-497e-a500-b3214e324823")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0483")
@@ -9595,7 +9300,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3470a6d3-ae4a-44e7-926c-4638dd5104a1")
-		(property "Reference" "R417"
+		(property "Reference" "R?"
 			(at 266.7 146.685 90)
 			(effects
 				(font
@@ -9645,6 +9350,12 @@
 			(uuid "931ba748-e06b-4d12-b26d-aecb58f7c05f")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R417")
@@ -9662,7 +9373,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36d3d0a4-b345-4995-ad35-1fee515027ac")
-		(property "Reference" "C428"
+		(property "Reference" "C?"
 			(at 241.935 112.268 0)
 			(effects
 				(font
@@ -9712,6 +9423,12 @@
 			(uuid "9f5c5377-da7a-40dd-888f-6d6e869348cc")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C428")
@@ -9729,7 +9446,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "372ed7b2-00cb-4b1e-9e5f-c061918fb2a2")
-		(property "Reference" "C437"
+		(property "Reference" "C?"
 			(at 375.285 71.628 0)
 			(effects
 				(font
@@ -9779,6 +9496,12 @@
 			(uuid "9b124518-6165-4ca0-b631-1b2ea31d7896")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C437")
@@ -9796,7 +9519,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c5666c2-084a-46e2-aeaa-c07d95b9a4a8")
-		(property "Reference" "#PWR0471"
+		(property "Reference" "#PWR?"
 			(at 32.385 69.215 0)
 			(effects
 				(font
@@ -9844,6 +9567,12 @@
 			(uuid "5cfbf2e0-b790-47f5-ba79-3019d8332fbb")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0471")
@@ -9861,7 +9590,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "41be10c8-4ccd-4e99-9997-814fce99fe0f")
-		(property "Reference" "C411"
+		(property "Reference" "C?"
 			(at 140.335 64.262 0)
 			(effects
 				(font
@@ -9911,6 +9640,12 @@
 			(uuid "a8398b42-fba0-4649-8a07-aa1cfbfe0539")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C411")
@@ -9928,7 +9663,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43ec593b-4fb1-4b96-9950-ced1eefbba94")
-		(property "Reference" "#PWR0408"
+		(property "Reference" "#PWR?"
 			(at 60.96 95.885 0)
 			(effects
 				(font
@@ -9976,6 +9711,12 @@
 			(uuid "1fc4598c-d9a3-4f2d-91e7-7e84d7def9d5")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0408")
@@ -9993,7 +9734,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4468f594-f82e-4359-89bf-7e7255fd45a3")
-		(property "Reference" "#PWR0485"
+		(property "Reference" "#PWR?"
 			(at 284.48 55.88 0)
 			(effects
 				(font
@@ -10041,6 +9782,12 @@
 			(uuid "73ae1d93-1eb5-4a02-a50f-96db183c6eda")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0485")
@@ -10058,7 +9805,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44f1a8aa-83c0-4e30-991d-bdbee8eff879")
-		(property "Reference" "C402"
+		(property "Reference" "C?"
 			(at 59.055 42.418 0)
 			(effects
 				(font
@@ -10108,6 +9855,12 @@
 			(uuid "6a9d6768-7894-4d5b-9ed7-d240797f8b1b")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C402")
@@ -10125,7 +9878,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48510289-9f10-47b1-9926-52b6c88fde41")
-		(property "Reference" "#PWR0482"
+		(property "Reference" "#PWR?"
 			(at 279.4 37.465 0)
 			(effects
 				(font
@@ -10173,6 +9926,12 @@
 			(uuid "2d0ade5c-074d-4216-80a2-7bf1dfa3b5c2")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0482")
@@ -10190,7 +9949,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48da811e-c376-43a7-ac6f-cbd6050db279")
-		(property "Reference" "C440"
+		(property "Reference" "C?"
 			(at 365.76 116.078 0)
 			(effects
 				(font
@@ -10240,6 +9999,12 @@
 			(uuid "77a43c9d-0104-424b-a420-c433ba2c8339")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C440")
@@ -10257,7 +10022,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49731160-18b0-4f6a-a2b3-d144340db808")
-		(property "Reference" "#PWR0522"
+		(property "Reference" "#PWR?"
 			(at 349.885 251.46 0)
 			(effects
 				(font
@@ -10305,6 +10070,12 @@
 			(uuid "bc5f8f81-5c71-4bf6-a84c-6317fd6a428a")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0522")
@@ -10322,7 +10093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b34ef3c-c8fa-48ac-a0e0-b6a01224d277")
-		(property "Reference" "C403"
+		(property "Reference" "C?"
 			(at 48.895 42.418 0)
 			(effects
 				(font
@@ -10372,6 +10143,12 @@
 			(uuid "3ee26293-5730-45fe-9d3e-faca2ca73873")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C403")
@@ -10389,7 +10166,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b4ef10e-3d4a-4817-842f-1bdb3568d6dc")
-		(property "Reference" "C434"
+		(property "Reference" "C?"
 			(at 324.866 61.595 90)
 			(effects
 				(font
@@ -10439,6 +10216,12 @@
 			(uuid "968ceef7-521f-4ec9-8a4a-fbf293d8c1e9")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C434")
@@ -10456,7 +10239,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4bb18d4f-df9c-47cf-941b-e494adda2aff")
-		(property "Reference" "#PWR0550"
+		(property "Reference" "#PWR?"
 			(at 330.835 231.14 0)
 			(effects
 				(font
@@ -10504,6 +10287,12 @@
 			(uuid "4203dc87-7eed-4343-bbae-5ec14984f05a")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0550")
@@ -10522,7 +10311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cbadb36-404f-4ffb-84d2-22eeea0522f5")
-		(property "Reference" "U404"
+		(property "Reference" "U?"
 			(at 367.665 227.3614 0)
 			(effects
 				(font
@@ -10581,6 +10370,12 @@
 			(uuid "30e25885-8269-4ffa-a500-7e18978b5271")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "U404")
@@ -10598,7 +10393,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ed27ff4-92a1-4021-8b17-2b8f84b6131d")
-		(property "Reference" "#PWR0403"
+		(property "Reference" "#PWR?"
 			(at 50.165 154.305 0)
 			(effects
 				(font
@@ -10647,6 +10442,12 @@
 			(uuid "d8fa1191-c889-463e-af11-de1ba63fbc3a")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0403")
@@ -10664,7 +10465,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4f7b38e4-c431-4798-8a18-34256da31e88")
-		(property "Reference" "C444"
+		(property "Reference" "C?"
 			(at 324.866 125.095 90)
 			(effects
 				(font
@@ -10714,6 +10515,12 @@
 			(uuid "5352046a-f0af-4586-a1b9-7d3b9fdaa3be")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C444")
@@ -10731,7 +10538,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4fca3086-0536-4e02-8414-7aa6564152f5")
-		(property "Reference" "#PWR0429"
+		(property "Reference" "#PWR?"
 			(at 302.26 42.545 0)
 			(effects
 				(font
@@ -10779,6 +10586,12 @@
 			(uuid "d960f6f2-9a81-41e7-8e14-c364d151a5b6")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0429")
@@ -10796,7 +10609,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "51300f89-352b-457f-9c20-b88dbb23c18b")
-		(property "Reference" "#PWR0407"
+		(property "Reference" "#PWR?"
 			(at 49.53 86.995 0)
 			(effects
 				(font
@@ -10844,6 +10657,12 @@
 			(uuid "88d02e3c-96d7-4b40-b3f3-37be736a9157")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0407")
@@ -10861,7 +10680,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "52c4c23f-76d4-4f7e-8a73-1b2dfb1e7440")
-		(property "Reference" "#PWR0495"
+		(property "Reference" "#PWR?"
 			(at 266.7 167.005 0)
 			(effects
 				(font
@@ -10909,6 +10728,12 @@
 			(uuid "1c7c9a22-2b13-411e-89c7-8c874e484f90")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0495")
@@ -10926,7 +10751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "532621b1-25a7-4e34-b752-5d3b3a8f72a4")
-		(property "Reference" "C447"
+		(property "Reference" "C?"
 			(at 269.875 47.625 0)
 			(effects
 				(font
@@ -10976,6 +10801,12 @@
 			(uuid "77ea2288-e0fa-4692-b7fd-209be15f7a2e")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C447")
@@ -10993,7 +10824,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "53f8d90b-1712-45de-81df-58d47ea3d696")
-		(property "Reference" "C446"
+		(property "Reference" "C?"
 			(at 333.375 166.878 0)
 			(effects
 				(font
@@ -11043,6 +10874,12 @@
 			(uuid "026ed937-5b58-4e65-ace9-6aea02da3e81")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C446")
@@ -11061,7 +10898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56e7b2d5-cacb-41ba-b6c1-85af0a9883f8")
-		(property "Reference" "#PWR0469"
+		(property "Reference" "#PWR?"
 			(at 49.53 112.395 0)
 			(effects
 				(font
@@ -11109,6 +10946,12 @@
 			(uuid "53fe9149-43cb-42e5-9f23-ac74b78e02d7")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0469")
@@ -11126,7 +10969,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5bda0a57-0460-4c1b-98fa-fd1d7d1f2018")
-		(property "Reference" "#PWR0409"
+		(property "Reference" "#PWR?"
 			(at 53.34 40.005 0)
 			(effects
 				(font
@@ -11175,6 +11018,12 @@
 			(uuid "9670d6ca-98e1-44cc-9387-675a7a22e494")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0409")
@@ -11193,7 +11042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c2556ce-af96-4e7a-a4bb-60e6f4526751")
-		(property "Reference" "J403"
+		(property "Reference" "J?"
 			(at 401.955 107.95 0)
 			(effects
 				(font
@@ -11241,6 +11090,12 @@
 			(uuid "9a8c2ab4-9ff6-4c4f-81fb-77f2281d3081")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "J?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "J403")
@@ -11258,7 +11113,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c550180-4c8a-4cbd-a418-6eb6a851efa1")
-		(property "Reference" "C420"
+		(property "Reference" "C?"
 			(at 274.955 28.448 0)
 			(effects
 				(font
@@ -11308,6 +11163,12 @@
 			(uuid "6b0b9e27-bc04-4b6b-bca1-69a9f1f8322b")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C420")
@@ -11325,7 +11186,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e2f7388-4122-4235-88b8-8e44ca0d2795")
-		(property "Reference" "C427"
+		(property "Reference" "C?"
 			(at 234.95 99.568 0)
 			(effects
 				(font
@@ -11375,6 +11236,12 @@
 			(uuid "298062f7-583c-4bcf-bd3a-79ac7e642edc")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C427")
@@ -11392,7 +11259,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "61ecd4fd-196b-40ca-af24-84021ae24021")
-		(property "Reference" "#PWR0433"
+		(property "Reference" "#PWR?"
 			(at 246.38 108.585 0)
 			(effects
 				(font
@@ -11440,6 +11307,12 @@
 			(uuid "920dda00-e113-4a10-817f-968177c957dc")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0433")
@@ -11458,7 +11331,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "620eeb8e-00e0-406d-802b-a6c124f06664")
-		(property "Reference" "R412"
+		(property "Reference" "R?"
 			(at 129.54 64.135 90)
 			(effects
 				(font
@@ -11508,6 +11381,12 @@
 			(uuid "d45ea8ef-84b3-4ff2-aeee-decd9a2e1449")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R412")
@@ -11525,7 +11404,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "643e4d4a-3cd6-44dc-929e-854380eac0f2")
-		(property "Reference" "#PWR0472"
+		(property "Reference" "#PWR?"
 			(at 31.75 50.165 0)
 			(effects
 				(font
@@ -11573,6 +11452,12 @@
 			(uuid "5545cfcc-e3b2-46f3-916c-ac6216c7fa3a")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0472")
@@ -11591,7 +11476,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "657be099-6686-4226-9151-73e42ffe83af")
-		(property "Reference" "J401"
+		(property "Reference" "J?"
 			(at 401.955 64.77 0)
 			(effects
 				(font
@@ -11639,6 +11524,12 @@
 			(uuid "35b821b6-ccb5-4e94-aa2a-dc19ed7ec87c")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "J?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "J401")
@@ -11656,7 +11547,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67358815-eac3-48a0-b00c-7929787386a7")
-		(property "Reference" "#PWR0496"
+		(property "Reference" "#PWR?"
 			(at 257.81 158.115 0)
 			(effects
 				(font
@@ -11704,6 +11595,12 @@
 			(uuid "7c993818-0540-4fec-97de-c52bc31d297d")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0496")
@@ -11721,7 +11618,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67f3e77a-35bf-49ef-bba9-776f201fbc6c")
-		(property "Reference" "#PWR0476"
+		(property "Reference" "#PWR?"
 			(at 127 113.665 0)
 			(effects
 				(font
@@ -11769,6 +11666,12 @@
 			(uuid "23063ccf-792f-4138-a8a2-735646edf873")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0476")
@@ -11787,7 +11690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68fe10df-921f-424f-82ef-59607daaa492")
-		(property "Reference" "R403"
+		(property "Reference" "R?"
 			(at 63.5 121.285 90)
 			(effects
 				(font
@@ -11837,6 +11740,12 @@
 			(uuid "413bd0a1-5fc1-482f-aa8b-b87c84a95a9b")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R403")
@@ -11854,7 +11763,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "69668f7a-3117-4fa4-a55b-cca2da857db0")
-		(property "Reference" "C406"
+		(property "Reference" "C?"
 			(at 37.465 42.418 0)
 			(effects
 				(font
@@ -11904,6 +11813,12 @@
 			(uuid "6d1a1887-b2b3-4b08-84da-d5eee38c5532")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C406")
@@ -11921,7 +11836,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6ab2b4e3-0e05-49b4-a3cf-1db3025f3cf0")
-		(property "Reference" "R415"
+		(property "Reference" "R?"
 			(at 187.96 91.186 90)
 			(effects
 				(font
@@ -11971,6 +11886,12 @@
 			(uuid "c1b9e430-07a6-44c8-9a2e-6f926bb414a5")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R415")
@@ -11988,7 +11909,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c17ce2c-2701-4bc6-abd7-e97f29c011ec")
-		(property "Reference" "#PWR0417"
+		(property "Reference" "#PWR?"
 			(at 31.75 40.005 0)
 			(effects
 				(font
@@ -12037,6 +11958,12 @@
 			(uuid "25f540e2-108e-4f7f-8fd5-133071ad8b1d")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0417")
@@ -12054,7 +11981,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6da8c4ff-55f7-4497-ac33-48648e27c462")
-		(property "Reference" "R419"
+		(property "Reference" "R?"
 			(at 375.666 75.565 0)
 			(effects
 				(font
@@ -12104,6 +12031,12 @@
 			(uuid "e890c0bf-7743-42d5-8434-d05b6ddda565")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R419")
@@ -12122,7 +12055,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6fe9b6d4-c0ba-46d1-8bab-adeb1794787f")
-		(property "Reference" "R406"
+		(property "Reference" "R?"
 			(at 52.07 84.4549 0)
 			(effects
 				(font
@@ -12174,6 +12107,12 @@
 			(uuid "b40adcdd-aa24-4f0d-9b59-56d93918273c")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R406")
@@ -12192,7 +12131,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ff64a85-5b61-4826-9998-78ee4b49f0bd")
-		(property "Reference" "#PWR0468"
+		(property "Reference" "#PWR?"
 			(at 60.96 112.395 0)
 			(effects
 				(font
@@ -12240,6 +12179,12 @@
 			(uuid "21e442f2-aefe-4e69-b7ce-4052f8e435fc")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0468")
@@ -12258,7 +12203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7102aadc-e5ef-4264-837e-2c2614125bb9")
-		(property "Reference" "R402"
+		(property "Reference" "R?"
 			(at 62.23 145.415 90)
 			(effects
 				(font
@@ -12308,6 +12253,12 @@
 			(uuid "7233c355-e63f-41fc-8ee9-5ab405d94dee")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R402")
@@ -12325,7 +12276,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "77d9a02f-0315-49ec-b000-59f424c7e487")
-		(property "Reference" "#PWR0520"
+		(property "Reference" "#PWR?"
 			(at 370.205 81.915 0)
 			(effects
 				(font
@@ -12373,6 +12324,12 @@
 			(uuid "887d45af-5abd-4346-8afb-66f20ec09e43")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0520")
@@ -12390,7 +12347,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "77f32b64-828f-457c-9782-36993884caed")
-		(property "Reference" "#PWR0503"
+		(property "Reference" "#PWR?"
 			(at 370.205 103.505 0)
 			(effects
 				(font
@@ -12438,6 +12395,12 @@
 			(uuid "5d2188cd-91b0-4cf6-85a3-aa537b77aad6")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0503")
@@ -12455,7 +12418,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7be6c99c-5488-4f62-9afd-802ad3811fa2")
-		(property "Reference" "#PWR0498"
+		(property "Reference" "#PWR?"
 			(at 379.73 153.035 0)
 			(effects
 				(font
@@ -12503,6 +12466,12 @@
 			(uuid "6321c22b-eeb0-4e7f-95d3-5c3ffaf340aa")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0498")
@@ -12521,7 +12490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c544ace-76c4-4132-ace0-01cc32cc4120")
-		(property "Reference" "R411"
+		(property "Reference" "R?"
 			(at 129.54 56.515 90)
 			(effects
 				(font
@@ -12571,6 +12540,12 @@
 			(uuid "a897ff49-e7dc-4bdd-8588-55c33cf49030")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R411")
@@ -12588,7 +12563,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7db3cc67-208c-48ab-a529-764aa0a77902")
-		(property "Reference" "#PWR0487"
+		(property "Reference" "#PWR?"
 			(at 302.26 56.515 0)
 			(effects
 				(font
@@ -12636,6 +12611,12 @@
 			(uuid "25825e2e-4fc0-402b-b315-9eafc759015a")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0487")
@@ -12653,7 +12634,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7f4d1fb8-4f1c-4a8a-8fad-3453824ce89e")
-		(property "Reference" "#PWR0478"
+		(property "Reference" "#PWR?"
 			(at 193.675 90.805 0)
 			(effects
 				(font
@@ -12701,6 +12682,12 @@
 			(uuid "7ebbc6b3-98b4-4fc3-96a0-c022de7a5c44")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0478")
@@ -12718,7 +12705,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "83e3cd09-eb93-463e-90ac-c36ad06deb73")
-		(property "Reference" "R416"
+		(property "Reference" "R?"
 			(at 187.96 72.771 90)
 			(effects
 				(font
@@ -12768,6 +12755,12 @@
 			(uuid "db95f001-59bc-4fb4-9343-ff04ae9b3da1")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R416")
@@ -12786,7 +12779,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "83f64c05-acc0-429e-9e01-a21ffb906ca5")
-		(property "Reference" "L402"
+		(property "Reference" "L?"
 			(at 360.045 74.295 0)
 			(effects
 				(font
@@ -12842,6 +12835,12 @@
 			(uuid "d286b29e-2661-4289-98f9-b7354db4cc80")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "L?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "L402")
@@ -12859,7 +12858,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "85ce5b3d-5005-4243-8d5e-8f73ea9e4b1a")
-		(property "Reference" "R420"
+		(property "Reference" "R?"
 			(at 375.666 97.155 0)
 			(effects
 				(font
@@ -12909,6 +12908,12 @@
 			(uuid "d51ae555-b282-43c5-9137-d36936d66de1")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R420")
@@ -12926,7 +12931,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "877b0b5c-8cb4-4990-a1da-ae09d38a2ff2")
-		(property "Reference" "#PWR0401"
+		(property "Reference" "#PWR?"
 			(at 274.32 56.515 0)
 			(effects
 				(font
@@ -12974,6 +12979,12 @@
 			(uuid "fb7be429-b07e-4100-a737-aa8c74a01b2d")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0401")
@@ -12991,7 +13002,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8b7834c6-6daf-403b-8145-803a9f174d30")
-		(property "Reference" "#PWR0479"
+		(property "Reference" "#PWR?"
 			(at 193.675 108.585 0)
 			(effects
 				(font
@@ -13039,6 +13050,12 @@
 			(uuid "b9821ea9-3385-4f5a-b0c5-16e1e3666e4c")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0479")
@@ -13056,7 +13073,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d08bc32-966a-4066-9fcf-e3505ca223dc")
-		(property "Reference" "C423"
+		(property "Reference" "C?"
 			(at 280.035 47.498 0)
 			(effects
 				(font
@@ -13106,6 +13123,12 @@
 			(uuid "05bb5a62-ff0f-40d8-b2ca-30194fe45d5f")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C423")
@@ -13124,7 +13147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "922a7d70-0d3a-4ea0-aaa8-74efa929c210")
-		(property "Reference" "J404"
+		(property "Reference" "J?"
 			(at 402.59 129.54 0)
 			(effects
 				(font
@@ -13172,6 +13195,12 @@
 			(uuid "231a9237-937f-41fe-9c00-c8739c8cfcaa")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "J?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "J404")
@@ -13190,7 +13219,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "93807c6b-ebfa-47f6-aa17-4dfa3f8c3744")
-		(property "Reference" "L403"
+		(property "Reference" "L?"
 			(at 360.045 118.745 0)
 			(effects
 				(font
@@ -13246,6 +13275,12 @@
 			(uuid "d6ff8119-9960-4bf9-a3f2-1915480713a8")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "L?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "L403")
@@ -13263,7 +13298,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "962ee88c-0461-4567-a97d-2bf907edf19a")
-		(property "Reference" "#PWR0521"
+		(property "Reference" "#PWR?"
 			(at 379.73 86.995 0)
 			(effects
 				(font
@@ -13311,6 +13346,12 @@
 			(uuid "27f524d5-a610-4824-8fd2-c831f682b9fd")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0521")
@@ -13328,7 +13369,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "99f40817-e639-49e7-b163-76189a1230e9")
-		(property "Reference" "#PWR0506"
+		(property "Reference" "#PWR?"
 			(at 379.73 108.585 0)
 			(effects
 				(font
@@ -13376,6 +13417,12 @@
 			(uuid "ac634489-0f4b-4825-99bb-a27884ecfee9")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0506")
@@ -13393,7 +13440,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c656bf3-1c30-4378-a999-6e43b65c352e")
-		(property "Reference" "#PWR0410"
+		(property "Reference" "#PWR?"
 			(at 228.6 230.505 0)
 			(effects
 				(font
@@ -13442,6 +13489,12 @@
 			(uuid "94210066-c1d9-4bfd-81a0-cd629bc228a1")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0410")
@@ -13459,7 +13512,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9cdf23ea-3ff1-4f88-aa04-e88b45593d2a")
-		(property "Reference" "C421"
+		(property "Reference" "C?"
 			(at 285.115 28.448 0)
 			(effects
 				(font
@@ -13509,6 +13562,12 @@
 			(uuid "af4d0607-569c-4d7e-8ec4-35abd024484a")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C421")
@@ -13526,7 +13585,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f77dd31-063c-4662-9eac-17fd447db2a0")
-		(property "Reference" "#PWR0497"
+		(property "Reference" "#PWR?"
 			(at 337.82 175.895 0)
 			(effects
 				(font
@@ -13574,6 +13633,12 @@
 			(uuid "ff056c5b-da9d-47d3-93be-697ef743f48d")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0497")
@@ -13591,7 +13656,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a2bdb34f-f8c0-46b2-a178-f6c2eb8e0a83")
-		(property "Reference" "C435"
+		(property "Reference" "C?"
 			(at 329.946 69.215 90)
 			(effects
 				(font
@@ -13641,6 +13706,12 @@
 			(uuid "fc5757bc-c892-4e55-af48-9179192ee821")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C435")
@@ -13658,7 +13729,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a48afa29-76db-4744-87ce-b0fb254c329a")
-		(property "Reference" "#PWR0404"
+		(property "Reference" "#PWR?"
 			(at 53.975 130.175 0)
 			(effects
 				(font
@@ -13706,6 +13777,12 @@
 			(uuid "86a9f5ef-32cb-49f9-8c9c-ced77d9ae31d")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0404")
@@ -13723,7 +13800,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a557bda4-3a8d-48f6-8064-5e655987c558")
-		(property "Reference" "C429"
+		(property "Reference" "C?"
 			(at 268.224 110.109 90)
 			(effects
 				(font
@@ -13773,6 +13850,12 @@
 			(uuid "9b07045c-6be4-4eeb-9157-8058b6418385")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C429")
@@ -13790,7 +13873,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a61896ef-da32-44c8-a27a-56af9bb0b2e0")
-		(property "Reference" "C416"
+		(property "Reference" "C?"
 			(at 171.958 90.297 90)
 			(effects
 				(font
@@ -13840,6 +13923,12 @@
 			(uuid "b3683cec-a1c1-466b-801e-3e3af746a2ef")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C416")
@@ -13857,7 +13946,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a64703b3-c018-4c98-9a3c-c3ea0962880f")
-		(property "Reference" "#PWR0426"
+		(property "Reference" "#PWR?"
 			(at 297.18 23.495 0)
 			(effects
 				(font
@@ -13905,6 +13994,12 @@
 			(uuid "08ef70b8-588a-4ccf-b0bd-68dcd87a66b7")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0426")
@@ -13923,7 +14018,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a79277e6-7010-4904-af34-acc4beb4e81f")
-		(property "Reference" "R410"
+		(property "Reference" "R?"
 			(at 129.54 48.895 90)
 			(effects
 				(font
@@ -13973,6 +14068,12 @@
 			(uuid "ded1e824-c66b-4bc1-a65c-e3f68345fbf3")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R410")
@@ -13990,7 +14091,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "abf217b3-0101-48da-bf40-43b33248957d")
-		(property "Reference" "#PWR0493"
+		(property "Reference" "#PWR?"
 			(at 266.7 209.55 0)
 			(effects
 				(font
@@ -14038,6 +14139,12 @@
 			(uuid "cd2b03c5-3a2f-4542-bef8-20b0448a0aa2")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0493")
@@ -14056,7 +14163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac5088a2-26c4-498c-89e5-84836dc5b02e")
-		(property "Reference" "J402"
+		(property "Reference" "J?"
 			(at 401.955 85.09 0)
 			(effects
 				(font
@@ -14104,6 +14211,12 @@
 			(uuid "2acf37cd-15ad-4830-b9b3-8f92870c9b65")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "J?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "J402")
@@ -14121,7 +14234,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "acfc5e36-dc8c-4bb8-87de-d44784ecaeeb")
-		(property "Reference" "C432"
+		(property "Reference" "C?"
 			(at 224.155 232.918 0)
 			(effects
 				(font
@@ -14171,6 +14284,12 @@
 			(uuid "1aa2303c-651d-49a1-aed8-fdaaed2c289a")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C432")
@@ -14188,7 +14307,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aea0225e-9be4-4c51-b295-7ab188bab5d1")
-		(property "Reference" "C439"
+		(property "Reference" "C?"
 			(at 375.285 93.218 0)
 			(effects
 				(font
@@ -14238,6 +14357,12 @@
 			(uuid "782b2a9e-82cd-407f-9f0a-b5f078cf00b6")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C439")
@@ -14255,7 +14380,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aff4a345-f7d7-41ed-839b-6dd5b24759a7")
-		(property "Reference" "#PWR0489"
+		(property "Reference" "#PWR?"
 			(at 246.38 122.555 0)
 			(effects
 				(font
@@ -14303,6 +14428,12 @@
 			(uuid "df744446-ec61-4095-9dd4-26189057f430")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0489")
@@ -14321,7 +14452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b02ec858-1323-4334-8237-d24d26d2894a")
-		(property "Reference" "L401"
+		(property "Reference" "L?"
 			(at 235.585 86.995 90)
 			(effects
 				(font
@@ -14371,6 +14502,12 @@
 			(uuid "317a8b2f-21e6-473c-93f8-f247c138a465")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "L?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "L401")
@@ -14388,7 +14525,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b0eeec16-7e9d-4eec-a5bf-a6a6dac09834")
-		(property "Reference" "C414"
+		(property "Reference" "C?"
 			(at 171.958 57.912 90)
 			(effects
 				(font
@@ -14438,6 +14575,12 @@
 			(uuid "434b63e1-5d66-40a4-a2a7-0c599f0a9701")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C414")
@@ -14455,7 +14598,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b173a9d9-b102-4820-8b22-08705c29a889")
-		(property "Reference" "C438"
+		(property "Reference" "C?"
 			(at 365.76 93.218 0)
 			(effects
 				(font
@@ -14505,6 +14648,12 @@
 			(uuid "346b7e96-a6cb-4cee-8692-4cac52167c57")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C438")
@@ -14522,7 +14671,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b229b337-2183-4987-886d-7cfdfca6fc8b")
-		(property "Reference" "#PWR0432"
+		(property "Reference" "#PWR?"
 			(at 255.27 86.995 0)
 			(effects
 				(font
@@ -14570,6 +14719,12 @@
 			(uuid "70875cf3-924e-415e-93ce-0ccd68d9be54")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0432")
@@ -14587,7 +14742,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6da8ac5-4c00-4e2c-83da-256ea7ebf58f")
-		(property "Reference" "#PWR0551"
+		(property "Reference" "#PWR?"
 			(at 330.835 194.31 0)
 			(effects
 				(font
@@ -14635,6 +14790,12 @@
 			(uuid "b27b1add-00fe-4977-9459-eb6a6ff7bee2")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0551")
@@ -14652,7 +14813,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6ff040c-515d-4b68-9f6a-d754a9fa8c01")
-		(property "Reference" "#PWR0490"
+		(property "Reference" "#PWR?"
 			(at 239.395 108.585 0)
 			(effects
 				(font
@@ -14700,6 +14861,12 @@
 			(uuid "2b85ea45-364a-4d65-93bb-58478ef52be7")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0490")
@@ -14717,7 +14884,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b9ba6389-f8fb-4d39-9fa9-d8a842e9c04e")
-		(property "Reference" "R421"
+		(property "Reference" "R?"
 			(at 375.666 120.015 0)
 			(effects
 				(font
@@ -14767,6 +14934,12 @@
 			(uuid "33ce5cda-cf65-49d9-b9d9-69b55e202a17")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R421")
@@ -14785,7 +14958,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba976b68-f591-40e6-ac1b-a06d3378be3b")
-		(property "Reference" "#PWR0467"
+		(property "Reference" "#PWR?"
 			(at 40.64 151.765 0)
 			(effects
 				(font
@@ -14833,6 +15006,12 @@
 			(uuid "6ce84a66-eb0d-4705-a1b5-f3de33c62824")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0467")
@@ -14850,7 +15029,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd75289e-24d7-474a-8579-0015eedebe93")
-		(property "Reference" "C442"
+		(property "Reference" "C?"
 			(at 375.285 116.078 0)
 			(effects
 				(font
@@ -14900,6 +15079,12 @@
 			(uuid "b11ea1d2-a5e6-416e-b218-bc5746fb58bd")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C442")
@@ -14917,7 +15102,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c121ccc7-36d2-4b69-9e69-c56c87fd6d74")
-		(property "Reference" "C443"
+		(property "Reference" "C?"
 			(at 375.285 137.668 0)
 			(effects
 				(font
@@ -14967,6 +15152,12 @@
 			(uuid "56995263-91f9-47fa-8c89-46b804dfea3e")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C443")
@@ -14984,7 +15175,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c17aae46-26a4-4d31-b813-aa80c8c9cd47")
-		(property "Reference" "#PWR0500"
+		(property "Reference" "#PWR?"
 			(at 370.205 126.365 0)
 			(effects
 				(font
@@ -15032,6 +15223,12 @@
 			(uuid "a2c94b07-1204-48cd-8300-dc93c3bdce87")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0500")
@@ -15049,7 +15246,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c6f885f6-d054-4a23-8e52-a7d8e0522c24")
-		(property "Reference" "#PWR0484"
+		(property "Reference" "#PWR?"
 			(at 297.18 37.465 0)
 			(effects
 				(font
@@ -15097,6 +15294,12 @@
 			(uuid "48dfa369-3ba5-4305-9222-5d3b40fa529c")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0484")
@@ -15115,7 +15318,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c85f71e3-4a08-419f-9114-aff749650d53")
-		(property "Reference" "R401"
+		(property "Reference" "R?"
 			(at 53.34 139.065 90)
 			(effects
 				(font
@@ -15165,6 +15368,12 @@
 			(uuid "42615730-a517-45cc-a829-cf5afb7d55fd")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R401")
@@ -15182,7 +15391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c87a4b32-8865-4c74-97f9-503c4d92991f")
-		(property "Reference" "C441"
+		(property "Reference" "C?"
 			(at 365.76 137.668 0)
 			(effects
 				(font
@@ -15232,6 +15441,12 @@
 			(uuid "ea5c48bc-0e56-4e4d-a6b8-1123e87ece9f")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C441")
@@ -15249,7 +15464,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c8c523c0-3467-4034-8098-5e3eaaa41e43")
-		(property "Reference" "C404"
+		(property "Reference" "C?"
 			(at 38.1 61.468 0)
 			(effects
 				(font
@@ -15299,6 +15514,12 @@
 			(uuid "c7ca3950-0778-4c7c-9097-572971237b75")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C404")
@@ -15316,7 +15537,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca58762f-246b-441c-bc92-3ff2b555a215")
-		(property "Reference" "#PWR0481"
+		(property "Reference" "#PWR?"
 			(at 193.675 57.15 0)
 			(effects
 				(font
@@ -15364,6 +15585,12 @@
 			(uuid "bed89038-6f61-4536-9e72-acdd2c8201b6")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0481")
@@ -15381,7 +15608,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cc01d36f-5556-46bc-bc12-b468a8c170e3")
-		(property "Reference" "C424"
+		(property "Reference" "C?"
 			(at 290.195 47.498 0)
 			(effects
 				(font
@@ -15431,6 +15658,12 @@
 			(uuid "7b5322ef-b4f0-4cbc-b60d-d1e111b4cd1d")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C424")
@@ -15448,7 +15681,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ccffa923-f9bc-441c-b70c-465fb4b69dcd")
-		(property "Reference" "#PWR0491"
+		(property "Reference" "#PWR?"
 			(at 255.27 98.425 0)
 			(effects
 				(font
@@ -15496,6 +15729,12 @@
 			(uuid "766e1c39-ce01-46b1-9ef6-9da9feaf591c")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0491")
@@ -15514,7 +15753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd0aa600-45f9-44b2-9200-0c01220266a5")
-		(property "Reference" "R405"
+		(property "Reference" "R?"
 			(at 52.07 98.4249 0)
 			(effects
 				(font
@@ -15566,6 +15805,12 @@
 			(uuid "e1b414f1-a46a-44cf-8199-dff3b122f9d8")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R405")
@@ -15584,7 +15829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf65ccc8-679f-44c4-89f5-9027dbf47761")
-		(property "Reference" "R409"
+		(property "Reference" "R?"
 			(at 129.54 41.275 90)
 			(effects
 				(font
@@ -15634,6 +15879,12 @@
 			(uuid "3153c23a-84a4-42dc-94ef-b9591e98cc87")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R409")
@@ -15651,7 +15902,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d03e54d3-bb8c-46a1-9839-c232449053eb")
-		(property "Reference" "#PWR0412"
+		(property "Reference" "#PWR?"
 			(at 14.605 60.325 0)
 			(effects
 				(font
@@ -15700,6 +15951,12 @@
 			(uuid "3f981b75-f28c-48f2-98ed-857b1f28335e")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0412")
@@ -15717,7 +15974,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d53d1c15-1349-43cb-90fd-d409c19136fc")
-		(property "Reference" "#PWR0477"
+		(property "Reference" "#PWR?"
 			(at 116.84 158.115 0)
 			(effects
 				(font
@@ -15765,6 +16022,12 @@
 			(uuid "f29dcb87-50a7-4455-9e7d-03bebc72d24c")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0477")
@@ -15782,7 +16045,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d9ae7884-e705-4305-8412-b0b011714d71")
-		(property "Reference" "C418"
+		(property "Reference" "C?"
 			(at 171.958 71.882 90)
 			(effects
 				(font
@@ -15832,6 +16095,12 @@
 			(uuid "88d2e29b-cad7-4090-98bd-a29db20ce1ba")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C418")
@@ -15849,7 +16118,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dbaa2b27-a6a9-4bfd-aad3-118884020fc3")
-		(property "Reference" "C448"
+		(property "Reference" "C?"
 			(at 266.065 28.448 0)
 			(effects
 				(font
@@ -15899,6 +16168,12 @@
 			(uuid "6d9570a8-8434-4a05-ae62-6e13d0ad2730")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C448")
@@ -15917,7 +16192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc2401b1-11f3-4419-b57c-4d372460fca1")
-		(property "Reference" "R404"
+		(property "Reference" "R?"
 			(at 63.5 102.2349 0)
 			(effects
 				(font
@@ -15969,6 +16244,12 @@
 			(uuid "7afa8a90-69ec-4c05-8bcc-0cc795d226c1")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R404")
@@ -15986,7 +16267,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ddc9d050-98e0-4c5e-aa0f-c7d6b9fe284c")
-		(property "Reference" "C419"
+		(property "Reference" "C?"
 			(at 198.12 78.232 0)
 			(effects
 				(font
@@ -16036,6 +16317,12 @@
 			(uuid "9bd8b015-5456-40d7-9ff7-c963c000b8fc")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C419")
@@ -16053,7 +16340,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de5bcac1-f445-4a37-9fd5-2073542eb26d")
-		(property "Reference" "R414"
+		(property "Reference" "R?"
 			(at 187.96 58.801 90)
 			(effects
 				(font
@@ -16103,6 +16390,12 @@
 			(uuid "257575fb-0b13-48df-bf0e-c77fb807d058")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R414")
@@ -16121,7 +16414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e02a0eff-23ad-44bd-a46f-498c3443559c")
-		(property "Reference" "U401"
+		(property "Reference" "U?"
 			(at 95.885 39.37 0)
 			(effects
 				(font
@@ -16264,6 +16557,12 @@
 			(uuid "33f5d60b-5dfb-43f9-b117-a44e6ed79677")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "U401")
@@ -16281,7 +16580,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e2631ad6-3151-4515-85f3-9d8827107740")
-		(property "Reference" "C433"
+		(property "Reference" "C?"
 			(at 234.315 232.918 0)
 			(effects
 				(font
@@ -16331,6 +16630,12 @@
 			(uuid "4941813e-efaa-46aa-9e8c-aa7456490404")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C433")
@@ -16348,7 +16653,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e273760e-eb13-4c08-84ec-0532db0762cc")
-		(property "Reference" "C430"
+		(property "Reference" "C?"
 			(at 270.764 116.459 90)
 			(effects
 				(font
@@ -16398,6 +16703,12 @@
 			(uuid "80b72e4b-664f-4c2a-8d15-481a35647d19")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C430")
@@ -16415,7 +16726,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e3182ad2-e010-48af-83b8-eea115994d26")
-		(property "Reference" "C436"
+		(property "Reference" "C?"
 			(at 365.76 71.628 0)
 			(effects
 				(font
@@ -16465,6 +16776,12 @@
 			(uuid "70a73dfd-e093-4e01-a5d1-9aa3948e0db6")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C436")
@@ -16482,7 +16799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e7648bd4-97d3-4818-b298-ea20bc63e40d")
-		(property "Reference" "R418"
+		(property "Reference" "R?"
 			(at 263.398 196.723 0)
 			(effects
 				(font
@@ -16532,6 +16849,12 @@
 			(uuid "9cabc731-c959-4ec8-9bf7-6baacfc522ef")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "R418")
@@ -16549,7 +16872,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e78c8cc5-2b87-4de4-8bdf-cc1e9672832c")
-		(property "Reference" "#PWR0473"
+		(property "Reference" "#PWR?"
 			(at 41.91 50.165 0)
 			(effects
 				(font
@@ -16597,6 +16920,12 @@
 			(uuid "2c551e3a-d6e8-472e-a384-9e7274d3b28f")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0473")
@@ -16614,7 +16943,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb0412b3-9b59-4f4e-a67e-f8392c741aac")
-		(property "Reference" "#PWR0494"
+		(property "Reference" "#PWR?"
 			(at 260.35 186.055 0)
 			(effects
 				(font
@@ -16662,6 +16991,12 @@
 			(uuid "94ed5f17-9d59-4da2-bc06-e991b6e1225e")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0494")
@@ -16679,7 +17014,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb2c0b77-27e7-42f3-bccd-1abc54fa96f0")
-		(property "Reference" "C415"
+		(property "Reference" "C?"
 			(at 198.12 64.262 0)
 			(effects
 				(font
@@ -16729,6 +17064,12 @@
 			(uuid "6271a8a0-f096-48bc-bb47-eb06a455698d")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "Amplificateur_Audio"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C415")
@@ -16746,7 +17087,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f4abfaaa-d49a-4baf-82e3-9cfa0466e21a")
-		(property "Reference" "#PWR0488"
+		(property "Reference" "#PWR?"
 			(at 252.73 125.73 0)
 			(effects
 				(font
@@ -16794,6 +17135,12 @@
 			(uuid "124af7e1-30fd-4345-9c04-e607ffdad0fc")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0488")
@@ -16811,7 +17158,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc29199a-249b-443d-8942-5b2a33cd9be8")
-		(property "Reference" "#PWR0499"
+		(property "Reference" "#PWR?"
 			(at 370.205 147.955 0)
 			(effects
 				(font
@@ -16859,6 +17206,12 @@
 			(uuid "2d0c9d0b-e462-4dd0-88d7-31414ad4126c")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0499")
@@ -16876,7 +17229,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fe44be54-a2f8-4c68-9748-08d9a989126e")
-		(property "Reference" "#PWR0486"
+		(property "Reference" "#PWR?"
 			(at 294.64 55.88 0)
 			(effects
 				(font
@@ -16924,6 +17277,12 @@
 			(uuid "29511b0d-4126-4920-a471-945823782aac")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI_Custom"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "#PWR0486")
@@ -16942,7 +17301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fee1c14b-191c-440c-9c4f-0b1fd4befbbf")
-		(property "Reference" "C422"
+		(property "Reference" "C?"
 			(at 299.72 25.6031 0)
 			(effects
 				(font
@@ -16994,6 +17353,12 @@
 			(uuid "fdef58fa-f8eb-4e1d-bce3-313e897f0c24")
 		)
 		(instances
+			(project "Channel_Generic"
+				(path "/79b23f6c-6bcd-4ba3-9c44-2e4cd7e83641"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "BarreDeSonTI"
 				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/2266f535-6438-4aa9-912a-4ebf19d1b357"
 					(reference "C422")
@@ -17002,4 +17367,10 @@
 			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
