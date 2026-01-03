@@ -11023,7 +11023,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0867")
 					(unit 1)
 				)
@@ -11088,7 +11088,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01226")
 					(unit 1)
 				)
@@ -11173,7 +11173,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1105")
 					(unit 2)
 				)
@@ -11258,7 +11258,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1104")
 					(unit 2)
 				)
@@ -11274,7 +11274,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "06ed6609-a377-462b-83b4-b58e7d97ade8")
-		(property "Reference" "#PWR0818"
+		(property "Reference" "#PWR0170"
 			(at 42.545 56.515 0)
 			(effects
 				(font
@@ -11323,8 +11323,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0818")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0170")
 					(unit 1)
 				)
 			)
@@ -11392,7 +11392,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1106")
 					(unit 1)
 				)
@@ -11457,7 +11457,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0869")
 					(unit 1)
 				)
@@ -11526,7 +11526,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1117")
 					(unit 1)
 				)
@@ -11593,7 +11593,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1166")
 					(unit 1)
 				)
@@ -11662,7 +11662,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1152")
 					(unit 1)
 				)
@@ -11731,7 +11731,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1119")
 					(unit 1)
 				)
@@ -11796,7 +11796,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01239")
 					(unit 1)
 				)
@@ -11865,7 +11865,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1126")
 					(unit 1)
 				)
@@ -11930,7 +11930,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01107")
 					(unit 1)
 				)
@@ -11999,7 +11999,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1148")
 					(unit 1)
 				)
@@ -12066,7 +12066,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1148")
 					(unit 1)
 				)
@@ -12135,7 +12135,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1133")
 					(unit 1)
 				)
@@ -12200,7 +12200,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0884")
 					(unit 1)
 				)
@@ -12265,7 +12265,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01106")
 					(unit 1)
 				)
@@ -12281,7 +12281,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1766da9a-5dc4-4e66-94b0-d11d6ef1053f")
-		(property "Reference" "#PWR0843"
+		(property "Reference" "#PWR0180"
 			(at 257.81 119.38 0)
 			(effects
 				(font
@@ -12330,8 +12330,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0843")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0180")
 					(unit 1)
 				)
 			)
@@ -12415,7 +12415,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1108")
 					(unit 1)
 				)
@@ -12480,7 +12480,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0871")
 					(unit 1)
 				)
@@ -12545,7 +12545,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01223")
 					(unit 1)
 				)
@@ -12561,7 +12561,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1b1bc5a1-ce2b-4afc-9b1a-7e81660ec69d")
-		(property "Reference" "#PWR0852"
+		(property "Reference" "#PWR0175"
 			(at 160.655 183.515 0)
 			(effects
 				(font
@@ -12610,8 +12610,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0852")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0175")
 					(unit 1)
 				)
 			)
@@ -12675,7 +12675,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0855")
 					(unit 1)
 				)
@@ -12740,7 +12740,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01116")
 					(unit 1)
 				)
@@ -12809,7 +12809,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1135")
 					(unit 1)
 				)
@@ -12874,7 +12874,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01205")
 					(unit 1)
 				)
@@ -12890,7 +12890,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d9dbfba-df10-4096-9cc8-3b116f5af277")
-		(property "Reference" "#PWR0848"
+		(property "Reference" "#PWR0181"
 			(at 49.53 184.785 0)
 			(effects
 				(font
@@ -12939,8 +12939,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0848")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0181")
 					(unit 1)
 				)
 			)
@@ -13006,7 +13006,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1120")
 					(unit 1)
 				)
@@ -13071,7 +13071,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0886")
 					(unit 1)
 				)
@@ -13087,7 +13087,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "22ee3033-4c3c-4641-a2ff-6f6d456cd74b")
-		(property "Reference" "#PWR0833"
+		(property "Reference" "#PWR0172"
 			(at 42.545 120.65 0)
 			(effects
 				(font
@@ -13136,8 +13136,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0833")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0172")
 					(unit 1)
 				)
 			)
@@ -13203,7 +13203,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1151")
 					(unit 1)
 				)
@@ -13270,7 +13270,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1165")
 					(unit 1)
 				)
@@ -13337,7 +13337,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1152")
 					(unit 1)
 				)
@@ -13406,7 +13406,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1138")
 					(unit 1)
 				)
@@ -13475,7 +13475,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1115")
 					(unit 1)
 				)
@@ -13544,7 +13544,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1130")
 					(unit 1)
 				)
@@ -13609,7 +13609,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0885")
 					(unit 1)
 				)
@@ -13694,7 +13694,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1109")
 					(unit 1)
 				)
@@ -13761,7 +13761,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1112")
 					(unit 1)
 				)
@@ -13828,7 +13828,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1164")
 					(unit 1)
 				)
@@ -13893,7 +13893,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0872")
 					(unit 1)
 				)
@@ -13958,7 +13958,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01236")
 					(unit 1)
 				)
@@ -14027,7 +14027,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1101")
 					(unit 1)
 				)
@@ -14096,7 +14096,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1121")
 					(unit 1)
 				)
@@ -14163,7 +14163,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1150")
 					(unit 1)
 				)
@@ -14228,7 +14228,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0879")
 					(unit 1)
 				)
@@ -14301,7 +14301,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1105")
 					(unit 1)
 				)
@@ -14366,7 +14366,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01235")
 					(unit 1)
 				)
@@ -14433,7 +14433,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1162")
 					(unit 1)
 				)
@@ -14506,7 +14506,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1102")
 					(unit 1)
 				)
@@ -14575,7 +14575,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1116")
 					(unit 1)
 				)
@@ -14640,7 +14640,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0860")
 					(unit 1)
 				)
@@ -14705,7 +14705,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01129")
 					(unit 1)
 				)
@@ -14774,7 +14774,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1128")
 					(unit 1)
 				)
@@ -14839,7 +14839,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01199")
 					(unit 1)
 				)
@@ -14855,7 +14855,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3531db89-2bab-481e-ad32-2b2995db60f4")
-		(property "Reference" "#PWR0826"
+		(property "Reference" "#PWR0164"
 			(at 236.855 56.515 0)
 			(effects
 				(font
@@ -14904,8 +14904,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0826")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0164")
 					(unit 1)
 				)
 			)
@@ -14969,7 +14969,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0882")
 					(unit 1)
 				)
@@ -15038,7 +15038,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1107")
 					(unit 1)
 				)
@@ -15107,7 +15107,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1102")
 					(unit 1)
 				)
@@ -15192,7 +15192,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1106")
 					(unit 1)
 				)
@@ -15261,7 +15261,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1154")
 					(unit 1)
 				)
@@ -15328,7 +15328,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1107")
 					(unit 1)
 				)
@@ -15393,7 +15393,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01110")
 					(unit 1)
 				)
@@ -15458,7 +15458,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01109")
 					(unit 1)
 				)
@@ -15525,7 +15525,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1158")
 					(unit 1)
 				)
@@ -15590,7 +15590,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0863")
 					(unit 1)
 				)
@@ -15606,7 +15606,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4115594e-bd4c-4ec4-bdb5-0fd242512524")
-		(property "Reference" "#PWR0821"
+		(property "Reference" "#PWR0187"
 			(at 137.16 56.515 0)
 			(effects
 				(font
@@ -15655,8 +15655,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0821")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0187")
 					(unit 1)
 				)
 			)
@@ -15724,7 +15724,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1147")
 					(unit 1)
 				)
@@ -15793,7 +15793,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1137")
 					(unit 1)
 				)
@@ -15860,7 +15860,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1163")
 					(unit 1)
 				)
@@ -15929,7 +15929,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1140")
 					(unit 1)
 				)
@@ -15995,7 +15995,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01195")
 					(unit 1)
 				)
@@ -16060,7 +16060,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0877")
 					(unit 1)
 				)
@@ -16127,7 +16127,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1144")
 					(unit 1)
 				)
@@ -16194,7 +16194,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1142")
 					(unit 1)
 				)
@@ -16263,7 +16263,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1125")
 					(unit 1)
 				)
@@ -16328,7 +16328,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01229")
 					(unit 1)
 				)
@@ -16393,7 +16393,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0857")
 					(unit 1)
 				)
@@ -16410,7 +16410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4976e1ef-c1a6-4911-a787-19f4229d4f97")
-		(property "Reference" "#PWR0817"
+		(property "Reference" "#PWR0177"
 			(at 167.005 258.445 0)
 			(effects
 				(font
@@ -16459,8 +16459,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0817")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0177")
 					(unit 1)
 				)
 			)
@@ -16528,7 +16528,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1129")
 					(unit 1)
 				)
@@ -16613,7 +16613,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1108")
 					(unit 2)
 				)
@@ -16678,7 +16678,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01114")
 					(unit 1)
 				)
@@ -16763,7 +16763,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1110")
 					(unit 1)
 				)
@@ -16832,7 +16832,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1122")
 					(unit 1)
 				)
@@ -16917,7 +16917,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1107")
 					(unit 1)
 				)
@@ -16983,7 +16983,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01194")
 					(unit 1)
 				)
@@ -17048,7 +17048,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01119")
 					(unit 1)
 				)
@@ -17117,7 +17117,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1142")
 					(unit 1)
 				)
@@ -17190,7 +17190,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1106")
 					(unit 1)
 				)
@@ -17257,7 +17257,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1128")
 					(unit 1)
 				)
@@ -17322,7 +17322,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01132")
 					(unit 1)
 				)
@@ -17389,7 +17389,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1103")
 					(unit 1)
 				)
@@ -17454,7 +17454,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01220")
 					(unit 1)
 				)
@@ -17470,7 +17470,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "571cab78-c232-4392-8d04-287b0e171843")
-		(property "Reference" "#PWR0832"
+		(property "Reference" "#PWR0161"
 			(at 356.87 55.245 0)
 			(effects
 				(font
@@ -17519,8 +17519,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0832")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -17584,7 +17584,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01115")
 					(unit 1)
 				)
@@ -17651,7 +17651,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1119")
 					(unit 1)
 				)
@@ -17718,7 +17718,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1135")
 					(unit 1)
 				)
@@ -17787,7 +17787,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1109")
 					(unit 1)
 				)
@@ -17856,7 +17856,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1122")
 					(unit 1)
 				)
@@ -17926,7 +17926,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1151")
 					(unit 1)
 				)
@@ -18011,7 +18011,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1107")
 					(unit 2)
 				)
@@ -18080,7 +18080,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1137")
 					(unit 1)
 				)
@@ -18153,7 +18153,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1109")
 					(unit 1)
 				)
@@ -18218,7 +18218,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0858")
 					(unit 1)
 				)
@@ -18283,7 +18283,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0856")
 					(unit 1)
 				)
@@ -18348,7 +18348,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01108")
 					(unit 1)
 				)
@@ -18413,7 +18413,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0883")
 					(unit 1)
 				)
@@ -18478,7 +18478,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0873")
 					(unit 1)
 				)
@@ -18543,7 +18543,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01112")
 					(unit 1)
 				)
@@ -18610,7 +18610,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1159")
 					(unit 1)
 				)
@@ -18677,7 +18677,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1153")
 					(unit 1)
 				)
@@ -18762,7 +18762,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1103")
 					(unit 2)
 				)
@@ -18827,7 +18827,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0880")
 					(unit 1)
 				)
@@ -18892,7 +18892,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01111")
 					(unit 1)
 				)
@@ -18957,7 +18957,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01217")
 					(unit 1)
 				)
@@ -19024,7 +19024,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1156")
 					(unit 1)
 				)
@@ -19097,7 +19097,7 @@
 		)
 		(instances
 			(project ""
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1101")
 					(unit 1)
 				)
@@ -19166,7 +19166,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1129")
 					(unit 1)
 				)
@@ -19235,7 +19235,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1117")
 					(unit 1)
 				)
@@ -19300,7 +19300,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01191")
 					(unit 1)
 				)
@@ -19365,7 +19365,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01128")
 					(unit 1)
 				)
@@ -19434,7 +19434,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1121")
 					(unit 1)
 				)
@@ -19501,7 +19501,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "L1101")
 					(unit 1)
 				)
@@ -19566,7 +19566,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0876")
 					(unit 1)
 				)
@@ -19635,7 +19635,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1125")
 					(unit 1)
 				)
@@ -19700,7 +19700,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0864")
 					(unit 1)
 				)
@@ -19773,7 +19773,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1104")
 					(unit 1)
 				)
@@ -19838,7 +19838,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0878")
 					(unit 1)
 				)
@@ -19903,7 +19903,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01105")
 					(unit 1)
 				)
@@ -19968,7 +19968,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01214")
 					(unit 1)
 				)
@@ -19984,7 +19984,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "755a5557-0f7d-47e4-8335-c5d0b069a834")
-		(property "Reference" "#PWR0830"
+		(property "Reference" "#PWR0162"
 			(at 335.915 56.515 0)
 			(effects
 				(font
@@ -20033,8 +20033,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0830")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0162")
 					(unit 1)
 				)
 			)
@@ -20102,7 +20102,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1133")
 					(unit 1)
 				)
@@ -20169,7 +20169,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1124")
 					(unit 1)
 				)
@@ -20234,7 +20234,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01211")
 					(unit 1)
 				)
@@ -20303,7 +20303,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1112")
 					(unit 1)
 				)
@@ -20368,7 +20368,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0870")
 					(unit 1)
 				)
@@ -20437,7 +20437,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1113")
 					(unit 1)
 				)
@@ -20506,7 +20506,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1118")
 					(unit 1)
 				)
@@ -20571,7 +20571,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01124")
 					(unit 1)
 				)
@@ -20587,7 +20587,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7fe69457-40ae-46ab-991e-d86486802a92")
-		(property "Reference" "#PWR0845"
+		(property "Reference" "#PWR0166"
 			(at 344.805 120.65 0)
 			(effects
 				(font
@@ -20636,8 +20636,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0845")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0166")
 					(unit 1)
 				)
 			)
@@ -20703,7 +20703,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1132")
 					(unit 1)
 				)
@@ -20719,7 +20719,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8381da51-7f1d-42b7-9b68-69959e111a76")
-		(property "Reference" "#PWR0844"
+		(property "Reference" "#PWR0165"
 			(at 335.915 120.65 0)
 			(effects
 				(font
@@ -20768,8 +20768,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0844")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0165")
 					(unit 1)
 				)
 			)
@@ -20853,7 +20853,7 @@
 		)
 		(instances
 			(project ""
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1101")
 					(unit 1)
 				)
@@ -20918,7 +20918,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01196")
 					(unit 1)
 				)
@@ -20987,7 +20987,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1146")
 					(unit 1)
 				)
@@ -21056,7 +21056,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1153")
 					(unit 1)
 				)
@@ -21121,7 +21121,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01127")
 					(unit 1)
 				)
@@ -21137,7 +21137,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88b6ff42-a690-4148-a004-15b1d5840527")
-		(property "Reference" "#PWR0827"
+		(property "Reference" "#PWR0163"
 			(at 245.745 56.515 0)
 			(effects
 				(font
@@ -21186,8 +21186,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0827")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0163")
 					(unit 1)
 				)
 			)
@@ -21255,7 +21255,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1108")
 					(unit 1)
 				)
@@ -21320,7 +21320,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0868")
 					(unit 1)
 				)
@@ -21389,7 +21389,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1123")
 					(unit 1)
 				)
@@ -21454,7 +21454,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01232")
 					(unit 1)
 				)
@@ -21521,7 +21521,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1160")
 					(unit 1)
 				)
@@ -21537,7 +21537,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "92ec1cce-f2d0-4ad1-9930-3b827ad48da9")
-		(property "Reference" "#PWR0849"
+		(property "Reference" "#PWR0182"
 			(at 61.595 183.515 0)
 			(effects
 				(font
@@ -21586,8 +21586,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0849")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0182")
 					(unit 1)
 				)
 			)
@@ -21653,7 +21653,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1136")
 					(unit 1)
 				)
@@ -21720,7 +21720,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1123")
 					(unit 1)
 				)
@@ -21787,7 +21787,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1139")
 					(unit 1)
 				)
@@ -21852,7 +21852,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0881")
 					(unit 1)
 				)
@@ -21917,7 +21917,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0875")
 					(unit 1)
 				)
@@ -21990,7 +21990,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1103")
 					(unit 1)
 				)
@@ -22057,7 +22057,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1131")
 					(unit 1)
 				)
@@ -22124,7 +22124,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1161")
 					(unit 1)
 				)
@@ -22209,7 +22209,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1104")
 					(unit 1)
 				)
@@ -22274,7 +22274,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0859")
 					(unit 1)
 				)
@@ -22339,7 +22339,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01202")
 					(unit 1)
 				)
@@ -22408,7 +22408,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1141")
 					(unit 1)
 				)
@@ -22473,7 +22473,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0865")
 					(unit 1)
 				)
@@ -22538,7 +22538,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0874")
 					(unit 1)
 				)
@@ -22605,7 +22605,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1116")
 					(unit 1)
 				)
@@ -22670,7 +22670,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01120")
 					(unit 1)
 				)
@@ -22743,7 +22743,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1107")
 					(unit 1)
 				)
@@ -22810,7 +22810,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1104")
 					(unit 1)
 				)
@@ -22826,7 +22826,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a464ccf9-7f7f-4437-b5ae-d9dc13d8f0ce")
-		(property "Reference" "#PWR0846"
+		(property "Reference" "#PWR0167"
 			(at 356.87 119.38 0)
 			(effects
 				(font
@@ -22875,8 +22875,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0846")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0167")
 					(unit 1)
 				)
 			)
@@ -22940,7 +22940,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01103")
 					(unit 1)
 				)
@@ -23009,7 +23009,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1134")
 					(unit 1)
 				)
@@ -23078,7 +23078,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1118")
 					(unit 1)
 				)
@@ -23147,7 +23147,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1120")
 					(unit 1)
 				)
@@ -23232,7 +23232,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1102")
 					(unit 2)
 				)
@@ -23297,7 +23297,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0888")
 					(unit 1)
 				)
@@ -23367,7 +23367,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "D1101")
 					(unit 1)
 				)
@@ -23436,7 +23436,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1134")
 					(unit 1)
 				)
@@ -23503,7 +23503,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1154")
 					(unit 1)
 				)
@@ -23519,7 +23519,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aa2e954c-4856-469f-a1cf-ea4daf93b307")
-		(property "Reference" "#PWR0831"
+		(property "Reference" "#PWR0160"
 			(at 344.805 56.515 0)
 			(effects
 				(font
@@ -23568,8 +23568,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0831")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0160")
 					(unit 1)
 				)
 			)
@@ -23641,7 +23641,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1108")
 					(unit 1)
 				)
@@ -23706,7 +23706,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0862")
 					(unit 1)
 				)
@@ -23771,7 +23771,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01130")
 					(unit 1)
 				)
@@ -23836,7 +23836,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01131")
 					(unit 1)
 				)
@@ -23852,7 +23852,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af2a3ecf-75e8-494d-9830-9f6b6a08a9f5")
-		(property "Reference" "#PWR0838"
+		(property "Reference" "#PWR0189"
 			(at 149.86 120.65 0)
 			(effects
 				(font
@@ -23901,8 +23901,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0838")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0189")
 					(unit 1)
 				)
 			)
@@ -23970,7 +23970,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1132")
 					(unit 1)
 				)
@@ -24037,7 +24037,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1108")
 					(unit 1)
 				)
@@ -24053,7 +24053,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b2ec8a0f-3b73-4a77-8eb2-b0b507947d74")
-		(property "Reference" "#PWR0819"
+		(property "Reference" "#PWR0169"
 			(at 51.435 56.515 0)
 			(effects
 				(font
@@ -24102,8 +24102,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0819")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0169")
 					(unit 1)
 				)
 			)
@@ -24171,7 +24171,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1124")
 					(unit 1)
 				)
@@ -24240,7 +24240,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1102")
 					(unit 1)
 				)
@@ -24325,7 +24325,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1102")
 					(unit 1)
 				)
@@ -24410,7 +24410,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1110")
 					(unit 2)
 				)
@@ -24495,7 +24495,7 @@
 		)
 		(instances
 			(project ""
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1101")
 					(unit 2)
 				)
@@ -24511,7 +24511,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "baa43b16-bf7b-4e46-b88a-33751d203fa0")
-		(property "Reference" "#PWR0851"
+		(property "Reference" "#PWR0176"
 			(at 148.59 184.785 0)
 			(effects
 				(font
@@ -24560,8 +24560,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0851")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0176")
 					(unit 1)
 				)
 			)
@@ -24629,7 +24629,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1113")
 					(unit 1)
 				)
@@ -24694,7 +24694,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01113")
 					(unit 1)
 				)
@@ -24759,7 +24759,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01123")
 					(unit 1)
 				)
@@ -24826,7 +24826,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1155")
 					(unit 1)
 				)
@@ -24895,7 +24895,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1111")
 					(unit 1)
 				)
@@ -24964,7 +24964,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1110")
 					(unit 1)
 				)
@@ -24980,7 +24980,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd2d9323-f4b7-4431-901b-e8d87ea3a381")
-		(property "Reference" "#PWR0850"
+		(property "Reference" "#PWR0184"
 			(at 139.7 184.785 0)
 			(effects
 				(font
@@ -25029,8 +25029,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0850")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0184")
 					(unit 1)
 				)
 			)
@@ -25096,7 +25096,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1146")
 					(unit 1)
 				)
@@ -25112,7 +25112,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "be3fc431-112f-42d9-8883-69ada230b8e3")
-		(property "Reference" "#PWR0820"
+		(property "Reference" "#PWR0171"
 			(at 63.5 55.245 0)
 			(effects
 				(font
@@ -25161,8 +25161,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0820")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0171")
 					(unit 1)
 				)
 			)
@@ -25177,7 +25177,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf5bcbd7-ac56-4f14-bdac-30012a004a60")
-		(property "Reference" "#PWR0835"
+		(property "Reference" "#PWR0174"
 			(at 63.5 119.38 0)
 			(effects
 				(font
@@ -25226,8 +25226,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0835")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0174")
 					(unit 1)
 				)
 			)
@@ -25291,7 +25291,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0861")
 					(unit 1)
 				)
@@ -25356,7 +25356,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01208")
 					(unit 1)
 				)
@@ -25372,7 +25372,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c42ca990-6f2c-4c69-9efa-8200a7af0a8c")
-		(property "Reference" "#PWR0834"
+		(property "Reference" "#PWR0173"
 			(at 51.435 120.65 0)
 			(effects
 				(font
@@ -25421,8 +25421,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0834")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0173")
 					(unit 1)
 				)
 			)
@@ -25490,7 +25490,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1101")
 					(unit 1)
 				)
@@ -25506,7 +25506,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c484dd3b-93b2-4c2c-9454-040fa4e07189")
-		(property "Reference" "#PWR0841"
+		(property "Reference" "#PWR0178"
 			(at 236.855 120.65 0)
 			(effects
 				(font
@@ -25555,8 +25555,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0841")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0178")
 					(unit 1)
 				)
 			)
@@ -25640,7 +25640,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1103")
 					(unit 1)
 				)
@@ -25709,7 +25709,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1114")
 					(unit 1)
 				)
@@ -25778,7 +25778,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1103")
 					(unit 1)
 				)
@@ -25843,7 +25843,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01104")
 					(unit 1)
 				)
@@ -25908,7 +25908,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0853")
 					(unit 1)
 				)
@@ -25973,7 +25973,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01126")
 					(unit 1)
 				)
@@ -26041,7 +26041,7 @@
 		)
 		(instances
 			(project ""
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "FB1101")
 					(unit 1)
 				)
@@ -26108,7 +26108,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1143")
 					(unit 1)
 				)
@@ -26177,7 +26177,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1127")
 					(unit 1)
 				)
@@ -26245,7 +26245,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "FB1102")
 					(unit 1)
 				)
@@ -26314,7 +26314,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1105")
 					(unit 1)
 				)
@@ -26379,7 +26379,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01121")
 					(unit 1)
 				)
@@ -26448,7 +26448,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1155")
 					(unit 1)
 				)
@@ -26533,7 +26533,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1106")
 					(unit 2)
 				)
@@ -26549,7 +26549,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d22f7527-d499-412a-970a-4305597534cd")
-		(property "Reference" "#PWR0842"
+		(property "Reference" "#PWR0179"
 			(at 245.745 120.65 0)
 			(effects
 				(font
@@ -26598,8 +26598,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0842")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0179")
 					(unit 1)
 				)
 			)
@@ -26614,7 +26614,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d29424e1-1f0a-4494-966b-2879cbdc94dd")
-		(property "Reference" "#PWR0836"
+		(property "Reference" "#PWR0190"
 			(at 140.97 120.65 0)
 			(effects
 				(font
@@ -26663,8 +26663,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0836")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0190")
 					(unit 1)
 				)
 			)
@@ -26730,7 +26730,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1140")
 					(unit 1)
 				)
@@ -26795,7 +26795,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0854")
 					(unit 1)
 				)
@@ -26811,7 +26811,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d5cbf01c-ee28-4960-9219-ff3c569897c7")
-		(property "Reference" "#PWR0824"
+		(property "Reference" "#PWR0185"
 			(at 158.115 55.245 0)
 			(effects
 				(font
@@ -26860,8 +26860,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0824")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0185")
 					(unit 1)
 				)
 			)
@@ -26929,7 +26929,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1144")
 					(unit 1)
 				)
@@ -26998,7 +26998,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1104")
 					(unit 1)
 				)
@@ -27063,7 +27063,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR0866")
 					(unit 1)
 				)
@@ -27132,7 +27132,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1143")
 					(unit 1)
 				)
@@ -27199,7 +27199,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1115")
 					(unit 1)
 				)
@@ -27264,7 +27264,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01125")
 					(unit 1)
 				)
@@ -27331,7 +27331,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1141")
 					(unit 1)
 				)
@@ -27398,7 +27398,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1145")
 					(unit 1)
 				)
@@ -27467,7 +27467,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1131")
 					(unit 1)
 				)
@@ -27483,7 +27483,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dc6e8c3e-9eeb-4bca-a42d-d28066b6a635")
-		(property "Reference" "#PWR0829"
+		(property "Reference" "#PWR0168"
 			(at 257.81 55.245 0)
 			(effects
 				(font
@@ -27532,8 +27532,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0829")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0168")
 					(unit 1)
 				)
 			)
@@ -27601,7 +27601,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1126")
 					(unit 1)
 				)
@@ -27686,7 +27686,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1109")
 					(unit 2)
 				)
@@ -27755,7 +27755,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1130")
 					(unit 1)
 				)
@@ -27824,7 +27824,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1105")
 					(unit 1)
 				)
@@ -27889,7 +27889,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01117")
 					(unit 1)
 				)
@@ -27958,7 +27958,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1106")
 					(unit 1)
 				)
@@ -28043,7 +28043,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "U1105")
 					(unit 1)
 				)
@@ -28112,7 +28112,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1136")
 					(unit 1)
 				)
@@ -28179,7 +28179,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1157")
 					(unit 1)
 				)
@@ -28246,7 +28246,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1147")
 					(unit 1)
 				)
@@ -28313,7 +28313,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1127")
 					(unit 1)
 				)
@@ -28386,7 +28386,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1110")
 					(unit 1)
 				)
@@ -28455,7 +28455,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1145")
 					(unit 1)
 				)
@@ -28471,7 +28471,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ed80fc14-66a7-4f97-bc18-d2c532baad21")
-		(property "Reference" "#PWR0822"
+		(property "Reference" "#PWR0186"
 			(at 146.05 56.515 0)
 			(effects
 				(font
@@ -28520,8 +28520,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0822")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0186")
 					(unit 1)
 				)
 			)
@@ -28585,7 +28585,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01122")
 					(unit 1)
 				)
@@ -28652,7 +28652,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1111")
 					(unit 1)
 				)
@@ -28719,7 +28719,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1149")
 					(unit 1)
 				)
@@ -28788,7 +28788,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1149")
 					(unit 1)
 				)
@@ -28857,7 +28857,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1109")
 					(unit 1)
 				)
@@ -28926,7 +28926,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1139")
 					(unit 1)
 				)
@@ -28991,7 +28991,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "#PWR01118")
 					(unit 1)
 				)
@@ -29060,7 +29060,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1110")
 					(unit 1)
 				)
@@ -29129,7 +29129,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1138")
 					(unit 1)
 				)
@@ -29196,7 +29196,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "C1167")
 					(unit 1)
 				)
@@ -29212,7 +29212,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fb9c313f-72cb-4944-b88c-b8ce0f269ed1")
-		(property "Reference" "#PWR0847"
+		(property "Reference" "#PWR0183"
 			(at 40.64 184.785 0)
 			(effects
 				(font
@@ -29261,8 +29261,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0847")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0183")
 					(unit 1)
 				)
 			)
@@ -29477,7 +29477,7 @@
 		)
 		(instances
 			(project "BarreDeSonTI"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "J1111")
 					(unit 1)
 				)
@@ -29546,7 +29546,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1150")
 					(unit 1)
 				)
@@ -29615,7 +29615,7 @@
 		)
 		(instances
 			(project "Amplificateur_Audio"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
 					(reference "R1114")
 					(unit 1)
 				)
@@ -29631,7 +29631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fede20fb-7e7b-4445-9e09-0e36e5d8238f")
-		(property "Reference" "#PWR0840"
+		(property "Reference" "#PWR0188"
 			(at 161.925 119.38 0)
 			(effects
 				(font
@@ -29680,8 +29680,8 @@
 		)
 		(instances
 			(project "BarreDeSonTI_Custom"
-				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a1c822be-ef8e-4633-a487-fe5099c066f7"
-					(reference "#PWR0840")
+				(path "/bf9cc67f-178f-4c8c-b6a6-249a1896d599/a5281765-2c63-4158-a14c-b0fe0aa4b2f0"
+					(reference "#PWR0188")
 					(unit 1)
 				)
 			)

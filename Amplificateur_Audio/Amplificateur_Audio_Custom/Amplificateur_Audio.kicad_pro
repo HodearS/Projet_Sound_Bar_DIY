@@ -1098,6 +1098,14 @@
       "Root"
     ],
     [
+      "43a90956-0d13-4fd2-b165-7117fa79ab1f",
+      "MSP43_IO"
+    ],
+    [
+      "e11843ac-6054-4ed9-a688-432c8392b70f",
+      "Clock_Drivers"
+    ],
+    [
       "16098fdf-7a4f-4178-9406-68f5e7d096b8",
       "Surround_Hierarchy"
     ],
@@ -1116,6 +1124,18 @@
     [
       "e3a62f30-8b6f-46e5-865a-5068b1ea099b",
       "Center_Hierarchy"
+    ],
+    [
+      "1fae10db-451e-4c28-babe-f368e4a2b347",
+      "Subwoofer_Channel"
+    ],
+    [
+      "410940cd-72e8-47dd-a6ad-25653235d1ea",
+      "Power_Supplies"
+    ],
+    [
+      "a5281765-2c63-4158-a14c-b0fe0aa4b2f0",
+      "Analog_Io_Board"
     ]
   ],
   "text_variables": {}
